@@ -171,3 +171,7 @@ The Malay Language Department were invited to show case our winning MOE Innergy 
 
 
 ![](/images/MalayLang5.jpeg)
+
+
+**Ujana Bahasa dan Budaya @ TWCC**  
+In celebration of Bulan Bahasa (Malay Language Month), a group of P4 and P5 students participated in the Ujana Bahasa & Budaya 2019 @ TWCC. The full day event comprises of interactive booth engagements manned by media giants like Singapore Press Holdings and Mediacorp.
