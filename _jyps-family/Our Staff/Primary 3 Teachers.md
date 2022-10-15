@@ -20,7 +20,12 @@ Primary 3 Teachers
 .tg .tg-imtz{background-color:#FFF;color:#666;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-sdzj{background-color:#FFF;color:#454545;text-align:left;vertical-align:middle}
 </style>
-<table class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 685px">
+<colgroup>
+<col style="width: 137px">
+<col style="width: 249px">
+<col style="width: 299px">
+</colgroup>
 <thead>
   <tr>
     <th class="tg-feqv" colspan="3"><span style="color:#666;background-color:#DDD"> </span>PRIMARY 3 TEACHERS</th>
