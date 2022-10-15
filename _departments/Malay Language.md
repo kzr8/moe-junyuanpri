@@ -82,3 +82,28 @@ The Mother Tongue Department organizes programmes among the different levels to 
 **P3 Cultural Camp**
 
 P3 Cultural Camp is a day camp held within curriculum hours for P3 students who are learning Malay Language. The aim of the camp is to expose students to the Malay culture by letting them participate in a wide range of cultural activities. In the process, students deepen their understanding of their own cultures through a myriad of fun and educational activities. It also enhances students’ interest in learning their Mother Tongue through participation in various activities.
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-zv4m{border-color:#ffffff;text-align:left;vertical-align:top}
+.tg .tg-8jgo{border-color:#ffffff;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-zv4m"><img src="https://junyuanpri.moe.edu.sg/qql/slot/u499/Departments/Malay%20Language/camp/20190529_085938.jpg" width="400" height="300"></th>
+    <th class="tg-zv4m"><img src="https://junyuanpri.moe.edu.sg/qql/slot/u499/Departments/Malay%20Language/camp/20190529_101201.jpg" width="400" height="300"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-8jgo"><img src="https://junyuanpri.moe.edu.sg/qql/slot/u499/Departments/Malay%20Language/camp/20190529_114231.jpg" alt="Image" width="200" height="411"></td>
+    <td class="tg-8jgo"><br><br><br><br><br><br><img src="https://junyuanpri.moe.edu.sg/qql/slot/u499/Departments/Malay%20Language/camp/20190529_114305.jpg" alt="Image" width="400" height="194"><br></td>
+  </tr>
+</tbody>
+</table>
