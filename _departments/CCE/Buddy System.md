@@ -80,3 +80,5 @@ The first few days of school can be an exciting yet daunting experience for many
   </tr>
 </tbody>
 </table>
+
+All in all, smiles and happiness were abound during the programme and friendship bonds were established between the Primary 5 ‘Big Brothers and Sisters’ and their Primary 1 counterparts.
