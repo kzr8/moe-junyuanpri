@@ -8,7 +8,7 @@ description: ""
 Information & Communications Technology
 =======================================
 
-### Vision
+##### Vision
 
   
 
@@ -16,11 +16,11 @@ Self-Directed learners, Responsible Users of Technology
 
   
 
-### Tagline
+##### Tagline
 
   
 
-### **excite.energise.empower!**
+##### **excite.energise.empower!**
 
   
 
