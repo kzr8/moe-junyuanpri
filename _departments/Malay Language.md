@@ -8,7 +8,7 @@ description: ""
 Malay Language
 ==============
 
-### Vision
+##### Vision
 
   
 
@@ -16,7 +16,7 @@ Effective and confident communicators with a love and passion for the Mother Ton
 
   
 
-### Mission
+##### Mission
 
   
 
@@ -24,7 +24,7 @@ To equip students with linguistic skills so that they are able appreciate the va
 
   
 
-### Tagline
+##### Tagline
 
   
 
@@ -36,5 +36,4 @@ The Malay Language Department adopts an integrated teaching approach, which taps
 
   
 
-Our Malay Department Programmes
--------------------------------
+### Our Malay Department Programmes
