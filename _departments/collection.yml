@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - CCE/Buddy System.md
       - CCE/Total Defence Day (TDD).md
       - CCE/International Friendship Day.md
       - CCE/Racial Harmony Day.md
