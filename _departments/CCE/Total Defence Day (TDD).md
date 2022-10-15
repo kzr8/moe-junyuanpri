@@ -8,3 +8,24 @@ third_nav_title: CCE
 
   
 # Total Defence Day (TDD)
+
+### Total Defence Day (TDD) 2022 \*NEW!\*
+
+
+Junyuan Primary School commemorates Total Defence Day annually to mark Singapore’s fall to the Japanese in 1942. Total Defence Day serves to remind our students that Singapore is defensible and is worth defending, and we ourselves must defend Singapore. This year, our school commenced the TDD commemoration with the reading of the TDD message by our Principal, Mr Chan on 15 February morning.
+
+  
+
+In the TDD 2022 message, our Minister of Defence, Mr Ng Eng Hen, strongly affirmed the importance of staying committed and united as Singaporeans to keep Singapore safe, secure and sovereign. He said, "Dealing with Covid-19 caused many social restrictions, disrupted our lives and is stressful. A strong psychological defence is necessary to maintain mental health as well as compliance with safety measures. I am glad that Singaporeans stepped up to support each other to keep morale high in solidarity." (mindef.gov.sg)
+
+  
+
+To strengthen our school’s commitment to Total Defence this year, we went virtual with some of our activities to commemorate this NE event. The students deepened their knowledge about the six pillars via the TDD Fringe activities via SLS. All students were empowered after completing these online activities, to play their roles well in all the six defenses of Total Defence in their daily lives. They were excited to be active advocate for Digital Defence in their homes and school. They were also equipped and most willing to show kindness to those around them. During recess for a week, the students were treated to a series of NEmations on the canteen TVs.
+
+  
+
+On 17 February, during the in-class Assembly, students showed great enthusiasm as they participated in the Current Affairs with Values Embedded (CAVE) discussion and the quiz that followed. Through the CAVE discussion, they were heartened to learn how they had been playing an active role in managing Covid-19 pandemic in Singapore. On that day, all students were also reminded of the importance of ‘Being Prepared for Any Emergency” through a discussion session through the SG Secure lessons and School Emergency Route Briefing.
+
+  
+
+Through these activities, students were affirmed of their commitment of practising Total Defence every day of their lives. Because only Together, We Can Keep Singapore Strong.
