@@ -60,3 +60,5 @@ They also participated in cyber-wellness case studies to learn about the importa
   
 
 Our JYPS students also demonstrated how they could play a part in Psychological Defence by making TDD Commitment Pledges to keep our nation safe and secure during their CCE lessons. They also demonstrated how they could show acts of graciousness to one another through their Kindness Mission Cards. Selected pledges are displayed on the CCE board in JYPS Village as well as in class.
+
+<figure><img src="/images/TDD8.jpeg" style="width:100%"><figcaption> Lower Primary TDD Commitment Pledge</figcaption></figure>
