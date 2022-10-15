@@ -4,3 +4,7 @@ permalink: /departments/CCE/Racial-Harmony-Day/
 description: ""
 third_nav_title: CCE
 ---
+![](/images/banner.gif)
+
+Racial Harmony Day
+==================
