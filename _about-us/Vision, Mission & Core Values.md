@@ -28,7 +28,7 @@ Nurturing Every Child in a Vibrant and Caring Environment where Talents Blossom
 
 The School Values can be easily remembered using the acronym **R 3 ICH** , which stands for:
 
-**R**espect . **R**esponsibility . **R**esilience . **I**ntegrity . **C**are . **H**armony
+##### **R** espect . **R**esponsibility . **R**esilience . **I**ntegrity . **C**are . **H**armony
 
 
 ### The Student Creed
