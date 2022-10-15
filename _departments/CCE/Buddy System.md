@@ -30,9 +30,9 @@ The first few days of school can be an exciting yet daunting experience for many
 .tg .tg-zv4m{border-color:#ffffff;text-align:left;vertical-align:top}
 .tg .tg-eo4b{border-color:#ffffff;font-style:italic;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 1120px">
+<table class="tg" style="undefined;table-layout: fixed; width: 835px">
 <colgroup>
-<col style="width: 884px">
+<col style="width: 599px">
 <col style="width: 236px">
 </colgroup>
 <thead>
@@ -80,5 +80,3 @@ The first few days of school can be an exciting yet daunting experience for many
   </tr>
 </tbody>
 </table>
-
-All in all, smiles and happiness were abound during the programme and friendship bonds were established between the Primary 5 ‘Big Brothers and Sisters’ and their Primary 1 counterparts.
