@@ -3,7 +3,7 @@ title: School Information
 permalink: /about-us/School-Information/
 description: ""
 ---
-![](/images/Banner.gif)
+![](/images/banner.gif)
 
 School Information
 ==================
