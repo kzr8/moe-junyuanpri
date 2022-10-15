@@ -35,3 +35,5 @@ Through these activities, students were affirmed of their commitment of practisi
 <figure><img src="/images/TDD2.jpeg" style="width:100%"><figcaption> I want to tell my classmates more about the 6 pillars of TDD</figcaption></figure>
 
 <figure><img src="/images/TDD3.jpeg" style="width:100%"><figcaption> Let's show our answers for the CAVE Quiz</figcaption></figure>
+
+<figure><img src="/images/TDD4.jpeg" style="width:100%"><figcaption> Our class masterpieces - TDD shields on display</figcaption></figure>
