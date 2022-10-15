@@ -29,3 +29,5 @@ Indeed, it was a special and meaningful celebration for the whole school. The to
 <figure><img src="/images/NDC1.jpeg" style="width:100%"><figcaption> Showing our respect for our country at the Observance ceremony.</figcaption></figure>
 
 <figure><img src="/images/NDC2.jpeg" style="width:100%"><figcaption> Let’s sing our hearts out for Singapore!</figcaption></figure>
+
+<figure><img src="/images/NDC3.jpeg" style="width:100%"><figcaption> Cub scouts leading the school in the Singalong session in the hall together with the MC of the concert.</figcaption></figure>
