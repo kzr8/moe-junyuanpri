@@ -82,3 +82,5 @@ As part of the fringe activities, the Singapore Police Force were invited to our
 For the very first time in Junyuan’s history, the TDD message was shared via a broadcast from Studio 91 on 15 February 2019 by our Principal, Miss Chiam. The message, from Defence Minister Ng Eng Hen, stressed that cyber-security threats and disinformation are a serious danger to Singapore, and emphasised the need to be vigilant against them. To cap the commemoration, the school was engaged in an evacuation drill to emphasis the need to be always prepared for an emergency.
 
 <figure><img src="/images/TDD10.jpeg" style="width:75%"><figcaption> We pledged to keep Singapore strong!</figcaption></figure>
+
+<figure><img src="/images/TDD11.jpeg" style="width:100%"><figcaption> The children were greatly excited at the opportunity to view a police car up close</figcaption></figure>
