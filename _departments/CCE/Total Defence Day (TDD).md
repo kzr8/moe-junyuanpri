@@ -31,3 +31,5 @@ On 17 February, during the in-class Assembly, students showed great enthusiasm a
 Through these activities, students were affirmed of their commitment of practising Total Defence every day of their lives. Because only Together, We Can Keep Singapore Strong.
 
 <figure><img src="/images/TDD1.jpeg" style="width:100%"><figcaption> Eager participants for Quiz session after TDD CAVE discussion</figcaption></figure>
+
+<figure><img src="/images/TDD2.jpeg" style="width:100%"><figcaption> I want to tell my classmates more about the 6 pillars of TDD</figcaption></figure>
