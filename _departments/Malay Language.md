@@ -68,3 +68,7 @@ Our aims are to: 
 Students attended Speech and Drama programme to learn techniques and skills necessary for effective communication. They are engaged in fun activities such as role-play, singing aloud, storytelling, and props performance. Through the programme, students could experience the joy of learning Malay Language and learn more about teamwork as they cooperate with other classmates.
 
 ![](/images/MalayLang.png)
+
+**P5 Malay Journalism Programme** 
+
+Our P5 students participated in the Malay Journalism Programme to help them understand what it takes to report on an event and to provide hands on opportunities for them to record their reporting and interviews. Through this programme, the Malay Language department hope to build confident speakers who are able to report on the happenings of an event and interview their peers. Students wrote out their reporters’ scripts in teams and brainstormed interview questions through the guidance of the instructors and teachers. They had an enriching learning experience as they reported on the P5 NE Show and interviewed their classmates.
