@@ -24,15 +24,15 @@ Rules & Regulations
 
 --------------------------------------------------------------------------------------
 
-#### TAKE CARE OF MYSELF
--------------------
+**TAKE CARE OF MYSELF**
 
-##### ATTIRE
+
+#### ATTIRE
 
 ![](/images/RR.jpeg)
 
 
-### A)  Hairstyles:
+##### A)  Hairstyles:
 
 **Boys** 
 
@@ -60,7 +60,7 @@ iv)  Dyeing of hair is not allowed.
 
   
 
-### B)  Attire:
+##### B)  Attire:
 
 i)  Pupils are to wear the prescribed school uniform and PE attire. Modification is not allowed.
 
@@ -76,7 +76,7 @@ vi)  Skirt / Short should be of knee length.
 
   
 
-### C)  Accessories :
+##### C)  Accessories :
 
 i)  Only one pair of small ear-stud/ring earrings is allowed.
 
@@ -84,7 +84,7 @@ ii)  Other forms of jewellery are not allowed.
 
   
 
-### Footwear:
+##### Footwear:
 
 i)  Pupils are to wear white school shoes with JYPS socks only.
 
@@ -94,7 +94,7 @@ iii)  Slippers or sandals are not allowed, except with valid reason(s).
 
   
 
-### EXPECTED BEHAVIOUR
+##### EXPECTED BEHAVIOUR
 
 a)  Pupils who are Singapore Citizens must sing the National Anthem and take the Pledge. Pupils will take the Pledge with the right fist placed over the heart.
 
@@ -132,19 +132,19 @@ j)  Mobile devices (e.g. handphone, smartphone, tablets) / MP3 / electronic ga
 
 k)  Chewing gum is banned.
 
-Use of School ICT Equipment
+##### Use of School ICT Equipment
 ---------------------------
 
-### **What are the ICT Equipment that the school provides for the students?**
+###### **What are the ICT Equipment that the school provides for the students?**
 
   
 
 Computing devices like laptops, desktop PCs and tablets are available for students to use on daily basis. These computing devices are used to support your learning in school and internet access allows you to share resources and interact with people from all over the world. For more details, please _**refer to page 26 of Pupils Diary 2021.**_
 
-Mobile Devices
+##### Mobile Devices
 --------------
 
-### **Can my child bring handphone to school?**  
+###### **Can my child bring handphone to school?**  
 
   
 
