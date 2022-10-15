@@ -35,4 +35,4 @@ Character & Citizenship Education
 
 ### Rationale
 
-'We want our pupils to be Leaders of Character and demonstrate our Character Values - **EnR³ICH** – **E**xcellence, **R**espect, **R**esponsibility, **R**esilience, **I**ntegrity, **C**are and **H**armony.  Pupils should also be effective in managing themselves, relationships, have self and social awareness and be able to make responsible decisions'
+##### 'We want our pupils to be Leaders of Character and demonstrate our Character Values - **EnR³ICH** – **E**xcellence, **R**espect, **R**esponsibility, **R**esilience, **I**ntegrity, **C**are and **H**armony.  Pupils should also be effective in managing themselves, relationships, have self and social awareness and be able to make responsible decisions'
