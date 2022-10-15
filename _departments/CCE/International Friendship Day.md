@@ -28,3 +28,5 @@ Our school commemorated International Friendship Day (IFD) on 8 April based on 
 On that day, the whole school enjoyed watching virtual performances by our school’s Modern Dance CCA and MIC Group. Our talents artists, through their performances, showed how vibrant our ASEAN and International communities are.
 
 <figure><img src="/images/IFD2.jpeg" style="width:100%"><figcaption> Let's dance to the beat of the music!</figcaption></figure>
+
+After watching the lively digitalised concert, the students were engaged in meaningful class’s discussion on how Singaporeans have shown kindness towards migrant workers in the midst of coping with the COVID pandemic as a nation. This was to raise awareness the contributions made by our foreign friends living and working in Singapore.
