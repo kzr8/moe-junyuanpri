@@ -52,3 +52,5 @@ To strengthen our school’s commitment to Total Defence this year, we went ‘v
 <figure><img src="/images/TDD5.jpeg" style="width:100%"><figcaption> Students watching a digitalised skit on Financial Literacy</figcaption></figure>
 
 <figure><img src="/images/TDD6.jpeg" style="width:100%"><figcaption> Students designed their own coin banks</figcaption></figure>
+
+<figure><img src="/images/TDD7.jpeg" style="width:100%"><figcaption> Students' creative coin banks</figcaption></figure>
