@@ -43,3 +43,5 @@ Indeed, it was a special and meaningful celebration for the whole school. The to
 <figure><img src="/images/NDC8.jpeg" style="width:100%"><figcaption> Sharing our very own personal experiences after video-watching.</figcaption></figure>
 
 <figure><img src="/images/NDC9.jpeg" style="width:100%"><figcaption> Lower Primary students singing and dancing in class.</figcaption></figure>
+
+<figure><img src="/images/NDC10.jpeg" style="width:100%"><figcaption> We show our commitment to make Sg a better place for all!</figcaption></figure>
