@@ -2,5 +2,6 @@ collections:
   departments:
     output: true
     order:
+      - Information & Communications Technology.md
       - Aesthetics.md
       - Media Resource Library.md
