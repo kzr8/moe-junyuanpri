@@ -54,3 +54,9 @@ To strengthen our school’s commitment to Total Defence this year, we went ‘v
 <figure><img src="/images/TDD6.jpeg" style="width:100%"><figcaption> Students designed their own coin banks</figcaption></figure>
 
 <figure><img src="/images/TDD7.jpeg" style="width:100%"><figcaption> Students' creative coin banks</figcaption></figure>
+
+They also participated in cyber-wellness case studies to learn about the importance of keeping one’s personal information safe and not fall prey to scams and fake news.  This is to emphasis that Digital Defence, the newest pillar of Total Defence, permeates every part of daily day and we should always stay vigilant to keep oneself safe online.    
+
+  
+
+Our JYPS students also demonstrated how they could play a part in Psychological Defence by making TDD Commitment Pledges to keep our nation safe and secure during their CCE lessons. They also demonstrated how they could show acts of graciousness to one another through their Kindness Mission Cards. Selected pledges are displayed on the CCE board in JYPS Village as well as in class.
