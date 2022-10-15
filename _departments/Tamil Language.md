@@ -49,3 +49,30 @@ P5           :  Tamil Language Journalism Programme 
 
 *   To encourage and enjoy communicating in Tamil.
 *   To develop confident communication through drama, songs, poetry and story telling activities.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax"><img src="https://junyuanpri.moe.edu.sg/qql/slot/u499/Departments/Tamil%20Language/P1%20SPEECH%20AND%20DRAMA.JPG" width="400" height="300"></th>
+    <th class="tg-0lax"><img src="https://junyuanpri.moe.edu.sg/qql/slot/u499/Departments/Tamil%20Language/P1%20TL%20PHONICS%20lesson.JPG" width="400" height="300"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax"><img src="https://junyuanpri.moe.edu.sg/qql/slot/u499/Departments/Tamil%20Language/P1%20TL%20SPELL%20TAC%20TOE%20%20Game.JPG" width="400" height="300"></td>
+    <td class="tg-0lax"><img src="https://junyuanpri.moe.edu.sg/qql/slot/u499/Departments/Tamil%20Language/P1-2%20SPEECH%20AND%20DRAMA.JPG" width="400" height="300"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><img src="https://junyuanpri.moe.edu.sg/qql/slot/u499/Departments/Tamil%20Language/P1-P2%20Speech%20and%20drama%203.JPG" width="400" height="300"></td>
+    <td class="tg-0lax"><img src="https://junyuanpri.moe.edu.sg/qql/slot/u499/Departments/Tamil%20Language/P2%20SPEECH%20AND%20DRAMA.JPG" width="400" height="300"></td>
+  </tr>
+</tbody>
+</table>
