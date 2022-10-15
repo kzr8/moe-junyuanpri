@@ -33,3 +33,5 @@ Indeed, it was a special and meaningful celebration for the whole school. The to
 <figure><img src="/images/NDC3.jpeg" style="width:100%"><figcaption> Cub scouts leading the school in the Singalong session in the hall together with the MC of the concert.</figcaption></figure>
 
 <figure><img src="/images/NDC4.jpeg" style="width:100%"><figcaption> Let’s dance for Singapore!</figcaption></figure>
+
+<figure><img src="/images/NDC5.jpeg" style="width:100%"><figcaption> Here’s our Lego Masterpiece!</figcaption></figure>
