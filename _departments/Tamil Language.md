@@ -85,3 +85,51 @@ P5           :  Tamil Language Journalism Programme 
 
 
 ![](/images/TamilLang.png)
+
+
+**P5  Tamil Language Journalism Programme** 
+
+*   The aim of this workshop is to improve pupils writing and presentation skills. Using the Tamil Language in a fun and non-threatening environment will help to boost pupils’ confidence. From the feedback gained from pupils, it was evident that they enjoyed the workshop and had fun using the language as a means of communication. 
+
+  
+
+**P3 – P6 Mother-Tongue Fortnight**
+
+This is an initiative by MOE which aims to immerse pupils in various activities related to the Tamil Language. It aims to provide authentic opportunities for pupils to use Tamil Language and experience the associated culture.
+
+![](/images/TamilLang1.jpeg)
+
+**P3 Cultural Camp**
+
+P3 Cultural Camp is a two-day camp held annually for P3 pupils. The aim of the camp is to expose students to wide range of cultural activities, such as performances and  traditional games.
+
+In the process, pupils deepen their understanding of their own cultures through a myriad of fun and educational activities. It also enhances pupils’ interest in learning their Mother Tongue through participation in various activities.
+
+  
+
+**P4 – P6 : Festive Arts Theatre**
+
+                Shadow play \`Irulin Oli\` – \`இருளின் ஒளி\` 
+
+*   Appreciate  Tamil culture and develop an interest in telling stories with the shadow puppets.
+*   Learn the Singapore stories.
+
+![](/images/TamilLang2.jpeg)
+
+**P5 /P6 : Creative Drama** 
+
+*   to build confidence and improve articulation and stage presence and acting skills.
+*   to improve their acting, language and communication skills and develop their creativity in a fun way.
+
+  
+
+From the feedback gained from pupils, students improved their acting, language and communication skills, and develop creativity in a fun way.
+
+  
+
+### **ACHIEVEMENTS**  
+  
+Tamil language Competitions organised by GRC IAEC Tampines Central CC  
+
+*   Aims to showcase students command in Tamil language.
+*   Provides opportunities for students to express their flair for the language.
