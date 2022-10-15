@@ -50,3 +50,5 @@ _“In many years past, we commemorated Total Defence more as a concept and exho
 To strengthen our school’s commitment to Total Defence this year, we went ‘virtual’ to commemorate this NE event. Through a digitalised skit on Financial Literacy during Mass Assembly on 18 February, P3 to P6 students got to develop their Economical Defence by learning the importance of spending wisely and saving for a rainy day, while P1 and P2 students made their own coin banks to inculcate the habit of saving.
 
 <figure><img src="/images/TDD5.jpeg" style="width:100%"><figcaption> Students watching a digitalised skit on Financial Literacy</figcaption></figure>
+
+<figure><img src="/images/TDD6.jpeg" style="width:100%"><figcaption> Students designed their own coin banks</figcaption></figure>
