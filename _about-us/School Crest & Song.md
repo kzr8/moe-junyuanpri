@@ -5,3 +5,5 @@ description: ""
 ---
 School Crest & Song
 ===================
+
+![](/images/Logo.png)
