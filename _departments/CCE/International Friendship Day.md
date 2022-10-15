@@ -51,3 +51,5 @@ Last but not least, the students enjoyed a mass assembly concert which started o
 <figure><img src="/images/IFD6.jpeg" style="width:100%"><figcaption> "Let's join in the fun at Junyuan Village Thai Line Dance booth."</figcaption></figure>
 
 <figure><img src="/images/IFD7.jpeg" style="width:100%"><figcaption> "Let's take the challenge by taking part in the IFD online quiz."</figcaption></figure>
+
+<figure><img src="/images/IFD8.jpeg" style="width:100%"><figcaption> "Wow! Look at how I have adorned myself with the Thai traditional costume."</figcaption></figure>
