@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School and Recess Hours.md
       - School Gates Opening Hours & Dismissal.md
       - Rules & Regulations.md
       - Contact Us.md
