@@ -146,3 +146,25 @@ The CCM programme teaches the students languages other than their mother tongues
 **MOE Excel Fest 2019**  
 The Malay Language Department were invited to show case our winning MOE Innergy (Schools) Award 2018 - Enhancing Teachers Engagement and Students’ Thinking in Malay Language through Visible Thinking Routines (VTR) at the MOE ExCEL Fest 2019 on 28 to 29 May.
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-zv4m{border-color:#ffffff;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-zv4m"><img src="https://junyuanpri.moe.edu.sg/qql/slot/u499/Departments/Malay%20Language/excel%20fest/WhatsApp%20Image%202019-11-18%20at%2011.20.37%20(6).jpeg" alt="Image" width="400" height="194"></th>
+    <th class="tg-zv4m"><img src="https://junyuanpri.moe.edu.sg/qql/slot/u499/Departments/Malay%20Language/excel%20fest/WhatsApp%20Image%202019-11-18%20at%2011.20.37%20(7).jpeg" alt="Image" width="400" height="194"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-zv4m"><img src="https://junyuanpri.moe.edu.sg/qql/slot/u499/Departments/Malay%20Language/excel%20fest/WhatsApp%20Image%202019-11-18%20at%2011.20.37%20(9).jpeg" alt="Image" width="400" height="194"></td>
+    <td class="tg-zv4m"><img src="https://junyuanpri.moe.edu.sg/qql/slot/u499/Departments/Malay%20Language/excel%20fest/WhatsApp%20Image%202019-11-18%20at%2011.20.37%20(10).jpeg" alt="Image" width="400" height="194"></td>
+  </tr>
+</tbody>
+</table>
