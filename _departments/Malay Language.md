@@ -107,3 +107,13 @@ P3 Cultural Camp is a day camp held within curriculum hours for P3 students who 
   </tr>
 </tbody>
 </table>
+
+**P4 – P6 Mother-Tongue Fortnight Programme**
+
+The Mother Tongue Fortnight Programme is an initiative by MOE, which aims to immerse students in various activities related to the Malay Language. It aims to provide authentic opportunities for students to use Malay Language and experience the associated culture.
+
+  
+
+The MTL Fortnight Programme allows students to learn Malay Language through activities and games. They have the chance to enjoy the language in a different way. A wide range of activities related to Malay language and culture are be conducted for the Malay Language students in the programme.
+
+![](/images/MalayLang2.png)
