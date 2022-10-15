@@ -123,3 +123,5 @@ The MTL Fortnight Programme allows students to learn Malay Language through acti
 **Awang Batil @ Teater Kami**
 
 The objective of the Cultural Programme Exposure Fund Scheme is to enhance students' interest in Malay Language and Culture through attendance at Malay cultural performances at public performing arts venues. Through this initiative, the students will have expanded opportunities in enjoying theatre experience and fostering a lifelong theatre patronage to cultural performances. In the process, we also hope that they will learn and appreciate the beauty of the Malay Language and culture.
+
+![](/images/MalayLang3.png)
