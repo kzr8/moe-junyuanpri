@@ -30,3 +30,5 @@ On that day, the whole school enjoyed watching virtual performances by our scho
 <figure><img src="/images/IFD2.jpeg" style="width:100%"><figcaption> Let's dance to the beat of the music!</figcaption></figure>
 
 After watching the lively digitalised concert, the students were engaged in meaningful class’s discussion on how Singaporeans have shown kindness towards migrant workers in the midst of coping with the COVID pandemic as a nation. This was to raise awareness the contributions made by our foreign friends living and working in Singapore.
+
+<figure><img src="/images/IFD3.jpeg" style="width:100%"><figcaption> Active participation on the special Current Affairs with Values Embedded (CAVE) lesson discussion on showing kindness to our migrant workers.</figcaption></figure>
