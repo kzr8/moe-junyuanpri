@@ -41,3 +41,5 @@ Indeed, it was a special and meaningful celebration for the whole school. The to
 <figure><img src="/images/NDC7.jpeg" style="width:100%"><figcaption> Celebrating social cohesiveness with our clay project – Local Food of Singapore</figcaption></figure>
 
 <figure><img src="/images/NDC8.jpeg" style="width:100%"><figcaption> Sharing our very own personal experiences after video-watching.</figcaption></figure>
+
+<figure><img src="/images/NDC9.jpeg" style="width:100%"><figcaption> Lower Primary students singing and dancing in class.</figcaption></figure>
