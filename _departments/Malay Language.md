@@ -184,3 +184,50 @@ Muhammad Anas Uzairyll and Syadiyah Adriana were appointed to be Rakan Bahasa 20
   
 **National Malay Writing Competition 2019**  
 The National Malay Writing Competition aims to nurture budding young writers. The competition encourages young writers improve their writing craft and enhance their literary understanding, thus providing a platform for like-minded students who are passionate about writing to meet and mutually develop their interests.
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-sdzj{background-color:#FFF;color:#454545;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-sdzj">Muhammad Hariz Martin<br></th>
+    <th class="tg-sdzj">Gold Finalist </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-sdzj">Nabilah Aisyah</td>
+    <td class="tg-sdzj">Gold </td>
+  </tr>
+  <tr>
+    <td class="tg-sdzj">Shakira Falisha</td>
+    <td class="tg-sdzj">Silver </td>
+  </tr>
+  <tr>
+    <td class="tg-sdzj">Nurdarwisyah</td>
+    <td class="tg-sdzj">Silver </td>
+  </tr>
+  <tr>
+    <td class="tg-sdzj"> Nurnella Deluna</td>
+    <td class="tg-sdzj">Bronze </td>
+  </tr>
+  <tr>
+    <td class="tg-sdzj">Ayra Putri</td>
+    <td class="tg-sdzj"> Bronze</td>
+  </tr>
+</tbody>
+</table>
+
+
+### USEFUL MALAY LANGUAGE DIGITAL LEARNING RESOURCES
+
+
+
+  
