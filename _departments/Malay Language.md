@@ -175,3 +175,12 @@ The Malay Language Department were invited to show case our winning MOE Innergy 
 
 **Ujana Bahasa dan Budaya @ TWCC**  
 In celebration of Bulan Bahasa (Malay Language Month), a group of P4 and P5 students participated in the Ujana Bahasa & Budaya 2019 @ TWCC. The full day event comprises of interactive booth engagements manned by media giants like Singapore Press Holdings and Mediacorp.
+
+![](/images/MalayLang6.png)
+
+**Rakan Bahasa @ JYPS**  
+As part of Bulan Bahasa, the Rakan Bahasa initiative is organised by the Malay Language Council to encourage students who are passionate about the Malay Language and culture, to spread the love of the language to their peers, friends and families.  
+Muhammad Anas Uzairyll and Syadiyah Adriana were appointed to be Rakan Bahasa 2019. Apart from being role models, they had to complete Kembara Rakan Bahasa, a mission card where they had to complete tasks that tested their language proficiency and skills such as speaking and writing skills. They also took part in Newsmaker Competition where they had to record themselves presenting on artefacts found in Malay Heritage Centre by using an app.  
+  
+**National Malay Writing Competition 2019**  
+The National Malay Writing Competition aims to nurture budding young writers. The competition encourages young writers improve their writing craft and enhance their literary understanding, thus providing a platform for like-minded students who are passionate about writing to meet and mutually develop their interests.
