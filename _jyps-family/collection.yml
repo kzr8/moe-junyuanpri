@@ -2,6 +2,7 @@ collections:
   jyps-family:
     output: true
     order:
+      - Our Staff/Teacher Leaders.md
       - Our Staff/Primary 1 Teachers.md
       - Our Staff/Primary 2 Teachers.md
       - Our Staff/Primary 3 Teachers.md
