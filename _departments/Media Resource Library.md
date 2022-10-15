@@ -53,3 +53,6 @@ May borrow the books for 14 days (including weekends).
 May use either EZ-link card OR Pupil Handbook to borrow books.
 
 Will not be allowed to borrow if there is any overdue book.
+
+-----
+
