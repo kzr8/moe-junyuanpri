@@ -88,3 +88,5 @@ For the very first time in Junyuan’s history, the TDD message was shared via a
 <figure><img src="/images/TDD12.jpeg" style="width:100%"><figcaption> Let's experience what it is like to put on a bullet-proof vest and protective helmet!</figcaption></figure>
 
 <figure><img src="/images/TDD13.jpeg" style="width:100%"><figcaption> The pupils learnt about the 5 Pillars of Total Defence and how to use a bandage correctly.</figcaption></figure>
+
+<figure><img src="/images/TDD14.jpeg" style="width:100%"><figcaption> A treat to an animated Storytelling session during recess.</figcaption></figure>
