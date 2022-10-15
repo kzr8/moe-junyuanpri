@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Title
+title: Junyan Primary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
@@ -29,4 +29,5 @@ sections:
       button: Button text
       url: /faq/
 ---
+
 
