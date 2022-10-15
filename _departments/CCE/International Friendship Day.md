@@ -47,3 +47,5 @@ Fringe activities to foster understanding and appreciation of the cultures of ou
 Last but not least, the students enjoyed a mass assembly concert which started off with a skit based on the book “Crow Boy” written by Taro Yashima which promotes the value of inclusivity among diversity. It spoke about the importance of respecting and accepting the differences amongst us. This value is reinforced through the fringe activity of Inclusivity Booth which promotes the awareness that each student is unique and has different needs and abilities. The concert ended with the singing of folk songs from ASEAN and an energetic performance from International Dance CCA group.
 
 <figure><img src="/images/IFD5.png" style="width:100%"><figcaption> "Let's play Bamboo Jack, throw the ball upwards and quickly pick up a chopstick before you catch the same ball."</figcaption></figure>
+
+<figure><img src="/images/IFD6.jpeg" style="width:100%"><figcaption> "Let's join in the fun at Junyuan Village Thai Line Dance booth."</figcaption></figure>
