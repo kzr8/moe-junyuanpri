@@ -168,3 +168,6 @@ The Malay Language Department were invited to show case our winning MOE Innergy 
   </tr>
 </tbody>
 </table>
+
+
+![](/images/MalayLang5.jpeg)
