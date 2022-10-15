@@ -3,3 +3,65 @@ title: Chinese Language
 permalink: /departments/Chinese-Language/
 description: ""
 ---
+![](/images/banner.gif)
+
+Chinese Language
+================
+
+##### Vision  
+
+  
+
+Effective and confident communicators with a love and passion for the Mother Tongue language and culture.
+
+  
+
+##### Mission
+
+  
+
+To equip our pupils with linguistic skills so that they are able to imbibe values and appreciate accumulated knowledge and wisdom contained in our cultural heritage.
+
+  
+
+##### Tagline
+
+  
+
+乐学善用 Joyful Learners, Proficient Users. 
+
+  
+
+The Chinese Language Department adopts an integrated teaching approach, which taps on various resources to help students read, write and communicate effectively in the Chinese Language. We hope to make Chinese Language learning an enjoyable experience so that students will develop an abiding interest in learning Chinese Language, and continue to use it in their daily lives.
+
+
+### CHINESE LANGUAGE PROGRAMMES
+
+**Mother Tongue ALP Programme – Confident Communication using Chinese Language**
+
+The Applied Learning Programme (ALP) on Confident Communication helps students appreciate the relevance and value of what they are learning in their Chinese Language lessons and speak the Chinese Language confidently.
+
+  
+
+At Junyuan Primary, ALP Programmes for Confident Communication using Chinese Language consist of:
+
+*   P1 Speech and Drama Programme
+*   P2 Speech and Drama Programme & Learning Journey
+*   P3 Chinese Storytelling via Moo-O (ICT platform)
+*   P4 Presentation Skills in Chinese Language
+*   P5 Chinese Language Journalism Programme 
+
+  
+
+**P1 and P2 Speech and Drama 讲述与演艺班**
+
+Our department aims to nurture students to be confident communicators to help them acquire the skills and dispositions required for the 21st century. 
+
+Our aims are to: 
+
+*   Develop confidence communication through drama, songs, Chinese poetry recitation and storytelling activities.
+*   Improve socialization and oral communication skills via conversation and role-play. 
+*   Raise social awareness and encourage collaboration learning with others through group performance on stage. 
+
+
+Students attended Speech and Drama programme to learn techniques and skills necessary for effective communication. They are engaged in fun activities such as role-play, singing aloud, storytelling, and props performance. Through the programme, students could experience the joy of learning Chinese Language and learn more about teamwork as they cooperate with other classmates.
