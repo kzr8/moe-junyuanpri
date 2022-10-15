@@ -28,3 +28,5 @@ Rules & Regulations
 -------------------
 
 ##### ATTIRE
+
+![](/images/RR.jpeg)
