@@ -92,3 +92,5 @@ For the very first time in Junyuan’s history, the TDD message was shared via a
 <figure><img src="/images/TDD14.jpeg" style="width:100%"><figcaption> A treat to an animated Storytelling session during recess.</figcaption></figure>
 
 <figure><img src="/images/TDD15.jpeg" style="width:100%"><figcaption> Our dreams will help us to keep Singapore Strong!</figcaption></figure>
+
+<figure><img src="/images/TDD16.jpeg" style="width:100%"><figcaption> Parents from the PSG trying out the Defence Heroes costumes!</figcaption></figure>
