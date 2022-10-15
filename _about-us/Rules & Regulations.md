@@ -24,7 +24,7 @@ Rules & Regulations
 
 --------------------------------------------------------------------------------------
 
-TAKE CARE OF MYSELF
+#### TAKE CARE OF MYSELF
 -------------------
 
-### ATTIRE
+##### ATTIRE
