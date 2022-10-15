@@ -27,3 +27,5 @@ After the concert segment, all levels were engaged in differential Art & Craft a
 Indeed, it was a special and meaningful celebration for the whole school. The togetherness shown by all the participants, both in the school hall and classrooms, embodied the theme for this year National Day “Stronger Together, Majulah!”
 
 <figure><img src="/images/NDC1.jpeg" style="width:100%"><figcaption> Showing our respect for our country at the Observance ceremony.</figcaption></figure>
+
+<figure><img src="/images/NDC2.jpeg" style="width:100%"><figcaption> Let’s sing our hearts out for Singapore!</figcaption></figure>
