@@ -19,11 +19,11 @@ Primary 2 Teachers
 .tg .tg-imtz{background-color:#FFF;color:#666;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-sdzj{background-color:#FFF;color:#454545;text-align:left;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 526px">
+<table class="tg" style="undefined;table-layout: fixed; width: 734px">
 <colgroup>
 <col style="width: 146px">
-<col style="width: 190px">
-<col style="width: 190px">
+<col style="width: 316px">
+<col style="width: 272px">
 </colgroup>
 <thead>
   <tr>
