@@ -4,6 +4,8 @@ permalink: /jyps-family/Our-Staff/Primary-6-Teachers/
 description: ""
 third_nav_title: Our Staff
 ---
+![](/images/banner.gif)
+
 Primary 6 Teachers
 ==================
 
