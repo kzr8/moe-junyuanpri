@@ -18,3 +18,5 @@ To entrench the shared values of diversity and inclusivity, our students watched
   
 
 On the last day of the fringe activities, students from Suzhou, who were in our school for a school immersion, also participated in the traditional games. While immersed in playing the games such as _congkak_ with their P5 buddies, they marvelled at how JYPS students from different ethnic groups played happily with one another at the various games booths. Indeed, we are glad we are able to share with them our Singapore Spirit and the JYPS’s spirit of “We are One”.
+
+![](/images/RHD1.png)
