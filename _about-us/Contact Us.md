@@ -21,4 +21,4 @@ Closed on Sat, Sun and Public Holidays 
 Address: 2 Tampines Street 91 Singapore 528906   
 Tel: 6783 0375   
 Fax: 6788 7395   
-Email: junyuan\_ps@moe.edu.sg
+Email: junyuan_ps@moe.edu.sg
