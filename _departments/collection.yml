@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Malay Language.md
       - Tamil Language.md
       - CCE/Character & Citizenship Education.md
       - CCE/Buddy System.md
