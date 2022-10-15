@@ -2,4 +2,5 @@ collections:
   jyps-family:
     output: true
     order:
+      - Our Staff/EAS & Support Staff.md
       - Our Staff/.keep
