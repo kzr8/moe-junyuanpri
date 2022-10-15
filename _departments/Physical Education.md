@@ -68,3 +68,14 @@ Primary 3 & Primary 4 lessons extend onto the mastery of discrete skills to focu
   </tr>
 </tbody>
 </table>
+
+
+The Primary 5 and 6 lessons focus on the development of games-related concepts through modified games. Both fundamental and specialised skills and movement concepts are required in playing these games. Games can be categorised into the following categories:
+
+  
+
+  
+
+*   Net-barrier
+*   Striking-fielding
+*   Territorial-invasion
