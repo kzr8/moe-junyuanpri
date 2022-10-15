@@ -117,3 +117,9 @@ The Mother Tongue Fortnight Programme is an initiative by MOE, which aims to imm
 The MTL Fortnight Programme allows students to learn Malay Language through activities and games. They have the chance to enjoy the language in a different way. A wide range of activities related to Malay language and culture are be conducted for the Malay Language students in the programme.
 
 ![](/images/MalayLang2.png)
+
+**MLLPC Cultural Programme Exposure Fund Scheme (CPEF)**
+
+**Awang Batil @ Teater Kami**
+
+The objective of the Cultural Programme Exposure Fund Scheme is to enhance students' interest in Malay Language and Culture through attendance at Malay cultural performances at public performing arts venues. Through this initiative, the students will have expanded opportunities in enjoying theatre experience and fostering a lifelong theatre patronage to cultural performances. In the process, we also hope that they will learn and appreciate the beauty of the Malay Language and culture.
