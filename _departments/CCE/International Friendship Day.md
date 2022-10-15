@@ -49,3 +49,5 @@ Last but not least, the students enjoyed a mass assembly concert which started o
 <figure><img src="/images/IFD5.png" style="width:100%"><figcaption> "Let's play Bamboo Jack, throw the ball upwards and quickly pick up a chopstick before you catch the same ball."</figcaption></figure>
 
 <figure><img src="/images/IFD6.jpeg" style="width:100%"><figcaption> "Let's join in the fun at Junyuan Village Thai Line Dance booth."</figcaption></figure>
+
+<figure><img src="/images/IFD7.jpeg" style="width:100%"><figcaption> "Let's take the challenge by taking part in the IFD online quiz."</figcaption></figure>
