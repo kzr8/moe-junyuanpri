@@ -55,3 +55,7 @@ School and Recess Hours
   </tr>
 </tbody>
 </table>
+
+\*   Pending national posture and Covid situation, staggered dismissal might be implemented in 2021. More details to be released through Parents’ Gateway before school re-opens.  
+
+\*\* For selected students only.  Parents will be notified by Term 1 Week 3 if their child has been selected for the remediation programme.
