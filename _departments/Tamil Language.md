@@ -8,15 +8,15 @@ description: ""
 Tamil Language
 ==============
 
-**Vision**  
+##### **Vision**  
   
 Every child to take pride of their culture and to be confident and competent users of the Tamil Language  
   
-**Mission**  
+##### **Mission**  
   
 To develop the joy of learning the Tamil Language so as to equip the students with linguistic skills and to cultivate the love for the Tamil culture.  
   
- **Tagline**  
+#####  **Tagline**  
   
  “தமிழில் பேசுவோம் தமிழை நேசிப்போம்” ( Speak Tamil Love Tamil)
  
