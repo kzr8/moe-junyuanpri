@@ -37,3 +37,5 @@ Indeed, it was a special and meaningful celebration for the whole school. The to
 <figure><img src="/images/NDC5.jpeg" style="width:100%"><figcaption> Here’s our Lego Masterpiece!</figcaption></figure>
 
 <figure><img src="/images/NDC6.jpeg" style="width:100%"><figcaption> Join us in our upcycling project towards a Greener Singapore!</figcaption></figure>
+
+<figure><img src="/images/NDC7.jpeg" style="width:100%"><figcaption> Celebrating social cohesiveness with our clay project – Local Food of Singapore</figcaption></figure>
