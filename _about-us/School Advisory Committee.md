@@ -31,7 +31,7 @@ School Advisory Committee
     <td class="tg-fwnj">Mr See Weng Lung</td>
   </tr>
   <tr>
-    <td class="tg-fwnj">Members</td>
+    <td class="tg-fwnj"><br><br>Members<br></td>
     <td class="tg-fwnj"><span style="background-color:initial">Mr Lim Wan Xian Dominic</span><br><br>Mdm Lim Lee Bee<br>Mdm Vivian Tio Bee Hian<br>Mr Heng Wee Shiun <br>Ms Eng Jia Yun</td>
   </tr>
 </tbody>
