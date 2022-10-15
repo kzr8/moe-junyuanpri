@@ -146,13 +146,13 @@ Tamil language Competitions organised by GRC IAEC Tampines Central CC
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-8jgo"><img src="https://junyuanpri.moe.edu.sg/qql/slot/u499/Departments/Tamil%20Language/Itaash%20receiving%20medal.JPG" alt="Image" width="400" height="300"><br><br>Itaash receiving medal</th>
-    <th class="tg-8jgo"><img src="https://junyuanpri.moe.edu.sg/qql/slot/u499/Departments/Tamil%20Language/Lithraa%20-%20medal.JPG" alt="Image" width="400" height="300"><br><br>Lithraa - medal</th>
+    <th class="tg-8jgo"><img src="https://junyuanpri.moe.edu.sg/qql/slot/u499/Departments/Tamil%20Language/Itaash%20receiving%20medal.JPG" alt="Image" width="400" height="300"><br>Itaash receiving medal<br></th>
+    <th class="tg-8jgo"><img src="https://junyuanpri.moe.edu.sg/qql/slot/u499/Departments/Tamil%20Language/Lithraa%20-%20medal.JPG" alt="Image" width="400" height="300"><br>Lithraa - medal<br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-8jgo"><img src="https://junyuanpri.moe.edu.sg/qql/slot/u499/Departments/Tamil%20Language/Priya%20receiving%20medal%20from%20Mr%20Masagos.JPG" alt="Image" width="400" height="300"><br><br><span style="font-weight:400;font-style:normal">Priya receiving medal from Mr Masagos</span></td>
+    <td class="tg-8jgo"><img src="https://junyuanpri.moe.edu.sg/qql/slot/u499/Departments/Tamil%20Language/Priya%20receiving%20medal%20from%20Mr%20Masagos.JPG" alt="Image" width="400" height="300"><br>Priya receiving medal from Mr Masagos<br></td>
     <td class="tg-zv4m"><img src="https://junyuanpri.moe.edu.sg/qql/slot/u499/Departments/Tamil%20Language/TL%20Competitions%20prize%20winners%201.JPG" width="400" height="300"></td>
   </tr>
 </tbody>
