@@ -29,3 +29,39 @@ The school currently has 3 air-conditioned computer laboratories. Each laborator
 ![](/images/ICT.png)
 
 ![](/images/ICT2.png)
+
+One of MOE’s key priorities for all pupils in recent years is to set Baseline ICT(Information & Communication Technology) Standards so as to ensure that all pupils acquire the necessary ICT skills to support them in learning and prepare them for future needs. At the end of the Primary and Secondary Education, pupils will have acquired a basic set of ICT skills:
+
+  
+
+Primary school pupils will be able to:
+
+  
+
+*   Operate computers and applications in ICT-enabled learning environment
+*   Search for information and communicate over the Internet
+*   Create a short document using a word processor
+*   Represent tables of information in word processors and spreadsheets
+*   Create a short presentation with multimedia elements
+*   Collect data using ICT tools
+
+  
+
+The ICT department has planned ICT training programmes that are in line with the Baseline ICT Standards and that are progressive in nature. At the end of the Primary and Secondary education, pupils will also have acquired skills related to ethical and legal as well as safe and responsible use of ICT.
+
+  
+
+Among others, primary school pupils will:
+
+  
+
+*   Use appropriate language, demonstrate mutual respect and observe etiquette in communication
+*   Respond appropriately when encountering illegal or unsuitable materials on the Internet.
+*   Be aware of and take precautionary steps against the dangers of cyber abuse.
+*   Respect intellectual property and comply with copyright laws and regulations.
+*   Maintain a balanced use of technology to avoid computer addiction
+*   Verify the credibility of information and that information is communicated accurately and responsibly
+
+  
+
+To realize the full potential of ICT for teaching and learning, it is important that pupils practise ethical and legal as well as safe and responsible use of ICT. In order to facilitate your child’s learning in an ICT-enabled environment, the school has come up with Acceptable Use Policies. Every child has signed this AUP in January/February which is in their Student's Handbook.
