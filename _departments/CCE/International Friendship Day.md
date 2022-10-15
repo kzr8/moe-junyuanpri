@@ -57,3 +57,6 @@ Last but not least, the students enjoyed a mass assembly concert which started o
 <figure><img src="/images/IFD9.jpeg" style="width:100%"><figcaption> "Semut!" "Gajah!" I won becayse Gajah is afraid of Semut crawling into his nose or ear.</figcaption></figure>
 
 <figure><img src="/images/IFD10.jpeg" style="width:100%"><figcaption> Doing craft work after watching the video at the Inclusivity Booth.</figcaption></figure>
+
+<figure><img src="/images/IFD11.jpeg" style="width:100%"><figcaption> Student leaders played buddy to the kindergarteners at Junyuan Village,
+</figcaption></figure>
