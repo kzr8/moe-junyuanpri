@@ -2,4 +2,5 @@ collections:
   departments:
     output: true
     order:
+      - Aesthetics.md
       - Media Resource Library.md
