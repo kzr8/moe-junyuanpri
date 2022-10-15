@@ -33,3 +33,5 @@ Through these activities, students were affirmed of their commitment of practisi
 <figure><img src="/images/TDD1.jpeg" style="width:100%"><figcaption> Eager participants for Quiz session after TDD CAVE discussion</figcaption></figure>
 
 <figure><img src="/images/TDD2.jpeg" style="width:100%"><figcaption> I want to tell my classmates more about the 6 pillars of TDD</figcaption></figure>
+
+<figure><img src="/images/TDD3.jpeg" style="width:100%"><figcaption> Let's show our answers for the CAVE Quiz</figcaption></figure>
