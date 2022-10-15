@@ -7,7 +7,7 @@ third_nav_title: Our Staff
 Steering Committee
 ==================
 
-### PRINCIPAL & VICE-PRINCIPALS
+##### PRINCIPAL & VICE-PRINCIPALS
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
