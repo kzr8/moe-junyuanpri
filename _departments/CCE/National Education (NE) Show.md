@@ -20,3 +20,5 @@ This year, NE show has a special meaning to our school’s P5 students. After tw
 <figure><img src="/images/NE4.jpeg" style="width:100%"><figcaption> Waving our state flags proudly as we joined in to sing the National Day songs at the Float.</figcaption></figure>
 
 <figure><img src="/images/NE5.jpeg" style="width:100%"><figcaption> We enjoyed singing "Stronger Together" at the Finale of the Parade.</figcaption></figure>
+
+<figure><img src="/images/NE6.jpeg" style="width:100%"><figcaption> Pose for a photo shoot to create happy memory of our presence for this special event - NE Show 2022.</figcaption></figure>
