@@ -66,3 +66,5 @@ Our aims are to: 
   
 
 Students attended Speech and Drama programme to learn techniques and skills necessary for effective communication. They are engaged in fun activities such as role-play, singing aloud, storytelling, and props performance. Through the programme, students could experience the joy of learning Malay Language and learn more about teamwork as they cooperate with other classmates.
+
+![](/images/MalayLang.png)
