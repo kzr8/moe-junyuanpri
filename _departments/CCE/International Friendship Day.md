@@ -4,3 +4,17 @@ permalink: /departments/CCE/International-Friendship-Day/
 description: ""
 third_nav_title: CCE
 ---
+![](/images/banner.gif)
+
+    
+		
+  
+International Friendship Day
+===============================
+
+### International Friendship Day 2021 NEW!
+
+
+### International Friendship Day 2021 **NEW!**
+
+International Friendship Day (IFD) is commemorated annually to remind our students the importance of building and strengthening friendships among our neighbouring countries (especially the ASEAN countries), deepening the connection with them, as well as nurturing the spirit of friendship and collaboration among different people.
