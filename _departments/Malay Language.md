@@ -125,3 +125,24 @@ The MTL Fortnight Programme allows students to learn Malay Language through acti
 The objective of the Cultural Programme Exposure Fund Scheme is to enhance students' interest in Malay Language and Culture through attendance at Malay cultural performances at public performing arts venues. Through this initiative, the students will have expanded opportunities in enjoying theatre experience and fostering a lifelong theatre patronage to cultural performances. In the process, we also hope that they will learn and appreciate the beauty of the Malay Language and culture.
 
 ![](/images/MalayLang3.png)
+
+**P1 and P2 Songket and Batik Appreciation** 
+
+Through the Songket and Batik Appreciation lesson, students are exposed to and immersed in the Malay Art and cultivate an interest in the Malay Language and culture. 
+
+The lesson was conducted by the teachers during the Malay Language curriculum time in Term 4. Students are taught how to make bookmarks and coasters using the Songket and Batik fabric.
+
+![](/images/MalayLang4.png)
+
+**P4 Conversational Chinese/Malay Programme (CCM)**
+
+The CCM programme teaches the students languages other than their mother tongues to strengthen bonds among students of different races and to enable them to operate comfortably in the region. Students are taught how to string together basic sentences for everyday use, such as how to introduce themselves, greet others and count.
+
+  
+
+### ACHIEVEMENTS
+
+
+**MOE Excel Fest 2019**  
+The Malay Language Department were invited to show case our winning MOE Innergy (Schools) Award 2018 - Enhancing Teachers Engagement and Students’ Thinking in Malay Language through Visible Thinking Routines (VTR) at the MOE ExCEL Fest 2019 on 28 to 29 May.
+
