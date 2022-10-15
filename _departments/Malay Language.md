@@ -72,3 +72,13 @@ Students attended Speech and Drama programme to learn techniques and skills nece
 **P5 Malay Journalism Programme** 
 
 Our P5 students participated in the Malay Journalism Programme to help them understand what it takes to report on an event and to provide hands on opportunities for them to record their reporting and interviews. Through this programme, the Malay Language department hope to build confident speakers who are able to report on the happenings of an event and interview their peers. Students wrote out their reporters’ scripts in teams and brainstormed interview questions through the guidance of the instructors and teachers. They had an enriching learning experience as they reported on the P5 NE Show and interviewed their classmates.
+
+**Malay Language and Cultural Programmes**
+
+The Mother Tongue Department organizes programmes among the different levels to enhance students’ learning in their Malay Language and to help them better appreciate the Malay culture.
+
+  
+
+**P3 Cultural Camp**
+
+P3 Cultural Camp is a day camp held within curriculum hours for P3 students who are learning Malay Language. The aim of the camp is to expose students to the Malay culture by letting them participate in a wide range of cultural activities. In the process, students deepen their understanding of their own cultures through a myriad of fun and educational activities. It also enhances students’ interest in learning their Mother Tongue through participation in various activities.
