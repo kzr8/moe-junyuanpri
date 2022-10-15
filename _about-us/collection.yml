@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - School Gates Opening Hours & Dismissal.md
       - Rules & Regulations.md
       - Contact Us.md
