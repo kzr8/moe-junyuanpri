@@ -1,4 +1,5 @@
 collections:
   jyps-family:
     output: true
-    order: []
+    order:
+      - Our Staff/.keep
