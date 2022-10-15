@@ -3,12 +3,14 @@ title: Rules & Regulations
 permalink: /about-us/Rules-and-Regulations/
 description: ""
 ---
-Rules & Regulations
-===================
+![](/images/banner.gif)
+
+# Rules & Regulations
+
 
   
 
----
+
 
 ### The Three Golden Rules
 
@@ -19,12 +21,7 @@ Rules & Regulations
   
 
 
-
-
-
---------------------------------------------------------------------------------------
-
-**TAKE CARE OF MYSELF**
+### **TAKE CARE OF MYSELF**
 
 
 #### ATTIRE
