@@ -3,6 +3,9 @@ title: Contact Us
 permalink: /about-us/Contact-Us/
 description: ""
 ---
+Contact Us
+==========
+
 General Office Operating Hours   
   
 School Days  
