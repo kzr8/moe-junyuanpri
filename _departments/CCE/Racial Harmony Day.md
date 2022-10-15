@@ -22,3 +22,5 @@ On the last day of the fringe activities, students from Suzhou, who were in our 
 ![](/images/RHD1.png)
 
 <figure><img src="/images/RHD2.png" style="width:100%"><figcaption> We are One!</figcaption></figure>
+
+<figure><img src="/images/RHD3.jpeg" style="width:100%"><figcaption> Cat's Cradle: don't let go the string!</figcaption></figure>
