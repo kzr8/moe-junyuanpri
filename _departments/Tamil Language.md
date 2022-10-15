@@ -77,3 +77,11 @@ P5           :  Tamil Language Journalism Programme 
 </tbody>
 </table>
 
+
+**P3 and P4  Story telling**
+
+*   To develop confidence communication through storytelling activities.
+*   To improve  oral communication and social skills.
+
+
+![](/images/TamilLang.png)
