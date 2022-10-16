@@ -72,3 +72,5 @@ Students attended Speech and Drama programme to learn techniques and skills nece
 **P5 Chinese Journalism Programme 小记者课程**
 
 Our P5 students participated in the Chinese Journalism Programme to help them understand what it takes to report on an event and to provide hands on opportunities for them to record their reporting and interviews. Through this programme, the CL department hope to build confident speakers who are able to report on the happenings of an event and interview their peers. Students wrote out their reporters’ scripts in teams and brainstormed interview questions through the guidance of the instructors and teachers. They had an enriching learning experience as they reported on the P5 NE Show and interviewed their classmates. Putting what they learnt into practice, some of the students interviewed our guests from Suzhou who came for an immersion trip.
+
+![](/images/ChineseLang2.png)
