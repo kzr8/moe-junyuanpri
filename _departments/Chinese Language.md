@@ -141,3 +141,31 @@ Through the Chinese Brush Painting sessions, students are exposed to and immerse
 The P1 and P2 Chinese Language students attended the Chinese brush painting lessons during the Chinese Language curriculum time in Term 4. They are taught the basic strokes used in Chinese brush painting and the traditional Chinese brush painting concepts. Students learned and explored a wide variety of themes such as flowers, birds, animals and plants.
 
 ![](/images/ChineseLang4.png)
+
+### USEFUL CHINESE LANGUAGE DIGITAL LEARNING RESOURCES
+
+1.  iMTL Portal
+
+The iMTL portal is a web-based, interactive Mother Tongue Languages Portal which supports the teaching and learning of Mother Tongue Languages  in schools. 
+
+The iMTL Portal offers a wide range of tools and resources to promote collaboration and interaction between students, and between teachers and students. It seeks to create an immersive MTL learning environment that integrates the learning of MTLs with students’ daily lives.
+
+Link: [https://imtl.moe.edu.sg/cos/o.x?c=/ca7\_imtl/user&func=login](https://imtl.moe.edu.sg/cos/o.x?c=/ca7_imtl/user&func=login)[](https://imtl.moe.edu.sg/cos/o.x?c=/ca7_imtl/user&func=login)
+
+2.  Thumbs Up Chinese Newspaper
+
+The tabloid-sized Chinese newspaper presents news to students in a perspective that their young mind can understand, to improve their general knowledge and Chinese language ability.
+
+Thumbs up adopts a fun and interactive editorial approach, with the use of colourful pictures and illustrations to appeal to its young readers.
+
+Link: [https://zbschools.sg/](https://zbschools.sg/)
+
+3.  Committee to Promote Chinese Language Learning
+
+A website that contains information about the various events and programmes organized by the community to support children in the learning of Chinese Language outside schools.
+
+Link: [http://www.cpcll.sg/](http://www.cpcll.sg/)
+
+LIST OF APPROVED DICTIONARIES FOR USE IN 2022 PSLE
+
+[list_of_dictionaries_for_examination 2022.pdf](/files/2022%20SEAB_approved_list_of_dictionaries_for_examination.pdf)
