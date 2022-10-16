@@ -120,4 +120,4 @@ Due to their efforts, the rate of recycling went up during the project implement
 
 <figure><img src="/images/Competition5.png" style="width:100%"><figcaption> The 2 teams and the teachers taking a photo to commemorate their achievements</figcaption></figure>
 
-<figure><img src="/images/Competition6.png" style="width:75%"><figcaption> The judges listening earnestly as our teams presented their prototype</figcaption></figure>
+<figure><img src="/images/Competition6.png" style="width:90%"><figcaption> The judges listening earnestly as our teams presented their prototype</figcaption></figure>
