@@ -149,3 +149,15 @@ _Kids’ Lit Quiz_
 In this quiz competition, students pit their wits against one another to answer questions on children’s books ranging from classics to comics.
 
 ![](/images/English7.png)
+
+### **EVENTS**
+
+##### **Library Festival**
+
+During Library Festival, pupils can look forward to playing games that are tied to a theme during recess at the library. Games were also conducted in their Mother Tongue languages. We hope to spark pupils' curiosity about the wonderful world of books through these exciting activities.
+
+  
+
+In year 2019, the theme was on “STEAM”. Students had a chance to engage in literacy activities such as: Books Come to Life, Puppet Storytelling, Feed the Sharks and The 3E.
+
+*2019 Library Week - “The World of STEAM"*
