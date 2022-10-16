@@ -63,3 +63,12 @@ The 'hands-on, minds-on' Experiential Approach to learning Science through learn
 ![](/images/Science1.png)
 
 Click [here](/departments/Science/Learning-Journeys/) to find out more!
+
+
+### Competition
+
+  
+
+To enable our pupils to gain a measure of their own achievement on a national/ international setting as well as to provide pupils, parents and teachers with an insight of their strengths and areas for improvement, selected pupils in Primary 5 participate in the Singapore Primary Science Olympiad (facilitated by NUS High School for primary schools in Singapore). The competition assesses our pupils on the different cognitive skills for the subject.
+
+Click
