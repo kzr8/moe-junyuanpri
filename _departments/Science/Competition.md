@@ -4,3 +4,7 @@ permalink: /departments/Science/Competition/
 description: ""
 third_nav_title: Science
 ---
+![](/images/banner.gif)
+
+Competition
+===========
