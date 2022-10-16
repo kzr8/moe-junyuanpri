@@ -59,3 +59,5 @@ The 'hands-on, minds-on' Experiential Approach to learning Science through learn
 
 *   P3: Butterfly Park & Insect Kingdom - Diversity of Living Things (Term 1)
 *   P6: Adaptations Workshop and Pasir Ris Park Fieldtrip – Interactions: Habitats and Adaptations of Living Things (Term 3)
+
+![](/images/Science1.png)
