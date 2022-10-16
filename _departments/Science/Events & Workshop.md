@@ -54,3 +54,5 @@ This space enables students to become problem solvers, develop positive attitude
 <figure><img src="/images/Events3.jpeg" style="width:100%"><figcaption> Creating different vehicles using the fuse beads</figcaption></figure>
 
 <figure><img src="/images/Events4.jpeg" style="width:100%"><figcaption> 3-D vehicle making using mini bricks</figcaption></figure>
+
+<figure><img src="/images/Events5.jpeg" style="width:100%"><figcaption> Teaching cross stitching as part of sewing as life skills</figcaption></figure>
