@@ -39,3 +39,9 @@ Science for Curious Minds
   
 
 The Science Department strives to provide our pupils with learning experiences to form scientific concepts using a ‘hands-on’, ‘minds-on’ approach aligned to the Inquiry Science Teaching. Our pupils acquire scientific literacy when they explore their natural environment and make connections to the real world through problem-solving and experimentation. We also encourage discovery learning at the different learning spaces on our school premise.
+
+![](/images/Science.png
+
+### JUNYUAN PRIMARY SCIENCE SYLLABUS  (P3 to P6)
+
+**_Updating in Progress._**
