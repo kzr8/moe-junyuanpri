@@ -27,3 +27,5 @@ The trip allows pupils to better relate what they have learnt in the syllabus (D
 <figure><img src="/images/LJ1.png" style="width:75%"><figcaption> Interaction with a rhinoceros beetle</figcaption></figure>
 
 <figure><img src="/images/LJ2.png" style="width:75%"><figcaption> Pupa stage of the life cycle of a butterfly</figcaption></figure>
+
+<figure><img src="/images/LJ3.png" style="width:75%"><figcaption> Close up encounter with butterfly</figcaption></figure>
