@@ -190,3 +190,5 @@ At the end of the day, the students were tired but unanimously agreed that they 
 <figure><img src="/images/Camp3.jpeg" style="width:75%"><figcaption> The students are all ready and geared up to test their improvised cooking pan made from aluminium foil</figcaption></figure>
 
 <figure><img src="/images/Camp4.jpeg" style="width:75%"><figcaption> The students in the midst of creating edible water bottles and on their way to playing a part in creating a more sustainable future</figcaption></figure>
+
+<figure><img src="/images/Camp5.jpeg" style="width:75%"><figcaption> The students displayed incredible teamwork and creativity to win the First Prize at the camp</figcaption></figure>
