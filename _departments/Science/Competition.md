@@ -73,3 +73,35 @@ The teachers were very heartened to see how the pupils took their own initiative
 
 
 ### G!nnovation Challenge 2019
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ncov{background-color:#FFF;color:#454545;text-align:center;vertical-align:middle}
+.tg .tg-sdzj{background-color:#FFF;color:#454545;text-align:left;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 393px">
+<colgroup>
+<col style="width: 211px">
+<col style="width: 182px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-sdzj">Name of team lead(s)</th>
+    <th class="tg-ncov">Mdm Joelyn Cheah<br>Miss Beatrice Grace Lim</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-sdzj"> Name of team members</td>
+    <td class="tg-ncov">Mr Wang Shing Huei<br>Mrs Widdy Tey<br>Mr Ivan Ong</td>
+  </tr>
+  <tr>
+    <td class="tg-sdzj">Achievement/Award Attained</td>
+    <td class="tg-ncov">2nd Place<br>3rd Place</td>
+  </tr>
+</tbody>
+</table>
