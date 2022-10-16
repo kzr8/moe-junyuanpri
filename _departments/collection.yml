@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Science/Events & Workshop.md
       - Science/.keep
       - Chinese Language.md
       - Malay Language.md
