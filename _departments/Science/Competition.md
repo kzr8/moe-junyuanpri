@@ -53,3 +53,20 @@ The teachers were very heartened to see how the pupils took their own initiative
 <figure><img src="/images/Competition3.jpeg" style="width:100%"><figcaption> A closer look at one of the finished marine aqua systems with the new resident fish</figcaption></figure>
 
 <figure><img src="/images/Competition4.jpeg" style="width:100%"><figcaption> Our participants had a good time at VJC!</figcaption></figure>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-8jgo{border-color:#ffffff;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-8jgo"><img src="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/Departments/Science/competition/MACS20195.JPG" alt="Image" width="400" height="300"><br><br><span style="font-weight:400;font-style:normal">Team 1:</span><br>TIAN DAOJIA ELIJAH<br>GERMAINE TAN HUI WEN<br>KWEK KEYING, SHERELLE</td>
+    <td class="tg-8jgo"><img src="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/Departments/Science/competition/MACS20196.JPG" alt="Image" width="400" height="300"><br><br><span style="font-weight:400;font-style:normal">Team 2:</span><br>SITI SARAH BINTE ABDUL RAZAK<br>TAN SHI SHAN<br>YOGANATHA GANESH TARUN</td>
+  </tr>
+</thead>
+</table>
