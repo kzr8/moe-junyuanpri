@@ -82,3 +82,8 @@ _2019 P5 Overseas Learning Trip (Suzhou, Brunei, Chiang Mai)_
   </tr>
 </tbody>
 </table>
+
+
+*2019 Racial Harmony Day Celebration*
+
+![](/images/English3.png)
