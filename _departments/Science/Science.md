@@ -45,3 +45,10 @@ The Science Department strives to provide our pupils with learning experiences t
 ### JUNYUAN PRIMARY SCIENCE SYLLABUS  (P3 to P6)
 
 **_Updating in Progress._**
+
+
+**The following key programmes support our curriculum objectives:**
+
+### Learning Journeys and Workshops
+
+Click
