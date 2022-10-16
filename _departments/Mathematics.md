@@ -172,3 +172,47 @@ Mathematics is a hierarchical subject, where higher concepts and skills are buil
   </tr>
 </tbody>
 </table>
+
+
+**SINGAPORE MATHEMATICAL OLYMPIAD FOR PRIMARY SCHOOLS (SMOPS) 2021**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-sxkx{background-color:#FFF;color:#454545;text-align:center;vertical-align:top}
+.tg .tg-ncov{background-color:#FFF;color:#454545;text-align:center;vertical-align:middle}
+.tg .tg-2fwu{background-color:#FFF;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-9u4g{background-color:#FFF;color:#454545;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-2fwu">AWARD</th>
+    <th class="tg-9u4g">NAME</th>
+    <th class="tg-9u4g">CLASS</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-2fwu" rowspan="2"><br>SILVER<br><img src="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/2021/2021%20Maths%20Dept%20Website/Trophy.jpg" alt="Trophy.jpg"><br><br><br></td>
+    <td class="tg-sxkx">Chong Rui Hong<br></td>
+    <td class="tg-sxkx">6 Care</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">Katikareddy Samyutha</td>
+    <td class="tg-sxkx"><br><br><br><br><br><br>6 Resilience</td>
+  </tr>
+</tbody>
+</table>
+
+
+##### **Activities in the Mathematics classrooms**
+
+  
+
+##### **Hands-on activities through the use of manipulatives**
+
+
