@@ -127,3 +127,29 @@ Due to their efforts, the rate of recycling went up during the project implement
 <figure><img src="/images/Competition8.png" style="width:100%"><figcaption> Teams receiving their prizes on stage</figcaption></figure>
 
 <figure><img src="/images/Competition9.png" style="width:100%"><figcaption> Presenting the G!nnovation teams</figcaption></figure>
+
+
+### The Wonders of Kitchen Chemistry Camp
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-sdzj{background-color:#FFF;color:#454545;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-sdzj">Name of team lead(s)</th>
+    <th class="tg-sdzj">Ms Diana Koh</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-sdzj">Achievement/Award Attained</td>
+    <td class="tg-sdzj">1st Price</td>
+  </tr>
+</tbody>
+</table>
