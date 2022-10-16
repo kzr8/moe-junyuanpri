@@ -60,3 +60,27 @@ This space enables students to become problem solvers, develop positive attitude
 <figure><img src="/images/Events6.jpeg" style="width:100%"><figcaption> Fruit basket made using 3-D pens</figcaption></figure>
 
 ### Science E! Day Workshop for Parents
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-fwnj{background-color:#FFF;color:#454545;text-align:left;vertical-align:top}
+.tg .tg-sdzj{background-color:#FFF;color:#454545;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-sdzj">Name of team lead(s)</th>
+    <th class="tg-fwnj"><span style="background-color:initial">Ms Diana Koh (Lower Block Science)</span><br><span style="background-color:initial">Mrs Sarah Quek (Upper Block Science) </span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-sdzj">Name of team members<br></td>
+    <td class="tg-fwnj"><span style="font-weight:bold;text-decoration:underline">Lower Block Science</span><br><span style="background-color:initial">Ms Beatrice</span><br><span style="background-color:initial">Ms Gracia Teo</span><br><span style="background-color:initial">Mdm Leong Hiew Ping</span><br><span style="background-color:initial">Ms Loong Shuyi</span><br><span style="background-color:initial">Mr Joseph Sim</span><br><span style="background-color:initial">Mdm Nur Liyana</span><br><br><span style="font-weight:bold;text-decoration:underline">Upper Block Science</span><br><span style="background-color:initial">Mdm CeliaLim</span><br><span style="background-color:initial">Mrs Corinne Teo</span><br><span style="background-color:initial">Mr Quek Tian Bee</span><br><span style="background-color:initial">Mrs Widdy Tey</span><br><span style="background-color:initial">Mr Faisal</span></td>
+  </tr>
+</tbody>
+</table>
