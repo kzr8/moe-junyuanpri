@@ -184,3 +184,5 @@ Throughout the day, the teams of students at the camp were awarded points based 
 At the end of the day, the students were tired but unanimously agreed that they had a very enjoyable day learning about Science concepts which are commonly observed in the kitchen and simple everyday materials!
 
 <figure><img src="/images/Camp1.jpeg" style="width:75%"><figcaption> The students had to discuss among themselves and come to an agreement on the combination of flavours for their ice-cream</figcaption></figure>
+
+<figure><img src="/images/Camp2.jpeg" style="width:75%"><figcaption> The students working together as a team to measure and pour an exact amount of solvent to analyse the colour dyes given to them</figcaption></figure>
