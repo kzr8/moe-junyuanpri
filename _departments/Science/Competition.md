@@ -153,3 +153,32 @@ Due to their efforts, the rate of recycling went up during the project implement
   </tr>
 </tbody>
 </table>
+
+
+Write-up: (About 150 words would suffice) 
+
+A group of 11 students – four Primary 4 students and seven Primary 5 students – took part in the “The Wonders of Kitchen Chemistry Camp” organized by the East Zone Centre of Excellence (COE) for Innovations in Science at Dunman Secondary School on 3 June 2019.
+
+  
+
+After being assigned into teams, the students were first treated to a fascinating presentation during which they learnt about the differences between the different types of frozen desserts and the steps to making ice-cream. It was then followed by a much-anticipated hands-on session on making their own ice-cream.
+
+  
+
+During the second activity, the students had the opportunity to engage in the science of paper chromatography. They learnt that the chromatography pattern obtained at the end of the process could reveal much about the composition of coloured dyes and such knowledge can even be used to solve crimes.
+
+  
+
+After a satisfying lunch, the students worked together to design an efficient cooking pan using the materials provided. The efficiency of their “cooking pan” (made from aluminium foil) was judged based on time taken to cook an egg in their improvised cooking pan. 
+
+  
+
+Last but not least, along with an enlightening message on how Science plays an important role in helping to fight plastic waste pollution, the students learnt how to make edible water bottles – edible, biodegradable capsules which can contribute towards a more sustainable future.
+
+  
+
+Throughout the day, the teams of students at the camp were awarded points based on their teamwork and creativity, and one of our teams did well enough to impress the facilitating teachers and was honoured with the first prize.
+
+  
+
+At the end of the day, the students were tired but unanimously agreed that they had a very enjoyable day learning about Science concepts which are commonly observed in the kitchen and simple everyday materials!
