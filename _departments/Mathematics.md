@@ -75,14 +75,18 @@ Mathematics is a hierarchical subject, where higher concepts and skills are buil
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-fwnj{background-color:#FFF;color:#454545;text-align:left;vertical-align:top}
 .tg .tg-2fwu{background-color:#FFF;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-9u4g{background-color:#FFF;color:#454545;font-weight:bold;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 653px">
+<colgroup>
+<col style="width: 254px">
+<col style="width: 270px">
+<col style="width: 129px">
+</colgroup>
 <thead>
   <tr>
     <th class="tg-2fwu">AWARD</th>
-    <th class="tg-9u4g">NAME</th>
-    <th class="tg-9u4g">CLASS</th>
+    <th class="tg-2fwu">NAME</th>
+    <th class="tg-2fwu">CLASS</th>
   </tr>
 </thead>
 <tbody>
