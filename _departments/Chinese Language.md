@@ -125,3 +125,17 @@ The MTL Fortnight Programme allows students to learn Chinese Language through ac
 
 
 ![](/images/ChineseLang3.png)
+
+**Cultural Programme Exposure Scheme (CPES)**
+
+The objective of the Cultural Programme Exposure Scheme is to enhance students' interest in Chinese Language and Culture through attendance at Chinese cultural performances at public performing arts venues. Through this initiative, the students will have expanded opportunities in enjoying theatre experience and fostering a lifelong theatre patronage to cultural performances. In the process, we also hope that they will learn and appreciate the beauty of the Chinese Language and culture.
+
+  
+
+**P1 and P2 Chinese Brush Painting**
+
+Through the Chinese Brush Painting sessions, students are exposed to and immersed in the Chinese Art and cultivate an interest in the Chinese Language and culture. They are also able to understand the strokes and flow in Chinese Brush Painting.  
+
+  
+
+The P1 and P2 Chinese Language students attended the Chinese brush painting lessons during the Chinese Language curriculum time in Term 4. They are taught the basic strokes used in Chinese brush painting and the traditional Chinese brush painting concepts. Students learned and explored a wide variety of themes such as flowers, birds, animals and plants.
