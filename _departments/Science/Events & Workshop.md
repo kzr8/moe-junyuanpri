@@ -38,3 +38,13 @@ Events & Workshop
   </tr>
 </tbody>
 </table>
+
+IDEA @ Makerspace aims to nurture creativity, critical thinking, communication and collaboration among upper primary (P5 and P6) students during recess time. This also allows them to build resilience through trialling. Here, students are empowered to create something out of the given raw materials.
+
+  
+
+Students use a wide range of ideation techniques – such as brainstorming and concept designing to create novel and practical ideas and think out of the box.
+
+This space enables students to become problem solvers, develop positive attitudes and nurture creative thinkers. We also impart life skills such as sewing in the last term so that students could pick up an useful skill and apply in their daily life.
+
+<figure><img src="/images/Events1.jpeg" style="width:100%"><figcaption> Welcome to our IDEA @ Makerspace corner!</figcaption></figure>
