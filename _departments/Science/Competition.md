@@ -125,3 +125,5 @@ Due to their efforts, the rate of recycling went up during the project implement
 <figure><img src="/images/Competition7.jpeg" style="width:75%"><figcaption> Our confident students engaging members of the public in the game they created</figcaption></figure>
 
 <figure><img src="/images/Competition8.png" style="width:100%"><figcaption> Teams receiving their prizes on stage</figcaption></figure>
+
+<figure><img src="/images/Competition9.png" style="width:100%"><figcaption> Presenting the G!nnovation teams</figcaption></figure>
