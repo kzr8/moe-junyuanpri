@@ -122,3 +122,6 @@ The Mother Tongue Fortnight Programme is an initiative by MOE, which aims to imm
   
 
 The MTL Fortnight Programme allows students to learn Chinese Language through activities and games. They have the chance to enjoy the language in a different way. A wide range of activities related to Chinese language and culture are be conducted for the Chinese Language students in the programme.
+
+
+![](/images/ChineseLang3.png)
