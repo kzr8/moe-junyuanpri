@@ -118,4 +118,4 @@ Specifically, to encourage their peers to recycle right, one team educated their
 
 Due to their efforts, the rate of recycling went up during the project implementation period. Feedback from students also showed their increased knowledge and application. The teams came in 2nd and 3rd in the finals of the G!nnovation Challenge. Hence, through the GInnovation Challenge, students were inspired and motivated to become more aware of environmental problems, to think of innovative ideas, and to take actions to solve real-world problems.
 
-<figure><img src="/images/XX.png" style="width:100%"><figcaption> The 2 teams and the teachers taking a photo to commemorate their achievements</figcaption></figure>
+<figure><img src="/images/Competition5.png" style="width:100%"><figcaption> The 2 teams and the teachers taking a photo to commemorate their achievements</figcaption></figure>
