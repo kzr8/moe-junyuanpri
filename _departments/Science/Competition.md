@@ -47,3 +47,5 @@ The pupils were undaunted, despite this being their first time participating in 
 The teachers were very heartened to see how the pupils took their own initiative to prepare for the competition and support one another. It was a meaningful and enjoyable day out for all of us involved.
 
 <figure><img src="/images/Competition1.jpeg" style="width:75%"><figcaption> Tarun and Siti Sarah arranging live rock and coral specimens with care in their tank</figcaption></figure>
+
+<figure><img src="/images/Competition2.jpeg" style="width:100%"><figcaption> Elijah and Germaine presenting their topic of sustainable seafood to the judges</figcaption></figure>
