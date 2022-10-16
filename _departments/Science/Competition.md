@@ -51,3 +51,5 @@ The teachers were very heartened to see how the pupils took their own initiative
 <figure><img src="/images/Competition2.jpeg" style="width:100%"><figcaption> Elijah and Germaine presenting their topic of sustainable seafood to the judges</figcaption></figure>
 
 <figure><img src="/images/Competition3.jpeg" style="width:100%"><figcaption> A closer look at one of the finished marine aqua systems with the new resident fish</figcaption></figure>
+
+<figure><img src="/images/Competition4.jpeg" style="width:100%"><figcaption> Our participants had a good time at VJC!</figcaption></figure>
