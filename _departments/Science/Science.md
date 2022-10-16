@@ -10,7 +10,7 @@ third_nav_title: Science
   
 # Science
 
-### Vision
+##### Vision
 
   
 
@@ -18,7 +18,7 @@ Inquiring Learners, Responsible Scientists for the Future
 
   
 
-### Mission
+##### Mission
 
   
 
@@ -26,7 +26,7 @@ Junyuan Primary is committed to ignite the passion in the learning of Science an
 
   
 
-### Tagline
+##### Tagline
 
   
 
