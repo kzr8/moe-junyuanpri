@@ -18,3 +18,5 @@ Every pupil is an effective and confident communicator with a love for the Engli
 ##### Tagline
 
 Good English Matters!
+
+![](/images/English1.png)
