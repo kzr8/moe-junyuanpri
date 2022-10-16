@@ -74,3 +74,18 @@ Students attended Speech and Drama programme to learn techniques and skills nece
 Our P5 students participated in the Chinese Journalism Programme to help them understand what it takes to report on an event and to provide hands on opportunities for them to record their reporting and interviews. Through this programme, the CL department hope to build confident speakers who are able to report on the happenings of an event and interview their peers. Students wrote out their reporters’ scripts in teams and brainstormed interview questions through the guidance of the instructors and teachers. They had an enriching learning experience as they reported on the P5 NE Show and interviewed their classmates. Putting what they learnt into practice, some of the students interviewed our guests from Suzhou who came for an immersion trip.
 
 ![](/images/ChineseLang2.png)
+
+
+**Chinese Language and Cultural Programmes**
+
+The Mother Tongue Department organizes programmes among the different levels to enhance students’ learning in their Chinese Language and to help them better appreciate the Chinese culture.
+
+  
+
+**P3 Cultural Camp**
+
+P3 Cultural Camp is a day camp held within curriculum hours for P3 students who are learning Chinese Language. The aim of the camp is to expose students to the Chinese culture by letting them participate in a wide range of cultural activities, such as watching cultural performances, learning Chinese wushu (武术) and playing Chinese traditional games.
+
+  
+
+In the process, students deepen their understanding of their own cultures through a myriad of fun and educational activities. It also enhances students’ interest in learning their Mother Tongue through participation in various activities.
