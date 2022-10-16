@@ -186,3 +186,5 @@ At the end of the day, the students were tired but unanimously agreed that they 
 <figure><img src="/images/Camp1.jpeg" style="width:75%"><figcaption> The students had to discuss among themselves and come to an agreement on the combination of flavours for their ice-cream</figcaption></figure>
 
 <figure><img src="/images/Camp2.jpeg" style="width:75%"><figcaption> The students working together as a team to measure and pour an exact amount of solvent to analyse the colour dyes given to them</figcaption></figure>
+
+<figure><img src="/images/Camp3.jpeg" style="width:75%"><figcaption> The students are all ready and geared up to test their improvised cooking pan made from aluminium foil</figcaption></figure>
