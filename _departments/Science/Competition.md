@@ -34,3 +34,14 @@ Competition
   </tr>
 </tbody>
 </table>
+
+
+Two teams of Primary 5 pupils represented the school in the Marine Aquascaping Competition, held in conjunction with the East Zone STEM Festival at Victoria Junior College on 2 August 2019. The competition aims to raise awareness of the biodiversity of the marine ecosystem and the need for conserving and protecting the ocean. 
+
+  
+
+The pupils were undaunted, despite this being their first time participating in such an event. They put in a lot of effort researching on how to set up a Nano marine aqua system as well as on marine conservation issues. On the day of the competition, the pupils worked well as a team and were able to engage the judges during their presentation.  
+
+  
+
+The teachers were very heartened to see how the pupils took their own initiative to prepare for the competition and support one another. It was a meaningful and enjoyable day out for all of us involved.
