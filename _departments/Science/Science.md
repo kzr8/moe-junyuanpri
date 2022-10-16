@@ -62,4 +62,4 @@ The 'hands-on, minds-on' Experiential Approach to learning Science through learn
 
 ![](/images/Science1.png)
 
-Click
+Click [here](/departments/Science/Learning-Journeys/) to find out more!
