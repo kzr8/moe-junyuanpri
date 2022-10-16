@@ -47,3 +47,5 @@ During the field trip, the students were also taught the importance of protectin
 <figure><img src="/images/LJ6.jpeg" style="width:75%"><figcaption> Wow! A rare find on our field trip!</figcaption></figure>
 
 <figure><img src="/images/LJ7.jpeg" style="width:75%"><figcaption> We are learning and observing!</figcaption></figure>
+
+<figure><img src="/images/LJ8.jpeg" style="width:75%"><figcaption> Walking the trail</figcaption></figure>
