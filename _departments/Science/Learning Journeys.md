@@ -29,3 +29,13 @@ The trip allows pupils to better relate what they have learnt in the syllabus (D
 <figure><img src="/images/LJ2.png" style="width:100%"><figcaption> Pupa stage of the life cycle of a butterfly</figcaption></figure>
 
 <figure><img src="/images/LJ3.png" style="width:75%"><figcaption> Close up encounter with butterfly</figcaption></figure>
+
+
+### Science Field Trip to Sungei Buloh Wetland Reserve
+
+
+The P6 students went on a Science field trip to Sungei Buloh Wetland Reserve. As we embarked on the topic of environment and adaptations, the learning journey was timely to provide the nature setting for our students to learn and be awed with the new discoveries. The learning journey aimed to strengthen students’ understanding in the diversity of living things and their adaptation in order to survive in the mangrove.  
+
+  
+
+During the field trip, the students were also taught the importance of protecting our natural heritage. Sungei Buloh is situated in the North-West corner of Singapore and is well known for its mangrove forests and migratory shorebirds. The students learnt about the different communities found in a mangrove. They also learnt about how the plants and animals living in the mangrove adapt to their environment for survival.
