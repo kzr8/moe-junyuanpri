@@ -105,3 +105,15 @@ The teachers were very heartened to see how the pupils took their own initiative
   </tr>
 </tbody>
 </table>
+
+In line with the rationale behind the G!nnovation Challenge organized by NEA, the school  responded to the clarion call and put forth her support and contribution. The Science department’s innovation team trained and prepared 2 teams of P5 students to contribute through their participation in the G!nnovation Challenge.
+
+Overall, the teams promoted environmental stewardship amongst students through increased awareness on environmental problems via the application of STEM (Science, Technology, Engineering, Mathematics) in their projects. The teams were encouraged and guided to think out of the box to arrive at innovative and creative solutions that were relevant, effective, efficient and feasible to solve the problems. 
+
+  
+
+Specifically, to encourage their peers to recycle right, one team educated their peers  on what they can and cannot recycle through a humorous self-directed and self-produced video. In addition, their knowledge of Micro:bits were put into application in real life to track the rate of recycling. On the other hand, the other team gamified the experience of recycling plastic bottles by designing an arcade game-like bin. 
+
+  
+
+Due to their efforts, the rate of recycling went up during the project implementation period. Feedback from students also showed their increased knowledge and application. The teams came in 2nd and 3rd in the finals of the G!nnovation Challenge. Hence, through the GInnovation Challenge, students were inspired and motivated to become more aware of environmental problems, to think of innovative ideas, and to take actions to solve real-world problems.
