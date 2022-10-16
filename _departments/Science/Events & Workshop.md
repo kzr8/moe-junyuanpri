@@ -48,3 +48,5 @@ Students use a wide range of ideation techniques – such as brainstorming and c
 This space enables students to become problem solvers, develop positive attitudes and nurture creative thinkers. We also impart life skills such as sewing in the last term so that students could pick up an useful skill and apply in their daily life.
 
 <figure><img src="/images/Events1.jpeg" style="width:100%"><figcaption> Welcome to our IDEA @ Makerspace corner!</figcaption></figure>
+
+<figure><img src="/images/Events2.jpeg" style="width:100%"><figcaption> Creating models using ‘Strwbees’</figcaption></figure>
