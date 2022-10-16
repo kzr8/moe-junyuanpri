@@ -7,3 +7,14 @@ description: ""
 
 English Language
 ================
+
+
+##### Vision/Mission
+
+Every pupil is an effective and confident communicator with a love for the English Language
+
+  
+
+##### Tagline
+
+Good English Matters!
