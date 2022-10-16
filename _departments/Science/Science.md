@@ -86,3 +86,8 @@ The Science Environmental Club CCA develops our pupils to become scientific lite
   
 
 The Primary 5 Overseas Learning Journey to Chiang Mai provides an opportunity for the students to experience, learn as well as interact with their peers through a 2-day school immersion programme in Ban Loungnuae School (A Learning School to Sustainable Life). It also provides pupils with the opportunity to learn about the local culture, lifestyle and appreciate the diversity of Chiang Mai. This will enrich the educational experiences of pupils and to develop the skills of team-building and independent learning.
+
+
+![](/images/Science2.jpeg)
+
+![](/images/Science3.jpeg)
