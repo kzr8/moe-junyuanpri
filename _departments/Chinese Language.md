@@ -139,3 +139,5 @@ Through the Chinese Brush Painting sessions, students are exposed to and immerse
   
 
 The P1 and P2 Chinese Language students attended the Chinese brush painting lessons during the Chinese Language curriculum time in Term 4. They are taught the basic strokes used in Chinese brush painting and the traditional Chinese brush painting concepts. Students learned and explored a wide variety of themes such as flowers, birds, animals and plants.
+
+![](/images/ChineseLang4.png)
