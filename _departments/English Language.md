@@ -55,3 +55,30 @@ Pupils are given the opportunities to take on the role as reporters. They write 
 The following are some roving reporters in action during the P5 Overseas Learning Trip and Racial Harmony Celebration.  
   
 _2019 P5 Overseas Learning Trip (Suzhou, Brunei, Chiang Mai)_
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax"><img src="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/Departments/English/new/DSC01628.JPG" width="400" height="300"></th>
+    <th class="tg-0lax"><img src="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/Departments/English/new/DSC01653.JPG" width="400" height="300"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax"><img src="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/Departments/English/new/DSC01704.JPG" width="400" height="300"></td>
+    <td class="tg-0lax"><img src="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/Departments/English/new/DSC01724.JPG" width="400" height="300"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><img src="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/Departments/English/new/DSC02244.JPG" width="400" height="300"></td>
+    <td class="tg-0lax"><img src="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/Departments/English/new/DSC02250.JPG" width="400" height="300"></td>
+  </tr>
+</tbody>
+</table>
