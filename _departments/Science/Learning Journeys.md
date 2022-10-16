@@ -43,3 +43,5 @@ During the field trip, the students were also taught the importance of protectin
 <figure><img src="/images/LJ4.jpeg" style="width:100%"><figcaption> We are serious about Learning! So interesting!</figcaption></figure>
 
 <figure><img src="/images/LJ5.jpeg" style="width:75%"><figcaption> Pencil roots or vertical roots</figcaption></figure>
+
+<figure><img src="/images/LJ6.jpeg" style="width:75%"><figcaption> Wow! A rare find on our field trip!</figcaption></figure>
