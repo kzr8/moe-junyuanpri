@@ -194,3 +194,8 @@ At the end of the day, the students were tired but unanimously agreed that they 
 <figure><img src="/images/Camp5.jpeg" style="width:75%"><figcaption> The students displayed incredible teamwork and creativity to win the First Prize at the camp</figcaption></figure>
 
 <figure><img src="/images/Camp6.jpeg" style="width:75%"><figcaption> The tired but smiling faces of the students who have had a very fulfilling and enjoyable day learning about Science around them</figcaption></figure>
+
+
+Note: Video not uploaded via Youtube 
+
+The students discussing about the steps to follow in the making of the edible water bottles.
