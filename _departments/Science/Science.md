@@ -61,3 +61,5 @@ The 'hands-on, minds-on' Experiential Approach to learning Science through learn
 *   P6: Adaptations Workshop and Pasir Ris Park Fieldtrip – Interactions: Habitats and Adaptations of Living Things (Term 3)
 
 ![](/images/Science1.png)
+
+Click
