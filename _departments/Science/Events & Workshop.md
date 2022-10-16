@@ -84,3 +84,9 @@ This space enables students to become problem solvers, develop positive attitude
   </tr>
 </tbody>
 </table>
+
+_“A science experiment printed on paper will never make as much sense as doing it on your own.”_
+
+  
+
+Science E!Day is an annual workshop aimed to allow parents to learn more about making Science come alive for their child. Using hands-on demonstrations of simple yet interesting D-I-Y experiments, parents are better equipped to help develop and deepen their child’s understanding of scientific concepts with experiments that can be done at home. Some of the concepts covered during the workshop include diversity of materials, light and shadow and the water cycle. Furthermore, parents also had the opportunity to find out about other learning strategies and educational resources that can help communicate scientific concepts accurately. Through Science E!Day, the department hopes to partner parents in equipping our students with the necessary skills to understand the world around them better and nurture them into budding young scientists.
