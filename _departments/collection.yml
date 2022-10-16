@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Science/Learning Journeys.md
       - Science/Competition.md
       - Science/Events & Workshop.md
       - Science/.keep
