@@ -56,3 +56,5 @@ This space enables students to become problem solvers, develop positive attitude
 <figure><img src="/images/Events4.jpeg" style="width:100%"><figcaption> 3-D vehicle making using mini bricks</figcaption></figure>
 
 <figure><img src="/images/Events5.jpeg" style="width:100%"><figcaption> Teaching cross stitching as part of sewing as life skills</figcaption></figure>
+
+<figure><img src="/images/Events6.jpeg" style="width:100%"><figcaption> Fruit basket made using 3-D pens</figcaption></figure>
