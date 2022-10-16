@@ -51,4 +51,4 @@ The Science Department strives to provide our pupils with learning experiences t
 
 ### Learning Journeys and Workshops
 
-Click
+Click [here](/departments/Science/Events-and-Workshop/) to find out more!
