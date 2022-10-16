@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Mathematics.md
       - Science/Science.md
       - Science/Learning Journeys.md
       - Science/Competition.md
