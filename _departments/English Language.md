@@ -46,3 +46,12 @@ Pupils are provided with opportunities to broadcast current events, upcoming sch
 ![](/images/English2.png)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RK9vx3LcNrU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+##### **Roving Reporters**  
+Pupils are given the opportunities to take on the role as reporters. They write their own scripts and report on school events. They also get to interview teachers, parents and pupils to find out how they feel about the event. To be able to think on your feet, remain poise and confidence when the camera rolls could be nerve wracking but our pupils rise to the occasion.  
+  
+The following are some roving reporters in action during the P5 Overseas Learning Trip and Racial Harmony Celebration.  
+  
+_2019 P5 Overseas Learning Trip (Suzhou, Brunei, Chiang Mai)_
