@@ -52,3 +52,10 @@ The Science Department strives to provide our pupils with learning experiences t
 ### Learning Journeys and Workshops
 
 Click [here](/departments/Science/Events-and-Workshop/) to find out more!
+
+The 'hands-on, minds-on' Experiential Approach to learning Science through learning journeys and workshops will be part of Science learning for the P3 and P6 pupils. The learning journeys and workshop is linked to a theme that is covered in the Science Curriculum. Through these learning journeys, pupils are immersed in environments that allow them to observe and explore living organisms or science processes up close. It strengthens pupils’ concepts learnt in the various topics and enriches their learning experiences beyond the classroom to make learning meaningful and authentic. 
+
+  
+
+*   P3: Butterfly Park & Insect Kingdom - Diversity of Living Things (Term 1)
+*   P6: Adaptations Workshop and Pasir Ris Park Fieldtrip – Interactions: Habitats and Adaptations of Living Things (Term 3)
