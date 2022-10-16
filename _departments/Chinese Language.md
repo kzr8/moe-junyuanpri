@@ -113,3 +113,12 @@ In the process, students deepen their understanding of their own cultures throug
   </tr>
 </tbody>
 </table>
+
+
+**P4 – P6 Mother-Tongue Fortnight Programme**
+
+The Mother Tongue Fortnight Programme is an initiative by MOE, which aims to immerse students in various activities related to the Chinese Language. It aims to provide authentic opportunities for students to use Chinese Language and experience the associated culture.
+
+  
+
+The MTL Fortnight Programme allows students to learn Chinese Language through activities and games. They have the chance to enjoy the language in a different way. A wide range of activities related to Chinese language and culture are be conducted for the Chinese Language students in the programme.
