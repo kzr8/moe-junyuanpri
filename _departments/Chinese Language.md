@@ -89,3 +89,27 @@ P3 Cultural Camp is a day camp held within curriculum hours for P3 students who 
   
 
 In the process, students deepen their understanding of their own cultures through a myriad of fun and educational activities. It also enhances students’ interest in learning their Mother Tongue through participation in various activities.
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-zv4m{border-color:#ffffff;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-zv4m"><img src="https://junyuanpri.moe.edu.sg/qql/slot/u499/Departments/Chinese%20Language/camp/P3%20Cultural%20camp%201.jpg" width="400" height="300"></th>
+    <th class="tg-zv4m"><img src="https://junyuanpri.moe.edu.sg/qql/slot/u499/Departments/Chinese%20Language/camp/P3%20Cultural%20camp%202.jpg" width="400" height="300"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-zv4m"><img src="https://junyuanpri.moe.edu.sg/qql/slot/u499/Departments/Chinese%20Language/camp/P3%20Cultural%20camp%203.jpg" width="400" height="300"></td>
+    <td class="tg-zv4m"><img src="https://junyuanpri.moe.edu.sg/qql/slot/u499/Departments/Chinese%20Language/camp/P3%20Cultural%20camp%204.jpg" width="400" height="300"></td>
+  </tr>
+</tbody>
+</table>
