@@ -39,3 +39,5 @@ The P6 students went on a Science field trip to Sungei Buloh Wetland Reserve. As
   
 
 During the field trip, the students were also taught the importance of protecting our natural heritage. Sungei Buloh is situated in the North-West corner of Singapore and is well known for its mangrove forests and migratory shorebirds. The students learnt about the different communities found in a mangrove. They also learnt about how the plants and animals living in the mangrove adapt to their environment for survival.
+
+<figure><img src="/images/LJ4.jpeg" style="width:100%"><figcaption> We are serious about Learning! So interesting!</figcaption></figure>
