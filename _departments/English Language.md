@@ -87,3 +87,14 @@ _2019 P5 Overseas Learning Trip (Suzhou, Brunei, Chiang Mai)_
 *2019 Racial Harmony Day Celebration*
 
 ![](/images/English3.png)
+
+
+### READING PROGRAMMES
+
+  
+
+#### **Ask Me To Read (AMTR)**
+
+To develop and maintain a vibrant school library and reading culture, our department rides on this AMTR programme where teachers promote books of different categories during pre-morning assemblies once a month. Teachers will encourage pupils to borrow books of a particular category shared.
+
+![](/images/English5.png)
