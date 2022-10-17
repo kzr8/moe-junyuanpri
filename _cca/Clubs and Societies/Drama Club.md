@@ -8,3 +8,5 @@ third_nav_title: Clubs and Societies
 
 Drama Club
 ==========
+
+![](/images/Drama.jpeg)
