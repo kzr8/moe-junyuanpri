@@ -61,3 +61,50 @@ Pupils learn to be self-directed learners and make their own decisions as they r
   </tr>
 </thead>
 </table>
+
+---
+
+##### **PARTICIPATION AND ACHIEVEMENTS AT EVENTS**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-sdzj{background-color:#FFF;color:#454545;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-sdzj"><span style="color:inherit;background-color:transparent">2020</span></th>
+    <th class="tg-sdzj"><span style="color:inherit;background-color:transparent">- Wild Wisdom Quiz</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">2019</span></td>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">- National Environment Quiz </span></td>
+  </tr>
+  <tr>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">2019</span></td>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">-Marine Aquascaping VJC </span></td>
+  </tr>
+</tbody>
+</table>
+
+
+##### **SCHEDULE**
+
+Fridays 1.10 pm - 3.40 pm  
+**Venue:** Science Lab 1
+
+**Teachers IC and Email address:**
+
+Ms Chan Audrey: [chan\_audrey@moe.edu.sg](mailto:chan_audrey@moe.edu.sg)  
+
+Mr Ivan Ong: [ong\_chee\_beng\_a@moe.edu.sg](mailto:ong_chee_beng_a@moe.edu.sg)
+
+Mrs Corinne Teo: [sim\_chew\_yen@moe.edu.sg](mailto:sim_chew_yen@moe.edu.sg)
+
+Ms Loong Shu Yi: [loong\_shu\_yi@moe.edu.sg](mailto:loong_shu_yi@moe.edu.sg)
