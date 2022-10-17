@@ -41,3 +41,23 @@ Pupils learn to be self-directed learners and make their own decisions as they r
   </tr>
 </thead>
 </table>
+
+----
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-8jgo{border-color:#ffffff;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-8jgo"><img src="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/CCA/2021%20School%20Website_Env%20Club%20Pic%205.jpg" alt="Image" width="300" height="225"><br><span style="font-weight:400;font-style:italic">Planning and research</span></td>
+    <td class="tg-8jgo"><img src="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/CCA/2021%20School%20Website_Env%20Club%20Pic%206.jpg" alt="Image" width="300" height="225"><br><span style="font-style:italic">Game creation in progress.</span></td>
+    <td class="tg-8jgo"><img src="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/CCA/2021%20School%20Website_Env%20Club%20Pic%207.jpg" alt="Image" width="300" height="225"><br><span style="font-style:italic">Putting on the finishing touches on our games</span></td>
+  </tr>
+</thead>
+</table>
