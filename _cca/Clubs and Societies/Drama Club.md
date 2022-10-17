@@ -31,3 +31,23 @@ The Drama Club was formed in 2013. Currently, there are 15 members from Primary 
   </tr>
 </thead>
 </table>
+
+### PARTICIPATION AND ACHIEVEMENT AT EVENTS
+
+
+2019 - 3rd prize for Junior Orators  
+2019 - One of the schools selected to perform for SYF KidsPlay! Showcase  
+2020 - 1st prize for Junior Orators
+
+
+### SCHEDULE
+
+
+Every Friday, 1.15pm - 3.30pm
+
+##### **Teachers IC:**
+
+Mrs Chow Kar Yan: [chua\_kar\_yan@moe.edu.sg](mailto:chua_kar_yan@moe.edu.sg)[](mailto:chua_kar_yan@moe.edu.sg)  
+Mrs Suriani Hanes: [suriani\_abdullah@moe.edu.sg](mailto:suriani_abdullah@moe.edu.sg)[](mailto:suriani_abdullah@moe.edu.sg)  
+Mrs Chan Soh Wah: [teo\_soh\_wah@moe.edu.sg](mailto:teo_soh_wah@moe.edu.sg)[](mailto:teo_soh_wah@moe.edu.sg)  
+Mrs Cynthia Chua: [lim\_hui\_ling\_cynthia@moe.edu.sg](mailto:lim_hui_ling_cynthia@moe.edu.sg)
