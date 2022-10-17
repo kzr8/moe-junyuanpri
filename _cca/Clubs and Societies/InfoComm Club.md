@@ -8,3 +8,5 @@ third_nav_title: Clubs and Societies
 
   
 # InfoComm Club
+
+![](/images/INFOCOMM%20CLUB_0301A%20FORMAL.jpeg)
