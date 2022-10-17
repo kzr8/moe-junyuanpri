@@ -161,3 +161,8 @@ During Library Festival, pupils can look forward to playing games that are tied 
 In year 2019, the theme was on “STEAM”. Students had a chance to engage in literacy activities such as: Books Come to Life, Puppet Storytelling, Feed the Sharks and The 3E.
 
 *2019 Library Week - “The World of STEAM"*
+
+
+
+
+### **ACHIEVEMENTS**
