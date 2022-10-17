@@ -10,3 +10,4 @@ Scouts Cubs
 ===========
 
 ![](/images/ScoutsCLub.jpeg)
+![](/images/Scout%20Group%20photo%20with%20school%20flag.jpeg)
