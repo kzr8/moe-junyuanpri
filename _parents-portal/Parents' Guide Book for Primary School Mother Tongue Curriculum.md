@@ -16,3 +16,6 @@ Please click on the links below to download the Parents' Guides for Primary Scho
 
 
 ##### **Malay Language**
+
+
+##### **Tamil Language**
