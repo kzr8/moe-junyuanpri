@@ -1,0 +1,4 @@
+collections:
+  parents-portal:
+    output: true
+    order: []
