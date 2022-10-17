@@ -35,3 +35,53 @@ The InfoComm Club CCA aims to excite and develop the love for Information Commun
   </tr>
 </thead>
 </table>
+
+---
+
+##### **PARTICIPATION AND ACHIEVEMENTS AT EVENTS**
+
+2021
+
+Completed a 10-session Microbit Course
+
+Participated in Artificial Intelligence Festival 2021
+
+  
+
+2020  
+
+Completed a 12-hour Mobile App Development Course
+
+Participated in 3D-Tronics Micro:bit Asia Challenge 2020 and won Explorer Award for the Junior Category
+
+  
+
+2019
+
+Participated in photography contests
+
+Completed a 12-session Web Developer Junior Course
+
+---
+
+##### **SCHEDULE**  
+
+  
+
+Fridays 1.15pm - 3.30pm
+
+**Venue:**  Computer Labs
+
+**Teachers IC and Email address:**
+
+Ms Celia Lim: [lim\_celia@moe.edu.sg](mailto:lim_celia@moe.edu.sg)
+
+Mdm Pan Xuan: [pan\_xuan@moe.edu.sg](mailto:pan_xuan@moe.edu.sg)
+
+Mdm Chee Li Boon: [chee\_li\_boon@moe.edu.sg](mailto:chee_li_boon@moe.edu.sg)
+
+Mrs Sharon Chia: [lee\_jia\_woei@moe.edu.sg](mailto:lee_jia_woei@moe.edu.sg)
+
+[](mailto:nurhidayah_farook@moe.edu.sg)
+
+Mdm Hidayah: [nurhidayah\_farook@moe.edu.sg](mailto:nurhidayah_farook@moe.edu.sg)
