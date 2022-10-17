@@ -4,3 +4,9 @@ permalink: /cca/Visual-and-Performing-Arts-Group/ChineseDance/
 description: ""
 third_nav_title: Visual & Performing Arts Group
 ---
+![](/images/banner.gif)
+
+Chinese Dance
+=============
+
+![](/images/ChineseDance.jpeg)
