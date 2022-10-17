@@ -220,3 +220,7 @@ Mathematics is a hierarchical subject, where higher concepts and skills are buil
 ![](/images/Math3.png)
 ![](/images/Math4.png)
 ![](/images/Math5.png)
+
+##### **Learning through the use of ICT tools**
+
+![](/images/Math6.png)
