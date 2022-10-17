@@ -12,3 +12,5 @@ Primary 6
 ![](/images/P61.png)
 ![](/images/P62.png)
 ![](/images/P63.png)
+![](/images/P64.png)
+![](/images/P65.png)
