@@ -50,3 +50,9 @@ We aim to develop our members into graceful and skilled dancers, and confident p
   </tr>
 </tbody>
 </table>
+
+
+##### **SCHEDULE**
+
+**Date:** Mondays 2.00pm - 3.30pm   
+           Fridays 1.15pm - 3.30pm
