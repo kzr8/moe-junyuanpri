@@ -28,3 +28,6 @@ Dear Parents/Guardians,
   
 
 All incoming applications for Registration for MK@Junyuan will be placed under the Waitlist as the official registration window has closed.
+
+
+**You may submit your application via the FormSG Link or QR code for MK@Junyuan Waitlist form below:**
