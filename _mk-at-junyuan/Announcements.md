@@ -20,3 +20,11 @@ Announcements
 
 
 **·      (K1 – 2022 Cohort)**
+
+
+
+Dear Parents/Guardians,  
+
+  
+
+All incoming applications for Registration for MK@Junyuan will be placed under the Waitlist as the official registration window has closed.
