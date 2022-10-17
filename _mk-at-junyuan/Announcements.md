@@ -31,3 +31,5 @@ All incoming applications for Registration for MK@Junyuan will be placed under t
 
 
 **You may submit your application via the FormSG Link or QR code for MK@Junyuan Waitlist form below:**
+
+**MK Junyuan Waitlist Form:**  [https://go.gov.sg/mkjunyuan-waitlist](https://go.gov.sg/mkjunyuan-waitlist)
