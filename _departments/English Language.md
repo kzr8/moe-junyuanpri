@@ -187,3 +187,19 @@ In year 2019, the theme was on “STEAM”. Students had a chance to engage in l
 
 
 ### **ACHIEVEMENTS**
+
+**SPEECH ARTS’ COMPETITION AND FESTIVAL 2019**
+
+**\-A NATIONAL COMPETITION FOR SCHOOLS@ACJC**
+
+ **(Extempore Comic Speaking - Upper Primary/ Lower Sec)**
+ 
+ Vasanthakumar Ramamoorthy 6C3 (Tr-in-charge: Mdm Rahayu)
+
+  
+
+The Extempore Comic Speaking competition was held on 31 August 2019. Vasanthakumar’s contenders were upper primary and lower secondary students from primary and secondary schools in Singapore. On the day of the competition, Vasanthkumar was given topics for his impromptu 3-minute speeches. He was allocated a fixed length of time for speech preparation. The speeches Vasanthakumar presented tickled the audience. He won the judges’ hearts with his wit and confidence. He presented speeches in Preliminary Round 1 and Round 2. His scores were high enough to be awarded an advancement to the Semi-Finals and later, the ultimate Finals. 
+
+  
+
+Vasanthakumar secured 1st Runner-up placing in the Finals.
