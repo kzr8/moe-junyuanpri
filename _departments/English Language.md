@@ -203,3 +203,15 @@ The Extempore Comic Speaking competition was held on 31 August 2019. Vasanthakum
   
 
 Vasanthakumar secured 1st Runner-up placing in the Finals.
+
+
+![](/images/Eng.png)
+
+
+### **Useful links and/or tips**
+
+[2010 English Language (Primary/Secondary - Express/Normal (Academic)) Syllabus](https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/english-language-and-literature/files/english-primary-secondary-express-normal-academic.pdf)
+
+[2010 English Language (Primary (Foundation) / Secondary Normal (Technical)) Syllabus](https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/english-language-and-literature/files/english-primary-foundation-secondary-normal-technical.pdf)
+
+[Speak Good English Movement](https://www.goodenglish.org.sg/)
