@@ -405,3 +405,20 @@ Our pupils emerged 4th place overall in the Senior Division Male category in the
   </tr>
 </tbody>
 </table>
+
+Our pupils emerged 2nd place for Overall in the Junior Division Male category and 1st place for Overall in the Senior Division Male category.
+
+
+---
+
+
+##### **SCHEDULE**  
+  
+Mondays 2.00pm - 3.30pm  
+Fridays 1.15pm - 3.30pm
+
+**Teachers IC and Email address:**  
+Mdm Teo Wan Qi: [teo\_wan\_qi@moe.edu.sg](mailto:teo_wan_qi@moe.edu.sg)  
+Mdm Yvonne Lee: [lee\_yen\_ting\_yvonne@moe.edu.sg](mailto:lee_yen_ting_yvonne@moe.edu.sg)[](mailto:lee_yen_ting_yvonne@moe.edu.sg)  
+Mdm Sim Hui Hui: [sim\_huihui@moe.edu.sg](mailto:sim_huihui@moe.edu.sg)  
+Mdm Norlinda: [norlinda\_saadon@moe.edu.sg](mailto:norlinda_saadon@moe.edu.sg)
