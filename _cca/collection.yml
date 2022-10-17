@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Visual & Performing Arts Group/.keep
       - Uniformed Groups/Scouts Cubs.md
       - Uniformed Groups/.keep
       - Clubs and Societies/Library Club.md
