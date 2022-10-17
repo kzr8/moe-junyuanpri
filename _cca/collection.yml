@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - CCAs.md
+      - Physical Sports Group/Tae Kwon Do.md
       - Physical Sports Group/Floorball.md
       - Physical Sports Group/.keep
       - Visual & Performing Arts Group/Chinese Dance.md
