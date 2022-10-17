@@ -43,3 +43,21 @@ Chinese Dance allows students to learn dance moves, proper stretching, warm-up t
   </tr>
 </tbody>
 </table>
+
+
+---
+
+##### **SCHEDULE**  
+
+  
+
+Mondays 2.oopm - 3.3opm
+
+
+**Teachers IC and Email address:**
+
+Mdm Pang Sze Sheng: [pang\_sze\_sheng@moe.edu.sg](mailto:pang_sze_sheng@moe.edu.sg) 
+
+Mdm Poh Choon Tee: [poh\_choon\_tee@moe.edu.sg](mailto:poh_choon_tee@moe.edu.sg)  
+
+Mdm Pan Xuan: [pan\_xuan@moe.edu.sg](mailto:pan_xuan@moe.edu.sg)
