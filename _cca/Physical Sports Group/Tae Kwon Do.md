@@ -331,3 +331,77 @@ Our pupils emerged 4th place overall in the Senior Division Male category in the
   </tr>
 </tbody>
 </table>
+
+**Senior Division - Team**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-csdc{background-color:#FFF;color:#454545;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-sdzj{background-color:#FFF;color:#454545;text-align:left;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 705px">
+<colgroup>
+<col style="width: 36px">
+<col style="width: 229px">
+<col style="width: 105px">
+<col style="width: 237px">
+<col style="width: 98px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-csdc"><span style="color:inherit;background-color:transparent">No.</span></th>
+    <th class="tg-csdc"><span style="color:inherit;background-color:transparent">Name of Pupil</span></th>
+    <th class="tg-csdc"><span style="color:inherit;background-color:transparent">Class</span></th>
+    <th class="tg-csdc"><span style="color:inherit;background-color:transparent">Event</span></th>
+    <th class="tg-csdc"><span style="color:inherit;background-color:transparent">Achievement</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">1</span></td>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">Ting Jian Ming</span></td>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">P6 Excellence</span></td>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">Senior Division Boys Red 2 Team</span></td>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">Gold</span></td>
+  </tr>
+  <tr>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">2</span></td>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">Muhd Danial Hakim bin Muhd Yusri</span></td>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">P6 Integrity</span></td>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">Senior Division Boys Red 2 Team</span></td>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">Gold</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">3</span></td>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">Jarrett Goh Bing Heng</span></td>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">P6 Respect</span></td>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">Senior Division Boys Red 2 Team</span></td>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">Gold</span></td>
+  </tr>
+  <tr>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">4</span></td>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">Jarrett Goh Bing Heng</span></td>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">P6 Respect</span></td>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">Senior Division Boys Red 1 Team </span></td>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">Gold</span></td>
+  </tr>
+  <tr>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">5</span></td>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">Muhd Danial Hakim bin Muhd Yusri</span></td>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">P6 Integrity</span></td>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">Senior Division Boys Red 1 Team </span></td>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">Gold</span></td>
+  </tr>
+  <tr>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">6</span></td>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">Chin Tsi Jet, Joseph</span></td>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">P6 Respect</span></td>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">Senior Division Boys Red 1 Team </span></td>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">Gold</span></td>
+  </tr>
+</tbody>
+</table>
