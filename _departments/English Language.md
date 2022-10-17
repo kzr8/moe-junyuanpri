@@ -162,7 +162,28 @@ In year 2019, the theme was on “STEAM”. Students had a chance to engage in l
 
 *2019 Library Week - “The World of STEAM"*
 
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-oe15{background-color:#ffffff;border-color:#ffffff;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-oe15"><img src="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/Departments/English/new/IMG_6393.JPG" alt="Image" width="400" height="300"></th>
+    <th class="tg-oe15"><img src="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/Departments/English/new/IMG_6398.JPG" alt="Image" width="400" height="300"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-oe15"><img src="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/Departments/English/new/IMG_6456.JPG" alt="Image" width="400" height="300"></td>
+    <td class="tg-oe15"><img src="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/Departments/English/new/IMG_6471.JPG" alt="Image" width="400" height="300"></td>
+  </tr>
+</tbody>
+</table>
 
 
 ### **ACHIEVEMENTS**
