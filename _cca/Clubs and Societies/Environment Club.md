@@ -18,6 +18,7 @@ Pupils learn to be self-directed learners and make their own decisions as they r
 
 ---
 
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -26,21 +27,17 @@ Pupils learn to be self-directed learners and make their own decisions as they r
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-8jgo{border-color:#ffffff;text-align:center;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 1275px">
+<table class="tg" style="undefined;table-layout: fixed; width: 903px">
 <colgroup>
-<col style="width: 442px">
-<col style="width: 411px">
-<col style="width: 422px">
+<col style="width: 301px">
+<col style="width: 301px">
+<col style="width: 301px">
 </colgroup>
 <thead>
   <tr>
-    <td class="tg-8jgo"><img src="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/CCA/Picture%202[1].jpg" alt="Image" width="400" height="300"><br><span style="font-style:italic">Creating a sustainable environment through their gardening sessions.</span></td>
-    <td class="tg-8jgo"><img src="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/2020/CCA/Environment%20Club_Pic%202.jpg" alt="Image" width="400" height="300"><br><span style="font-weight:400;font-style:italic">Upcycling waste materials into games.</span></td>
-    <td class="tg-8jgo"><img src="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/2020/CCA/Environment%20Club_Pic%203.JPG" alt="Image" width="400" height="300"><br><span style="font-weight:400;font-style:italic">Harvesting the fruits of our labour.</span></td>
+    <td class="tg-8jgo"><img src="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/CCA/Picture%202[1].jpg" alt="Image" width="300" height="225"><br><span style="font-style:italic">Creating a sustainable environment through their gardening sessions.</span></td>
+    <td class="tg-8jgo"><img src="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/2020/CCA/Environment%20Club_Pic%202.jpg" alt="Image" width="300" height="225"><br><span style="font-weight:400;font-style:italic">Upcycling waste materials into games.</span></td>
+    <td class="tg-8jgo"><img src="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/2020/CCA/Environment%20Club_Pic%203.JPG" alt="Image" width="300" height="225"><br><span style="font-weight:400;font-style:italic">Harvesting the fruits of our labour.</span></td>
   </tr>
 </thead>
 </table>
-
-
-
-
