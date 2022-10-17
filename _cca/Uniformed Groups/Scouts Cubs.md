@@ -62,3 +62,23 @@ Cub Scout Gangshow
   </tr>
 </thead>
 </table>
+
+---
+
+##### **PARTICIPATION AND ACHIEVEMENTS AT EVENTS**  
+  
+
+*   Frank Cooper Sands Award - Bronze
+*   Akela Award 2019 Recipients - Illyanis and Gracia Lee
+*   Akela Award 2020 Recipients - Erin Lee Jia En and Mavis Seng Jia En
+*   National event - 2019 Bicentennial Scout trek at Bishan Stadium
+---
+
+##### **SCHEDULE**  
+
+Fridays 1.15pm - 3.30pm
+
+**Teachers IC and Email address:**  
+Mdm Loo Chin Imm: l[oo\_chin\_imm@moe.edu.sg](mailto:oo_chin_imm@moe.edu.sg)  
+Mdm Nur Liyana: [nur\_liyana\_amrun@moe.edu.sg](mailto:nur_liyana_amrun@moe.edu.sg)  
+Mr Kelvin Goh: [goh\_wei\_keong\_kelvin@moe.edu.sg](mailto:goh_wei_keong_kelvin@moe.edu.sg)
