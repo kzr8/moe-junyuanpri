@@ -14,28 +14,7 @@ Drama Club
 
 The Drama Club was formed in 2013. Currently, there are 15 members from Primary 4 to 6. The club aims to equip members with acting skills and provide them with the opportunities to showcase the skills they have learnt through various competitions and performances. They will also be able to discover their hidden talents, boost their level of confidence and become a more confident communicator. Ultimately, the club’s goal is to inculcate a love for drama in its members.
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-4r87{border-color:#ffffff;font-style:italic;text-align:center;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 933px">
-<colgroup>
-<col style="width: 311px">
-<col style="width: 311px">
-<col style="width: 311px">
-</colgroup>
-<thead>
-  <tr>
-    <td class="tg-4r87"><img src="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/CCA/pic%202.jpg" alt="Image" width="310" height="174"><br>Members receiving their prizes for the National Story Challenge</td>
-    <td class="tg-4r87"><img src="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/CCA/Pic%203.JPG" alt="Image" width="310" height="206"><br>Members performing during the Staff Appreciation Day </td>
-    <td class="tg-4r87"><img src="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/CCA/Pic%204.JPG" alt="Image" width="310" height="206"><br>Members performing during the school National Day celebration</td>
-  </tr>
-</thead>
-</table>
+![](/images/Drama2.png)
 
 ---
 
