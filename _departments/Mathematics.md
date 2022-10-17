@@ -238,3 +238,11 @@ Mathematics is a hierarchical subject, where higher concepts and skills are buil
 ![](/images/SPD1.png)
 
 ![](/images/SPD2.png)
+
+### **USEFUL LINKS/TIPS**
+
+##### **Exam Matters**
+
+*   **[https://www.seab.gov.sg/](https://www.seab.gov.sg/)**
+
+*   **[https://www.moe.gov.sg/-/media/files/primary/2021-mathematics-syllabus-primary-1-to-6.pdf](https://www.moe.gov.sg/-/media/files/primary/2021-mathematics-syllabus-primary-1-to-6.pdf)**
