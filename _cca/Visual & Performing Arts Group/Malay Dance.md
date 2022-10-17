@@ -56,3 +56,9 @@ We aim to develop our members into graceful and skilled dancers, and confident p
 
 **Date:** Mondays 2.00pm - 3.30pm   
            Fridays 1.15pm - 3.30pm
+					 
+					 
+**Teachers IC and Email address:**  
+Mdm Jurieni: [jurieni\_bahrom@moe.edu.sg](mailto:jurieni_bahrom@moe.edu.sg)  
+Mdm Rozana: [rozana\_mohamad\_said@moe.edu.sg](mailto:rozana_mohamad_said@moe.edu.sg)  
+Mdm Rosnita: [rosnita\_hamid@moe.edu.sg](mailto:rosnita_hamid@moe.edu.sg)
