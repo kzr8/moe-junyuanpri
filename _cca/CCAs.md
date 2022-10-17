@@ -33,3 +33,28 @@ Our CCAs offer excellent platforms for students to acquire core values, social a
 ##### **2.1 List of CCAs**
 
 Physical Sports Groups
+
+
+Visual and Performing Arts Groups
+
+
+Uniformed Groups
+
+
+Clubs and Societies
+
+
+
+##### **2.2 Selection of CCA**  
+All P3-P6 students are strongly encouraged to participate in at least 1 CCA of their choice. 
+
+  
+
+All P3 students will be given an option to participate in 1 CCA if they wish to. 
+
+  
+
+Parents who would like their P1 students to join a CCA will need to write in to HOD (PE/Music/Arts) or SH (Aesthetics) at junyuan_ps@moe.edu.sg
+
+
+
