@@ -2,5 +2,6 @@ collections:
   parents-portal:
     output: true
     order:
+      - EOY PrizePresentation Ceremony/Primary 6.md
       - EOY PrizePresentation Ceremony/.keep
       - Parents' Guide Book for Primary School Mother Tongue Curriculum.md
