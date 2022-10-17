@@ -343,13 +343,13 @@ Our pupils emerged 4th place overall in the Senior Division Male category in the
 .tg .tg-csdc{background-color:#FFF;color:#454545;font-weight:bold;text-align:left;vertical-align:middle}
 .tg .tg-sdzj{background-color:#FFF;color:#454545;text-align:left;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 705px">
+<table class="tg" style="undefined;table-layout: fixed; width: 726px">
 <colgroup>
-<col style="width: 36px">
+<col style="width: 46px">
 <col style="width: 229px">
 <col style="width: 105px">
 <col style="width: 237px">
-<col style="width: 98px">
+<col style="width: 109px">
 </colgroup>
 <thead>
   <tr>
