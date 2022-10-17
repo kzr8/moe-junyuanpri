@@ -1,4 +1,5 @@
 collections:
   parents-portal:
     output: true
-    order: []
+    order:
+      - Parents' Guide Book for Primary School Mother Tongue Curriculum.md
