@@ -2,5 +2,6 @@ collections:
   cca:
     output: true
     order:
+      - Clubs and Societies/Environment Club.md
       - Clubs and Societies/Drama Club.md
       - Clubs and Societies/.keep
