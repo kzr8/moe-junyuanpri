@@ -9,3 +9,5 @@ third_nav_title: Physical Sports Group
 
 Floorball
 =========
+
+![](/images/Floorball.jpeg)
