@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Uniformed Groups/.keep
       - Clubs and Societies/Library Club.md
       - Clubs and Societies/InfoComm Club.md
       - Clubs and Societies/Environment Club.md
