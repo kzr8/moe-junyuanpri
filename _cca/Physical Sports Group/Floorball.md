@@ -43,3 +43,32 @@ Our Junyuan floorball team is made up of passionate players, teachers and coache
   </tr>
 </thead>
 </table>
+
+
+---
+
+##### **ACHIEVEMENTS**
+  
+**2019**  
+National Floorball Championships: Junior Boys came in 2nd in Tier 2 - Group 2A  
+  
+2018  
+National Floorball Championships: Junior Boys came in 3rd in the preliminary round
+
+-----
+
+
+##### **SCHEDULE**  
+  
+Wednesdays 2.00pm - 3.30pm (Primary 4 & 5 on alternate weeks)  
+Fridays 1.15pm to 3.30pm (Primary 6)
+
+**Teachers IC and Email address:**   
+
+Mdm Subiati Bte Cromo: [subiati\_cromo@moe.edu.sg](mailto:subiati_cromo@moe.edu.sg)
+
+Mr Pavadai Mohan: [pavadai\_mohan@moe.edu.sg](mailto:pavadai_mohan@moe.edu.sg)
+
+Mdm Hafidzoh Sirri Bts Sajani: [hafidzoh\_sirri\_sajani@moe.edu.sg](mailto:hafidzoh_sirri_sajani@moe.edu.sg)
+
+Miss Jalilah Bte Jalihan: [jalilah\_jalihan@moe.edu.sg](mailto:jalilah_jalihan@moe.edu.sg)
