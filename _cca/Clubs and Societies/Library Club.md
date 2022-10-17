@@ -9,3 +9,4 @@ third_nav_title: Clubs and Societies
 Library Club
 ============
 
+![](/images/LIBRARY%20&%20DRAMA%20CLUB_0263%20FORMAL.jpeg)
