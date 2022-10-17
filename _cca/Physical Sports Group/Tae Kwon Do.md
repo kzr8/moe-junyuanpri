@@ -43,3 +43,64 @@ Taekwondo is a Korean martial art that was developed by Korean masters in the 19
   </tr>
 </tbody>
 </table>
+
+---
+
+##### **ACHIEVEMENTS**  
+  
+**2019**  
+Our pupils emerged 4th place overall in the Senior Division Male category in the National School Games.  
+  
+**2018**  
+**Junior Division - Individual**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-csdc{background-color:#FFF;color:#454545;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-sdzj{background-color:#FFF;color:#454545;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-csdc"><span style="color:inherit;background-color:transparent">No.</span></th>
+    <th class="tg-csdc"><span style="color:inherit;background-color:transparent">Name of Pupil</span></th>
+    <th class="tg-csdc"><span style="color:inherit;background-color:transparent">Class</span></th>
+    <th class="tg-csdc"><span style="color:inherit;background-color:transparent">Event</span></th>
+    <th class="tg-csdc"><span style="color:inherit;background-color:transparent">Achievement</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">1</span></td>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">Lin Zhongde, Jayden</span></td>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">P5 Integrity</span></td>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">Junior Division Boys Green 6</span></td>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">Bronze</span></td>
+  </tr>
+  <tr>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">2</span></td>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">Markus Ong Jun Wen</span></td>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">P5 Responsibility</span></td>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">Junior Division Boys Green 6</span></td>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">Bronze</span></td>
+  </tr>
+  <tr>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">3</span></td>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">Tia Kea Hin</span></td>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">P5 Resilience</span></td>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">Junior Division Boys Green 6</span></td>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">Silver</span></td>
+  </tr>
+  <tr>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">4</span></td>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">Tia Kea Hin</span></td>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">P5 Resilience</span></td>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">Junior Division Boys Blue 4</span></td>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">Gold</span></td>
+  </tr>
+</tbody>
+</table>
