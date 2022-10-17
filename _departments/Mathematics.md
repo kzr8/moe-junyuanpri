@@ -214,5 +214,3 @@ Mathematics is a hierarchical subject, where higher concepts and skills are buil
   
 
 ##### **Hands-on activities through the use of manipulatives**
-
-
