@@ -8,3 +8,5 @@ third_nav_title: Visual & Performing Arts Group
 
 Music Interest Club
 ===================
+
+![](/images/MUSIC%20INTEREST%20CLUB_0057A%20FORMAL.jpeg)
