@@ -251,3 +251,14 @@ Mathematics is a hierarchical subject, where higher concepts and skills are buil
 ##### **Calculators for Primary 5 and Primary 6**
 
 *  [Calculators for Primary 5 and Primary 6](/files/Math.pdf)
+
+
+##### **Mathematics Websites**
+
+*   **[http://www.amathsdictionaryforkids.com/](http://www.amathsdictionaryforkids.com/)**
+*   **[https://www.mathsisfun.com/](https://www.mathsisfun.com/)**
+*   **[https://www.mathplayground.com/](https://www.mathplayground.com/)**
+*   **[http://www.mathwords.com](http://www.mathwords.com/)**
+*   **[https://www.coolmath.com/](https://www.coolmath.com/)**
+*   **[https://www.funbrain.com/math-zone](https://www.funbrain.com/math-zone)**
+*   **[https://mathstory.com/](https://mathstory.com/%C2%A0)**
