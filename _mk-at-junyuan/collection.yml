@@ -2,4 +2,5 @@ collections:
   mk-at-junyuan:
     output: true
     order:
+      - Staff List.md
       - Media Release.md
