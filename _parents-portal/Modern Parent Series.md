@@ -10,4 +10,12 @@ Modern Parent Series
 
 ### Managing Transition
 
+![](/images/Managing%20Transition.jpeg)
 
+----
+
+### Sleep
+
+![](/images/Sleep.jpeg)
+
+-----
