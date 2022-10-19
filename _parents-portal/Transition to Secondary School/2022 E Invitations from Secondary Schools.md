@@ -26,3 +26,7 @@ Cedar Girls' Secondary School would like to extend a warm invitation to Primary 
 ### Singapore Chinese Girls' School (SCGS) DSA 2022 NEW!
 
 ![](/images/SCGS%20DSA.png)
+
+### Raffles Girls' School (RGS) Virtual Open House 2022 NEW!
+
+![](/images/RGS%20Virtual%20Open%20House%202022.png)
