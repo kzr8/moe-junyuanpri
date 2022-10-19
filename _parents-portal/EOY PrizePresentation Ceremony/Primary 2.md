@@ -8,3 +8,5 @@ third_nav_title: EOY PrizePresentation Ceremony
 
 Primary 2
 =========
+
+![](/images/P21.png)
