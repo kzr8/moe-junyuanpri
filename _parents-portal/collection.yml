@@ -2,6 +2,7 @@ collections:
   parents-portal:
     output: true
     order:
+      - Relating To Your Child/Relating To Your Child.md
       - Relating To Your Child/.keep
       - PSG.md
       - Health Promotion Board (HPB) Resources.md
