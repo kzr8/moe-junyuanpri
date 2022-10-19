@@ -107,4 +107,4 @@ Please click [here](/parents-portal/Relating-To-Your-Child/How-To-Help-Your-Chil
 
 ##### **Praise Your Child Today!**
 
-Research shows that parent-child connectedness is one of the more effective ways of prevention against risky behavior in children. Affirming their strengths and positive qualities builds a safe environment at home for children to confide in you. It will also build resilience and nurture them for success. Please click
+Research shows that parent-child connectedness is one of the more effective ways of prevention against risky behavior in children. Affirming their strengths and positive qualities builds a safe environment at home for children to confide in you. It will also build resilience and nurture them for success. Please click [here](/parents-portal/Relating-To-Your-Child/Praise-Your-Child-Today/) to read more.
