@@ -105,3 +105,11 @@ Dont's:
 *   Talk to him/her about his/her online experiences. (For example, discuss about the benefits and risks of the Internet, share how people connect and communicate with one another through the Internet).
 *   Let your child know that it is alright to ask you questions or talk to you if he/she run into problems with someone online.
 *   Download the [C-Quest game app](http://ictconnection.moe.edu.sg/cyber-wellness/for-parents/resources/c-quest), which facilitates conversation between parents and children on cyber wellness, from the iTunes Store / Google Play.
+
+For more **guides & tips, resources and useful links** to help you to reinforce Cyber Wellness education at home, click [**here**](http://ictconnection.moe.edu.sg/cyber-wellness/for-parents).
+
+**Source**: http://ictconnection.moe.edu.sg/
+
+---
+
+##### **Connect with Parents**
