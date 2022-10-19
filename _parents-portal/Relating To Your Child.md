@@ -23,3 +23,23 @@ We often use the thermometer to understand one’s current physical health, but 
 Using a Feelings Thermometer, children learn to identify what they are feeling, and understand the intensity of the feeling. It helps them to see when they are escalating and learn to use a coping skill to manage the feeling!  
   
 In support of the Race to Praise Campaign by Focus on The Family SG, we would like to encourage you to connect and affirm your child this Children’s Day! In our October school bulletin, we have distributed an activity sheet, which provides a meaningful opportunity for you child to discuss about emotions and how to manage small, medium or big emotions.
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-8jgo{border-color:#ffffff;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 460px">
+<colgroup>
+<col style="width: 460px">
+</colgroup>
+<thead>
+  <tr>
+    <td class="tg-8jgo"><span style="font-style:italic;color:#2E6EE0">Research suggests that emotional intelligence is perhaps the most </span><span style="font-weight:400;font-style:italic;color:#2E6EE0">important factor in academic success, job performance and life success.</span></td>
+  </tr>
+</thead>
+</table>
