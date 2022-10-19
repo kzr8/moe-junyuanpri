@@ -123,3 +123,5 @@ b.       Form Teacher Guidance Period (FTGP)
   </tr>
 </tbody>
 </table>
+
+**PRIMARY 6**
