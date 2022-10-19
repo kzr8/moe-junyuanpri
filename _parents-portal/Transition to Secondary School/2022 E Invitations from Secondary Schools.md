@@ -50,3 +50,13 @@ St. Joseph's Institution (SJI) would like to extend a warm invitation to Primar
 [Letter to P6 Parents on DSA.pdf](/files/Letter%20to%20P6%20Parents%20on%20DSA%20to%20CHIJ%20Katong%20Convent.pdf)
 
 ![](/images/CHIJ%20Katong%20Convent%20DSA%20Poster.png)
+
+### Pasir Ris Secondary School DSA e-Open House 2022
+
+![](/images/PRSS%202022%20E-Open%20House%20Poster.jpeg)
+
+### **Anglo-Chinese School (Independent) eOpen House 2022** 
+
+Anglo-Chinese School (Independent) would like to extend a warm invitation to Primary 6 students and parents/guardians to their e-Open House on Saturday, 9 April 2022 from 9 am to 12 pm.
+
+[e-Open House invitation.pdf](/files/e-Open%20House%20Invitation%202022.pdf)
