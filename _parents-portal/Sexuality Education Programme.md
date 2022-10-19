@@ -65,7 +65,6 @@ b.       Form Teacher Guidance Period (FTGP)
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-reen{background-color:#D9D9D9;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-umoi{color:#454545;text-align:center;vertical-align:top}
-.tg .tg-h3sz{color:#454545;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-que8{color:#454545;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
@@ -79,46 +78,46 @@ b.       Form Teacher Guidance Period (FTGP)
 </thead>
 <tbody>
   <tr>
-    <td class="tg-umoi" rowspan="4"><span style="font-weight:normal">Gosh! I Am Changing</span></td>
-    <td class="tg-que8"><span style="background-color:initial">What Is Happening To Me? </span><br><span style="background-color:initial">(30 min)</span></td>
+    <td class="tg-umoi" rowspan="4"><br><br><br><br><br><br><br><br><br><br><br><span style="font-weight:normal">Gosh! I Am Changing</span></td>
+    <td class="tg-umoi"><span style="background-color:initial">What Is Happening To Me? </span><br><span style="background-color:initial">(30 min)</span></td>
     <td class="tg-que8">know what puberty is<br>identify the physical changes during puberty</td>
     <td class="tg-umoi">Term 1 Week 3</td>
   </tr>
   <tr>
-    <td class="tg-h3sz"><span style="background-color:initial">What Can I Do? (Part 1) (30 min)</span></td>
+    <td class="tg-umoi"><span style="background-color:initial">What Can I Do? (Part 1) (30 min)</span></td>
     <td class="tg-que8">identify the stresses caused by physical and emotional changes during puberty<br>describe healthy ways to manage the stresses caused by physical and emotional changes during puberty <br>describe the emotions caused by physical changes during puberty <br>recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</td>
     <td class="tg-umoi">Term 1 Week 3</td>
   </tr>
   <tr>
-    <td class="tg-que8"><span style="font-weight:normal;background-color:initial">What Can I Do? (Part 2) </span><br>(30 min)</td>
+    <td class="tg-umoi"><span style="font-weight:normal;background-color:initial">What Can I Do? (Part 2) </span><br>(30 min)</td>
     <td class="tg-que8">identify the stresses caused by physical and emotional changes during puberty<br>describe healthy ways to manage the stresses caused by these physical and emotional changes during puberty <br>describe the emotions caused by physical changes during puberty <br>recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</td>
     <td class="tg-umoi">Term 1 Week 3</td>
   </tr>
   <tr>
-    <td class="tg-que8"><span style="font-weight:normal;background-color:initial">Main Task </span><br>(30 min)</td>
+    <td class="tg-umoi"><span style="font-weight:normal;background-color:initial">Main Task </span><br>(30 min)</td>
     <td class="tg-que8"><span style="font-weight:normal">Description of the Main Task:</span><br><br><span style="font-weight:normal">Pupils are to play the role of an Uncle/Aunt Agony to help a peer address his/her experiences during puberty. They will consider the situation from the point of view of the peer and share ways to help him/her cope with the changes he/she is going through.</span></td>
     <td class="tg-umoi">Term 1 Week 3</td>
   </tr>
   <tr>
     <td class="tg-umoi"><span style="font-weight:normal">Where I Belong</span></td>
-    <td class="tg-que8">What Are Families? (30 min)<br> </td>
+    <td class="tg-umoi">What Are Families? (30 min)<br> </td>
     <td class="tg-que8">know that there are different types of family structures<br>know that every family is unique<br>state that the three basic functions of families are to provide love, protection and guidance<br>identify the right sources of help to turn to when in need</td>
     <td class="tg-umoi">Term 1 Week 3</td>
   </tr>
   <tr>
     <td class="tg-umoi"><span style="font-weight:normal">Where I Belong</span></td>
-    <td class="tg-que8">What is My Role? (30 min)</td>
+    <td class="tg-umoi">What is My Role? (30 min)</td>
     <td class="tg-que8">know that gender is about being male or female<br>choose not to stereotype by gender</td>
     <td class="tg-umoi">Term 1 Week 3</td>
   </tr>
   <tr>
-    <td class="tg-umoi" rowspan="2"><span style="font-weight:normal">How Do I Keep Myself Safe?</span></td>
-    <td class="tg-que8">What is Safety? (30 min)</td>
+    <td class="tg-umoi" rowspan="2"><br><br><br><span style="font-weight:normal">How Do I Keep Myself Safe?</span></td>
+    <td class="tg-umoi">What is Safety? (30 min)</td>
     <td class="tg-que8">know what sexual abuse is<br>know that there are laws in Singapore that can protect them from sexual abuse<br>know their rights in keeping themselves safe from sexual abuse</td>
     <td class="tg-umoi">Term 1 Week 3</td>
   </tr>
   <tr>
-    <td class="tg-que8">Stop It! Run! Tell! (30 min)</td>
+    <td class="tg-umoi">Stop It! Run! Tell! (30 min)</td>
     <td class="tg-que8"><span style="font-weight:normal">protect themselves by resisting, removing themselves from harm and seeking help from a trusted adult</span><br>know their responsibilities in minimising the risk of sexual harm</td>
     <td class="tg-umoi">Term 1 Week 3</td>
   </tr>
