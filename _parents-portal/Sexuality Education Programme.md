@@ -192,3 +192,14 @@ b.       Form Teacher Guidance Period (FTGP)
   </tr>
 </tbody>
 </table>
+
+
+**INFORMATION FOR PARENTS**
+
+8.     Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.  
+
+9.     Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Parent%20Opt%20Out%20Form%202022%20Pri%205_5%20Jan%202022%20pdf.pdf). The completed opt-out form is to be submitted by 7 January 2022.
+
+10.     Parents can contact the school at at [junyuan\_ps@moe.edu.sg](mailto:junyuan_ps@moe.edu.sg), Tel: 6783 6873 (att: Mdm Siti Hawa, SEd Coordinator) for discussion or to seek clarification about the school’s sexuality education programme.
+
+11.     Parents, who wish to attend the school sexuality education lessons, should contact the school to make the necessary arrangements.
