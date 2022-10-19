@@ -117,3 +117,5 @@ For more **guides & tips, resources and useful links** to help you to reinforc
 ![](/images/Connect.png)
 ![](/images/Connect2.png)
 ![](/images/Connect3.png)
+
+![](/images/Connect4.png)
