@@ -36,7 +36,7 @@ The **President’s Award for Teachers (PAT)** gives national recognition to e
 
 Nominations for PAT 2021 is now open and will close on **Tuesday, 26 January 2021**
 
-.
+
 
 Nominate an inspiring experienced teacher for this prestigious award!
 
