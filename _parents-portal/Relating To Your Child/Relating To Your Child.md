@@ -132,4 +132,8 @@ There can be times when exam and daily stresses/challenges may be too much for 
 
   
 
-Parents should be on the lookout for early warning signs of stress in your child so that support can be rendered to help him/her cope better. Please click to learn more.
+Parents should be on the lookout for early warning signs of stress in your child so that support can be rendered to help him/her cope better. Please click [here](/parents-portal/Relating-To-Your-Child/What-To-Do-If-My-Child-Is-Stressed/) to learn more.
+
+---
+
+### **Other Resources and Helplines**
