@@ -2,6 +2,8 @@ collections:
   parents-portal:
     output: true
     order:
+      - Transition to Secondary School/2022 E Invitations from Secondary
+        Schools.md
       - Transition to Secondary School/2022 Direct Schools Admission for
         secondary schools (DSA Sec).md
       - Transition to Secondary School/Stay In Touch.md
