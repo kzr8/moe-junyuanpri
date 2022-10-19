@@ -143,3 +143,13 @@ Modelling respectful forms of online expression
 
 Sharing example of positive online expressions
 *   e.g. inspirational stories from social media
+
+Encouraging use of the T.H.I.N.K framework before posting anything online
+*   Is it True, is it Helpful, is it Inspiring, is it Necessary, is it Kind?
+
+ Discussing with children the need to respect differences in views, opinions and beliefs
+ *   Encourage them to respond politely and objectively even if they disagree with what others say
+
+Monitoring the interactions of their children with others on social media or online games
+*   e.g. connect with their children on social media, join them in online games
+*   
