@@ -76,3 +76,8 @@ Is your child feeling stressed about the exams? In fact, some stress can be good
   
   
 Try these tips and remind your child… “You can do it! Just take a deep breath and relax”
+
+---
+
+##### **Resource For Time Management**
+
