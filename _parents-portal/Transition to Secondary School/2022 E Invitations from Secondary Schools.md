@@ -40,3 +40,11 @@ Cedar Girls' Secondary School would like to extend a warm invitation to Primary 
 ### St. Joseph's Institution (SJI) Open House 2022 NEW!
 
 St. Joseph's Institution (SJI) would like to extend a warm invitation to Primary 6 boys and parents/guardians to their e-Open House on Saturday, 21 May 2022 from 8.30am to 4pm.
+
+![](/images/SJI%20Open%20House.jpeg)
+
+![](/images/SST.png)
+
+### **CHIJ Katong Convent DSA 2022** **NEW!**
+
+[Letter to P6 Parents on DSA.pdf](/files/Letter%20to%20P6%20Parents%20on%20DSA%20to%20CHIJ%20Katong%20Convent.pdf)
