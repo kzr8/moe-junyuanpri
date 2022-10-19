@@ -98,3 +98,10 @@ Dont's:
 
 *   Surf the Internet with your child so that you know what he/she does online and whether he/she is involved in age-appropriate activities. This will help to hone your child’s skills to translate his/her understanding into actions which he/she can later apply should he/she face similar situations.
 *   Highlight to your child not to respond to anyone who says something inappropriate and he/she should immediately leave any site if he/she feel uncomfortable.
+
+![](/images/CW%207.jpeg)
+
+*   Get your child to share with you his/her favourite online websites, things he/she do online and what is cool amongst his/her friends.
+*   Talk to him/her about his/her online experiences. (For example, discuss about the benefits and risks of the Internet, share how people connect and communicate with one another through the Internet).
+*   Let your child know that it is alright to ask you questions or talk to you if he/she run into problems with someone online.
+*   Download the [C-Quest game app](http://ictconnection.moe.edu.sg/cyber-wellness/for-parents/resources/c-quest), which facilitates conversation between parents and children on cyber wellness, from the iTunes Store / Google Play.
