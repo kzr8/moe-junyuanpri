@@ -173,6 +173,8 @@ Appropriate online expression refers to online communication which is socially a
 
 *  Inappropriate online expression may affect a child’s social, emotional and mental well-being
 
+![](/images/AOE1.png)
+
 Parents can help by:  
 
 Modelling respectful forms of online expression  
