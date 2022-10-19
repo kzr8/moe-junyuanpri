@@ -7,3 +7,7 @@ description: ""
 
 Modern Parent Series
 ====================
+
+### Managing Transition
+
+
