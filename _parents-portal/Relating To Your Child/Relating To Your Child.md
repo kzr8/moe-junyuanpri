@@ -126,7 +126,7 @@ Resources:
 
 ##### **What To Do If My Child Is Stressed?**
 
-<img src="/images/Stress.jpeg" style="width:290px;height:230px;margin-left:15px;" align = "right">
+<img src="/images/Stress.jpeg" style="width:300px;height:200px;margin-left:15px;" align = "right">
 
 There can be times when exam and daily stresses/challenges may be too much for your child.
 
