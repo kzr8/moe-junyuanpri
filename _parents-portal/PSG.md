@@ -8,10 +8,7 @@ description: ""
 PSG
 ===
 
-<figure><img src="/images/PSG1.png" style="width:50%"><figcaption> 
-Mdm Waheeda Rahman bte Mohd Usoff
-
-**PSG Chairperson 2021**</figcaption></figure>
+<img src="/images/PSG.png" style="width:270px;height:390px;margin-right:25px;" align = "left">
 
 The Parent Support Group (PSG) comprises a group of parents who are committed and dedicated in playing an active role in supporting our children’s learning.  
 
