@@ -95,3 +95,6 @@ Dont's:
 
 
 ![](/images/CW%206.jpeg)
+
+*   Surf the Internet with your child so that you know what he/she does online and whether he/she is involved in age-appropriate activities. This will help to hone your child’s skills to translate his/her understanding into actions which he/she can later apply should he/she face similar situations.
+*   Highlight to your child not to respond to anyone who says something inappropriate and he/she should immediately leave any site if he/she feel uncomfortable.
