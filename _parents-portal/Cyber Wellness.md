@@ -56,3 +56,5 @@ To find out more about **Cyber Wellness Curriculum** in schools, click [**her
 To complement the cyber wellness curriculum in schools, parents can set a good example at home in the use of technology and play an active role in guiding our children to navigate in cyberspace.  Here are the steps for PARENTing in the digital age:
 
 ![](/images/CW%202.jpeg)
+
+*   Spend time with your child by carrying out family activities such as sports and outdoor activities so that your child has a healthy and balanced lifestyle.
