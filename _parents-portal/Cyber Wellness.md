@@ -131,6 +131,42 @@ Click [here](/files/2019%20Connect%20T1%20Parents%20Slide.pdf) to view.
 
 Appropriate online expression refers to online communication which is socially appropriate  and does not bring about conflicting opinions and stereotypes. With appropriate online  expression, one can create a meaningful and positive presence in the cyber community. However, youths may engage in inappropriate online expression either intentionally or  unintentionally.
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-b30y{background-color:#FFF;color:#ff9900;text-align:left;vertical-align:top}
+.tg .tg-fwnj{background-color:#FFF;color:#454545;text-align:left;vertical-align:top}
+.tg .tg-wyhc{background-color:#FFF;color:#F90;font-style:italic;text-align:left;vertical-align:top}
+.tg .tg-2fwu{background-color:#FFF;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-2fwu"><span style="background-color:initial"> </span><img src="https://junyuanpri.moe.edu.sg/qql/slot/u499/Cyber%20Wellness/using%20vulgarities.png" alt="using vulgarities.png" width="99" height="129"><br><span style="color:#EC7400">Using</span> <span style="color:#EC7400">vulgarities</span></th>
+    <th class="tg-2fwu"><img src="https://junyuanpri.moe.edu.sg/qql/slot/u499/Cyber%20Wellness/Pretending%20to%20be%20someone%20else.png" alt="Pretending to be someone else.png" width="116" height="116"><br><span style="color:#EC7400">Pretending to</span> <span style="color:#EC7400">be </span> <span style="color:#EC7400">someone</span> <span style="color:#EC7400">else</span></th>
+    <th class="tg-2fwu"><img src="https://junyuanpri.moe.edu.sg/qql/slot/u499/Cyber%20Wellness/Posting%20insensitive%20content.png" alt="Posting insensitive content.png" width="114" height="121"><br><span style="color:#EC7400">Posting insensitive</span> <span style="color:#EC7400">content</span></th>
+    <th class="tg-2fwu"><img src="https://junyuanpri.moe.edu.sg/qql/slot/u499/Cyber%20Wellness/Going%20too%20far%20in%20attracting%20likes%20online.png" alt="Going too far in attracting likes online.png" width="127" height="127"><br><span style="color:#EC7400">Going too far in attracting  “Likes”</span> <span style="color:#EC7400">online</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-fwnj"><br>• Using vulgar words to provoke an online fight<br><br><br><br></td>
+    <td class="tg-fwnj"><br>• <span style="background-color:initial">Creating a false  representation of</span><span style="color:#454545"> </span><span style="background-color:initial">self </span><span style="color:#454545"> </span><span style="background-color:initial">online due to a desire</span><span style="color:#454545"> </span><span style="background-color:initial">to  ‘hide’ or</span><span style="color:#454545"> </span><span style="background-color:initial">deceive</span><br><br></td>
+    <td class="tg-fwnj"><br>• <span style="background-color:initial">Creating and</span><span style="color:#454545"> </span><span style="background-color:initial">posting  images / videos that  may offend or hurt  others</span><span style="color:#454545"> </span><span style="background-color:initial">(e.g.</span><span style="color:#454545"> </span><span style="background-color:initial">public  shaming)</span></td>
+    <td class="tg-fwnj"><br>• Creating and posting  images / videos that  may offend or hurt  others (e.g. public  shaming)<br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-wyhc">Possible Sites:<br><br>• Online games<br>(e.g. Mobile Legends, Minecraft)<br><br><br><br><br><br><br></td>
+    <td class="tg-wyhc">Possible <span style="background-color:initial">Sites:</span><br><br>• <span style="background-color:initial">Social news websites</span><br><span style="background-color:initial">(e.g.  STOMP, Mothership)</span><br><br></td>
+    <td class="tg-wyhc">Possible Sites:<br><br>• <span style="background-color:initial">Meme pages</span><br><span style="background-color:initial">(e.g. Kiasu  Memes for Singaporean  Teens, Finsta)</span><br><br></td>
+    <td class="tg-b30y">Possible <span style="background-color:initial">Sites:</span><br><br>• <span style="background-color:initial">Social networking sites</span><br><span style="background-color:initial"> (e.g. Snapchat, Facebook)</span><br>• <span style="background-color:initial">Internet Challenges</span><br><span style="background-color:initial"> (e.g. #IctBucketChallenge, parkour) through YouTube</span></td>
+  </tr>
+</tbody>
+</table>
+
 * Everything online is searchable, replicable, and contributes to a permanent digital reputation  
 
 *  Inappropriate online expression may affect a child’s social, emotional and mental well-being
@@ -152,4 +188,4 @@ Encouraging use of the T.H.I.N.K framework before posting anything online
 
 Monitoring the interactions of their children with others on social media or online games
 *   e.g. connect with their children on social media, join them in online games
-*   
+*
