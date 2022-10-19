@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Relating To Your Child/.keep
-      - Relating To Your Child.md
       - PSG.md
       - Health Promotion Board (HPB) Resources.md
       - OYEA and PAT 2021 (NEW!).md
