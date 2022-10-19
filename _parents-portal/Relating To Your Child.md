@@ -66,3 +66,6 @@ Resources:
 ---
 
 ##### **How To Help Your Child Relax?**
+
+
+<img src="/images/Relax.png" style="width:220px;height:240px;margin-left:15px;" align = "right">
