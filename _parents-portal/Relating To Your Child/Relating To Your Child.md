@@ -80,3 +80,19 @@ Try these tips and remind your child… “You can do it! Just take a deep breat
 ---
 
 ##### **Resource For Time Management**
+
+<img src="/images/Resource.png" style="width:220px;height:300px;margin-left:15px;" align = "right">
+
+Tinkle Friend is a familiar and safe avenue of help available for our children. It also teaches your child the important skill of time management!
+
+  
+
+With better time management, children will feel less stressed and more motivated. They will learn how to prioritise their work and tasks more efficiently on a daily basis.
+
+  
+
+Download Tinkle Friend’s [July 2018 BUZZ issue](/files/BUZZ%20July%202018.pdf) where you will find many fun activities to do with your child while teaching the skill of time-management!
+
+---
+
+##### **How To Help Your Child Beat Exam Stress?**
