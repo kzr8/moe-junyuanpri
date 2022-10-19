@@ -2,9 +2,9 @@ collections:
   parents-portal:
     output: true
     order:
-      - Relating To Your Child/How To Help My Child Relax?.md
-      - Relating To Your Child/Relating To Your Child.md
       - Relating To Your Child/.keep
+      - Relating To Your Child/Relating To Your Child.md
+      - Relating To Your Child/How To Help My Child Relax?.md
       - PSG.md
       - Health Promotion Board (HPB) Resources.md
       - OYEA and PAT 2021 (NEW!).md
