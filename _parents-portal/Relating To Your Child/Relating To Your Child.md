@@ -100,3 +100,5 @@ Download Tinkle Friend’s [July 2018 BUZZ issue](/files/BUZZ%20July%202018.pdf)
 <img src="/images/Help.png" style="width:300px;height:270px;margin-left:15px;" align = "right">
 
 Psychologists have observed that often, academic-related anxieties and its ensuing effect on a child's life stem from parents who, consciously or not, offload it on their child.
+
+Please click [here](/parents-portal/Relating-To-Your-Child/How-To-Help-Your-Child-Beat-Exam-Stress/) to read some tips on how you can help your child cope with exam pressure!
