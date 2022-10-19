@@ -48,3 +48,5 @@ St. Joseph's Institution (SJI) would like to extend a warm invitation to Primar
 ### **CHIJ Katong Convent DSA 2022** **NEW!**
 
 [Letter to P6 Parents on DSA.pdf](/files/Letter%20to%20P6%20Parents%20on%20DSA%20to%20CHIJ%20Katong%20Convent.pdf)
+
+![](/images/CHIJ%20Katong%20Convent%20DSA%20Poster.png)
