@@ -64,3 +64,6 @@ To complement the cyber wellness curriculum in schools, parents can set a good e
 *   Check out "[How do you set parental controls on your child's ICT devices?](http://ictconnection.moe.edu.sg/cyber-wellness/for-parents/resources/parental-controls)" and activate them in all computing devices.
 
 ![](/images/CW%204.jpeg)
+
+*   Manage your own digital habits such as avoiding extensive use of technology and avoiding use of technology during meal times.
+*   Show your child safe, responsible and respectful behaviour when sharing, collaborating and creating online.
