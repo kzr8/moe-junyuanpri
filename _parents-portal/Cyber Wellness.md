@@ -93,3 +93,5 @@ Dont's:
 *   meet strangers face to face without parents’ knowledge
 *   spread rumours and say mean things online
 
+
+![](/images/CW%206.jpeg)
