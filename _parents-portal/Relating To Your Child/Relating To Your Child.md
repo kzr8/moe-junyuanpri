@@ -121,3 +121,7 @@ Resources:
 
 
 "3 Great Ways to Praise Your Kid." YouTube, uploaded by Focus on the Family Singapore, 19 September 2018, [https://www.youtube.com/watch?v=PpYi02JXgqY&feature=youtu.be](https://www.youtube.com/watch?v=PpYi02JXgqY&feature=youtu.be)
+
+----
+
+##### **What To Do If My Child Is Stressed?**
