@@ -21,3 +21,8 @@ Cedar Girls' Secondary School would like to extend a warm invitation to Primary 
 [e-Open House](https://sites.google.com/moe.edu.sg/cedar-open-house-2022)
 
 [DSA Application Process](https://cedargirlssec.moe.edu.sg/admissions/direct-school-admission-to-year-1-in-2023)
+
+
+### Singapore Chinese Girls' School (SCGS) DSA 2022 NEW!
+
+![](/images/SCGS%20DSA.png)
