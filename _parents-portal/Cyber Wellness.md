@@ -119,3 +119,10 @@ For more **guides & tips, resources and useful links** to help you to reinforc
 ![](/images/Connect3.png)
 
 ![](/images/Connect4.png)
+![](/images/Connect5.png)
+
+Click [here](/files/2019%20Connect%20T1%20Parents%20Slide.pdf) to view.
+
+---
+
+##### **Helping Your Children with Appropriate Online Expression**
