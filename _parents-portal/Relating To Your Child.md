@@ -12,7 +12,7 @@ description: ""
 
 ##### Feelings Thermometer: A Helpful Tool for You and Your Child
 
-<img src="/images/Thermometer.png" style="width:100px;height:650px;margin-left:10px;" align = "right">
+<img src="/images/Thermometer.png" style="width:100px;height:600px;margin-left:10px;" align = "right">
 
 We often use the thermometer to understand one’s current physical health, but did you know that it could be applied as a tool to measure feelings as well? The Feelings Thermometer is a visual scaling and research-based tool that can help children to  
   
@@ -52,3 +52,13 @@ If you are interested to learn more, please visit [campaigns.family.org.sg/race
 
 ##### Supporting Your Child
 
+<img src="/images/Support.jpg" style="width:220px;height:300px;margin-left:15px;" align = "right">
+
+As parents, you can help build a caring home environment to nurture the social and emotional skills of your child using these **S.A.F.E tips** (Support, Affirm, Familiarise and Empathy). We also encourage you to spend time chatting with your child using **T.A.D. tips** (Talk, Ask, Discuss).  
+  
+Click on the links below if you would like to find out more. These are easy and helpful tips for any parent who would like to connect with your child in more ways than one!  
+  
+Resources:  
+
+*   [S.A.F.E. and T.A.D Tips](https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/Relating%20to%20your%20child/1.%20Transition%20Pri%20and%20Sec-page-001.jpg)
+*   For more parenting resources and programmes, please visit [www.family.org.sg](http://www.family.org.sg/)
