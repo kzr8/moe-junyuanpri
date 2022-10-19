@@ -67,3 +67,29 @@ To complement the cyber wellness curriculum in schools, parents can set a good e
 
 *   Manage your own digital habits such as avoiding extensive use of technology and avoiding use of technology during meal times.
 *   Show your child safe, responsible and respectful behaviour when sharing, collaborating and creating online.
+
+![](/images/CW%205.jpeg)
+
+Some basic rules could include the following:
+
+Do's:
+
+  
+
+*   seek permission before using computing devices
+*   have a time limit for the use of computing devices
+*   practice netiquette on the Internet
+*   respect intellectual property right
+*   follow rules and terms of use of different websites
+
+
+Dont's:
+
+  
+
+*   access websites that have age restrictions (for e.g. many social media sites have age limit for setting up accounts to comply with international regulations on children accessing social media).
+*   share password with others
+*   share personal information online
+*   meet strangers face to face without parents’ knowledge
+*   spread rumours and say mean things online
+
