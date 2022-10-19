@@ -137,3 +137,31 @@ Parents should be on the lookout for early warning signs of stress in your child
 ---
 
 ### **Other Resources and Helplines**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-yls4{background-color:#E8AB38;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-xisn{background-color:#FFEECF;color:#454545;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-yls4"><span style="text-decoration:underline">Tinkle Friend Helpline</span><br><span style="font-weight:normal">For primary school children</span><br><span style="font-weight:normal">Tel: 1800 2744 788</span><br>(Mon-Fri, 9.30am-11.30am &amp; 2.30pm-5pm)</th>
+    <th class="tg-yls4"><span style="text-decoration:underline">Tinkle Friend Online Chat</span><br><span style="font-weight:normal">For primary school children</span><br><span style="font-weight:normal">Website:</span> <a href="http://www.tinklefriend.sg/" target="_blank" rel="noopener noreferrer"><span style="color:#A52023">www.tinklefriend.sg</span></a><br>(Mon-Fri, 2.30pm-5.30pm &amp; Wed, 6.30pm-8.30pm)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-xisn"><span style="text-decoration:underline">Samaritans of Singapore Helpline  </span>       <br><span style="font-weight:normal">For anybody in crisis</span><br><span style="font-weight:normal">Tel: 1800 221 4444 (24 hours)</span></td>
+    <td class="tg-xisn"><span style="text-decoration:underline">Parent Line</span><br><span style="font-weight:normal">For parents with parenting &amp; childcare issues</span><br>Tel: 6289 8811 (Mon-Fri, 9am-5pm)</td>
+  </tr>
+  <tr>
+    <td class="tg-yls4"><span style="text-decoration:underline">Family Service Centre Hotline</span><br><span style="font-weight:normal">Find your nearest counselling centre</span><br>Tel: 1800 838 0100 (Mon-Fri, 9am-5pm)</td>
+    <td class="tg-yls4"><span style="text-decoration:underline">Comcare</span><br><span style="font-weight:normal">For information on ComCare Assistance</span><br><span style="font-weight:normal">Tel: 1800 222 0000 (24 hours)</span></td>
+  </tr>
+</tbody>
+</table>
