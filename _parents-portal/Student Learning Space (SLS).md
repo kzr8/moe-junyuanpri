@@ -10,3 +10,5 @@ Student Learning Space (SLS)
 ============================
 
 ### SLS Admin
+
+[Annex A and B (P1)](/files/Annex%20A%20and%20B%20for%20SLS_P1.pdf) **NEW!\***
