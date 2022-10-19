@@ -18,3 +18,5 @@ Student Learning Space (SLS)
 [Annex A_Getting Started](/files/Annex%20A_Getting_Started.pdf)
 
 [Annex B_Frequently Asked Questions (FAQs)](/files/Annex%20B_SLS_FAQs.pdf)
+
+[SLS Email Verification Exercise](/files/JYPS-098-19%20Letters%20to%20parents%20on%20SLS%20Email%20Verification%20Exercise.pdf)
