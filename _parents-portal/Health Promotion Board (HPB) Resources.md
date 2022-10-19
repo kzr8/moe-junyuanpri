@@ -29,3 +29,5 @@ b) Healthy Eating and Healthy Living (HEAL) Workshop
 Have you had concerns about your child's eating behaviours? Do you struggle to find healthier options when eating out? Do you want to learn how to make smart food choices for your family? Find the answers to your questions and learn more about how to lead an active lifestyle for your child through this workshop.
 
 [Click here to read](/files/HPB%20Workshops%20for%20Parents.pdf)
+
+Please refer to attached PDF mailer for the registration details for the workshops.
