@@ -69,3 +69,10 @@ Resources:
 
 
 <img src="/images/Relax.png" style="width:220px;height:240px;margin-left:15px;" align = "right">
+
+
+Is your child feeling stressed about the exams? In fact, some stress can be good too. Eustress is a positive form of stress that can be beneficial and help us grow and perform. Please click  to read more.  
+  
+  
+Try these tips and remind your child… “You can do it! Just take a deep breath and relax”
+
