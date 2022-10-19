@@ -193,3 +193,5 @@ Encouraging use of the T.H.I.N.K framework before posting anything online
 Monitoring the interactions of their children with others on social media or online games
 *   e.g. connect with their children on social media, join them in online games
 *
+
+![](/images/AOE2.png)
