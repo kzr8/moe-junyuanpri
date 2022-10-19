@@ -62,3 +62,7 @@ Resources:
 
 *   [S.A.F.E. and T.A.D Tips](https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/Relating%20to%20your%20child/1.%20Transition%20Pri%20and%20Sec-page-001.jpg)
 *   For more parenting resources and programmes, please visit [www.family.org.sg](http://www.family.org.sg/)
+
+---
+
+##### **How To Help Your Child Relax?**
