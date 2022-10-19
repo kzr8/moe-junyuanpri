@@ -115,3 +115,4 @@ For more **guides & tips, resources and useful links** to help you to reinforc
 ##### **Connect with Parents**
 
 ![](/images/Connect.png)
+![](/images/Connect2.png)
