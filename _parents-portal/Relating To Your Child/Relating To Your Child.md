@@ -107,4 +107,11 @@ Please click [here](/parents-portal/Relating-To-Your-Child/How-To-Help-Your-Chil
 
 ##### **Praise Your Child Today!**
 
+<img src="/images/Praise1.jpg" style="width:200px;height:250px;margin-left:15px;" align = "right">
+
 Research shows that parent-child connectedness is one of the more effective ways of prevention against risky behavior in children. Affirming their strengths and positive qualities builds a safe environment at home for children to confide in you. It will also build resilience and nurture them for success. Please click [here](/parents-portal/Relating-To-Your-Child/Praise-Your-Child-Today/) to read more.
+
+Resources:
+
+*   [Praise your Child. Do it right. Do it well.](https://junyuanpri.moe.edu.sg/qql/slot/u499/Relating%20to%20your%20child/5.%20praise-infographic_final_28sep2016.jpg)
+*   For more information: [https://campaigns.family.org.sg/race-to-praise](https://campaigns.family.org.sg/race-to-praise)
