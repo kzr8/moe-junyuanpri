@@ -8,8 +8,7 @@ description: ""
 PSG
 ===
 
-<img src="/images/PSG1.png" style="width:250px;height:360px;margin-left:15px;" align = "left">
+<figure><img src="/images/PSG1.png" style="width:75%"><figcaption> 
+Mdm Waheeda Rahman bte Mohd Usoff
 
-**Mdm Waheeda Rahman bte Mohd Usoff**  
-
-**PSG Chairperson 2021**
+**PSG Chairperson 2021**</figcaption></figure>
