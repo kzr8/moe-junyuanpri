@@ -11,3 +11,13 @@ third_nav_title: Transition to Secondary School
 ### Tampines Secondary School Open House 2022  NEW!
 
 ![](/images/Tampines%20Secondary%20School%20Open%20House%202022.jpeg)
+
+
+### Cedar Girls' Secondary School e-Open House 2022 NEW!
+
+
+Cedar Girls' Secondary School would like to extend a warm invitation to Primary 6 students and parents/guardians to their e-Open House on Saturday, 28 May 2022 from 9 am to 12.30 pm.
+
+[e-Open House](https://sites.google.com/moe.edu.sg/cedar-open-house-2022)
+
+[DSA Application Process](https://cedargirlssec.moe.edu.sg/admissions/direct-school-admission-to-year-1-in-2023)
