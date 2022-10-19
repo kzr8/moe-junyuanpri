@@ -16,3 +16,5 @@ Student Learning Space (SLS)
 [Account Management (P2 - P6)](/files/SLS%20Account%20Management%20-%20Guide%20for%20P2%20to%20P6%20Students.pdf) **NEW!\***
 
 [Annex A_Getting Started](/files/Annex%20A_Getting_Started.pdf)
+
+[Annex B_Frequently Asked Questions (FAQs)](/files/Annex%20B_SLS_FAQs.pdf)
