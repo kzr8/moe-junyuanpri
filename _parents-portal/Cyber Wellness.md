@@ -45,3 +45,14 @@ Students need to:
 *   advocate positive online behaviour (e.g. stand up for their peers online, report cases of cyber bullying to a trusted adult/authority, post encouraging remarks on social media)
 
 To find out more about **Cyber Wellness Curriculum** in schools, click [**here**](https://www.moe.gov.sg/programmes/cyber-wellness).
+
+
+### **Parenting Tips**
+
+##### **What are some useful parenting tips in the digital age?**
+
+  
+
+To complement the cyber wellness curriculum in schools, parents can set a good example at home in the use of technology and play an active role in guiding our children to navigate in cyberspace.  Here are the steps for PARENTing in the digital age:
+
+![](/images/CW%202.jpeg)
