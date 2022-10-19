@@ -17,3 +17,6 @@ Primary 4
 ![](/images/P43.png)
 
 ![](/images/P44.png)
+
+![](/images/P45.png)
+
