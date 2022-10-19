@@ -30,3 +30,13 @@ Cedar Girls' Secondary School would like to extend a warm invitation to Primary 
 ### Raffles Girls' School (RGS) Virtual Open House 2022 NEW!
 
 ![](/images/RGS%20Virtual%20Open%20House%202022.png)
+
+
+### Raffles Institution 2022 DSA Webinar NEW!
+
+![](/images/RI%20DSA%20Sec%20Webinar.png)
+
+
+### St. Joseph's Institution (SJI) Open House 2022 NEW!
+
+St. Joseph's Institution (SJI) would like to extend a warm invitation to Primary 6 boys and parents/guardians to their e-Open House on Saturday, 21 May 2022 from 8.30am to 4pm.
