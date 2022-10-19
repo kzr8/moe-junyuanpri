@@ -2,6 +2,7 @@ collections:
   parents-portal:
     output: true
     order:
+      - EOY PrizePresentation Ceremony/Primary 3.md
       - EOY PrizePresentation Ceremony/Primary 4.md
       - EOY PrizePresentation Ceremony/Primary 5.md
       - EOY PrizePresentation Ceremony/Primary 6.md
