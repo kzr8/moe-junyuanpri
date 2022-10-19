@@ -115,3 +115,9 @@ Resources:
 
 *   [Praise your Child. Do it right. Do it well.](https://junyuanpri.moe.edu.sg/qql/slot/u499/Relating%20to%20your%20child/5.%20praise-infographic_final_28sep2016.jpg)
 *   For more information: [https://campaigns.family.org.sg/race-to-praise](https://campaigns.family.org.sg/race-to-praise)
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PpYi02JXgqY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+"3 Great Ways to Praise Your Kid." YouTube, uploaded by Focus on the Family Singapore, 19 September 2018, [https://www.youtube.com/watch?v=PpYi02JXgqY&feature=youtu.be](https://www.youtube.com/watch?v=PpYi02JXgqY&feature=youtu.be)
