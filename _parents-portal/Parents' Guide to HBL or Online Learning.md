@@ -7,3 +7,15 @@ description: ""
 
 Parents' Guide to HBL/Online Learning
 =====================================
+
+Dear Parents,
+
+  
+
+In view of HBL/Online Learning, the school has put together a guide for you and your child to navigate the common platforms and tools used during these lessons such as SLS, Google Classroom, Zoom etc.
+
+  
+
+You may find the guide at the following link:
+
+[Parents' Guide to HBL/Online Learning](https://sites.google.com/moe.edu.sg/parents-hand-book/home)
