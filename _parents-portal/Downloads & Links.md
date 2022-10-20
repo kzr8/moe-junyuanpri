@@ -54,3 +54,4 @@ Note: Zoom Briefing Video Recording needs to be uploaded via YouTube.
 ##### Quick Links
 
 *   [Parents Gateway](/files/Instructional%20Guide%20to%20Onboard%20Parents%20Gateway.pdf)
+*   [Sexuality Education Programme](/parents-portal/Sexuality-Education-Programme/)
