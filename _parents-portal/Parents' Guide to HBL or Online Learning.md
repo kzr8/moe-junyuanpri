@@ -19,3 +19,8 @@ In view of HBL/Online Learning, the school has put together a guide for you and 
 You may find the guide at the following link:
 
 [Parents' Guide to HBL/Online Learning](https://sites.google.com/moe.edu.sg/parents-hand-book/home)
+
+
+Alternatively, you can scan the following QR code to access the guide.
+
+
