@@ -24,3 +24,5 @@ You may find the guide at the following link:
 Alternatively, you can scan the following QR code to access the guide.
 
 ![](/images/QR1.png)
+
+For additional enquiries, please email the school at [junyuan\_ps@moe.edu.sg](mailto:junyuan_ps@moe.edu.sg) or call us at 6783 6783. Thank you very much.
