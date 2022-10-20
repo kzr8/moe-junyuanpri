@@ -27,4 +27,6 @@ Downloads & Links
 
 Note: Zoom Briefing Video Recording needs to be uploaded via YouTube.
 
-##### 2022 Primary 4 Learning with PLDs Pilot Programme Zoom Briefing (11 Feb) 
+##### 2022 Primary 4 Learning with PLDs Pilot Programme Zoom Briefing (11 Feb)
+
+*   [Briefing Slides](/files/Briefing%20Slides%20for%20Parents%20-%20Primary%20School%20Pilot%20for%20Learning%20with%20PLDs.pdf)
