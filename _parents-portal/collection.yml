@@ -2,6 +2,7 @@ collections:
   parents-portal:
     output: true
     order:
+      - Methodist Welfare Services Family Support Programme.md
       - Cyber Wellness.md
       - Sexuality Education Programme.md
       - Student Learning Space (SLS).md
