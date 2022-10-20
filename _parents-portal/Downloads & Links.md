@@ -45,3 +45,4 @@ Note: Zoom Briefing Video Recording needs to be uploaded via YouTube.
 ##### SLS NEW!\*
 
 *   [Account Management (P2 - P6)](/files/SLS%20Account%20Management.pdf)
+*   [Annex A and B (P1)](/files/Annex%20A%20and%20B%20for%20SLS.pdf)
