@@ -58,3 +58,4 @@ Note: Zoom Briefing Video Recording needs to be uploaded via YouTube.
 *   [MOE FAS Application Form](/files/GGAS_Application%20Form.pdf) /  [e-FAS](https://go.gov.sg/moe-efas)  **(\*NEW!)**
 *   [Group Personal Accident GPA Insurance Plan for Students (Fact Sheet)](/files/Product%20Fact%20Sheet%20Year%202022%20Sep%202022.pdf) **(\*NEW!)**
 *   [Student GPA Claims Portal](https://studentgpa.incomegroupins.com.sg/) **(\*NEW!)**
+*   [JYPS Vehicle Access](https://go.gov.sg/jyps-vehicle-access) **(\*NEW!)**
