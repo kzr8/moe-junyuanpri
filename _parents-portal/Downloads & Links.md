@@ -16,6 +16,7 @@ Downloads & Links
 ##### 2022 Math Alive Workshop for Parents NEW!
 
 *   P1 Slides
-
+*   P2 Slides
+*   [P3 & P4 Slides](/files/P3%20%204%20Math%20Alive%20Workshop%20for%20Parents%202022%20JYPS%20Website.pdf)
 
 ##### 2022 Primary 5 Learning with PLDs Pilot Programme Zoom Briefing (1 Apr) NEW!
