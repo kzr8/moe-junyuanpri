@@ -23,4 +23,4 @@ You may find the guide at the following link:
 
 Alternatively, you can scan the following QR code to access the guide.
 
-
+![](/images/QR1.png)
