@@ -51,4 +51,6 @@ Note: Zoom Briefing Video Recording needs to be uploaded via YouTube.
 
 *   [Nomination Form](/files/Nomination%20Form%20for%20stakeholders.pdf)
 
-##### Quick Links 
+##### Quick Links
+
+*   [Parents Gateway](/files/Instructional%20Guide%20to%20Onboard%20Parents%20Gateway.pdf)
