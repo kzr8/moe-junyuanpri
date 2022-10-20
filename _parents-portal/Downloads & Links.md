@@ -12,6 +12,7 @@ Downloads & Links
 
 *   Briefing Slides
 
+Note: File size too big
 
 ##### 2022 Math Alive Workshop for Parents NEW!
 
@@ -19,6 +20,8 @@ Downloads & Links
 *   P2 Slides
 *   [P3 & P4 Slides](/files/P3%20%204%20Math%20Alive%20Workshop%20for%20Parents%202022%20JYPS%20Website.pdf)
 *   [P5 & P6 Slides](/files/P5%20%206%20Math%20Alive%20Workshop%20for%20Parents%202022%20JYPS%20Website.pdf)
+
+Note: File size too big (P1 Slides & P2 Slides)
 
 ##### 2022 Primary 5 Learning with PLDs Pilot Programme Zoom Briefing (1 Apr) NEW!
 
@@ -32,6 +35,7 @@ Note: Zoom Briefing Video Recording needs to be uploaded via YouTube.
 *   [Briefing Slides](/files/Briefing%20Slides%20for%20Parents%20-%20Primary%20School%20Pilot%20for%20Learning%20with%20PLDs.pdf)
 *   [Zoom Briefing Video Recording](https://drive.google.com/file/d/12AiiDIwRDBDz4fKzz7__QQoTLViieoNK/view?usp=sharing)
 
+Note: Zoom Briefing Video Recording needs to be uploaded via YouTube.
 
 ##### 2021 Primary 1 Matters  NEW!\*
 
