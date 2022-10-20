@@ -59,3 +59,5 @@ Note: Zoom Briefing Video Recording needs to be uploaded via YouTube.
 *   [Group Personal Accident GPA Insurance Plan for Students (Fact Sheet)](/files/Product%20Fact%20Sheet%20Year%202022%20Sep%202022.pdf) **(\*NEW!)**
 *   [Student GPA Claims Portal](https://studentgpa.incomegroupins.com.sg/) **(\*NEW!)**
 *   [JYPS Vehicle Access](https://go.gov.sg/jyps-vehicle-access) **(\*NEW!)**
+*   [Leave of Absence (LOA)](https://go.gov.sg/jyps-loa) **(\*NEW!)**
+*   [WaitList Form](https://go.gov.sg/jypswaitlistform) **(\*NEW!)**
