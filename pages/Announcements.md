@@ -27,4 +27,4 @@ Click [here](/parents-portal/Announcements/) to find out more!
 
 ##### 2022 E-Invitations from Secondary Schools
 
-Click here to access!
+Click [here](/parents-portal/Transition-to-Secondary-School/2022-E-Invitations-from-Secondary-Schools/) to access!
