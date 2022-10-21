@@ -1,4 +1,5 @@
 collections:
   jps:
     output: true
-    order: []
+    order:
+      - Terms of Use.md
