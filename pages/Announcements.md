@@ -22,3 +22,9 @@ Click [here](/parents-portal/JYPS-Bulletin/) to access!
 ##### ECHA 2022
 
 Click [here](/parents-portal/Announcements/) to find out more!
+
+
+
+##### 2022 E-Invitations from Secondary Schools
+
+Click here to access!
