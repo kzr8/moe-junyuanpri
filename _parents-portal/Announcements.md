@@ -20,3 +20,13 @@ ECHA Nomination Criteria:
 • Demonstrate exemplary and consistent behaviour;
 
 • Possess a high level of civic responsibility and/or qualities associated with resilience.
+
+We have formulated a rigorous, robust and fair selection process based on the guidelines and criteria provided by MOE. The 4 main stages in the selection process are
+
+(i) nomination;
+
+(ii) shortlisting of nominees by level teachers;
+
+(iii) selection of the final awardees by a panel headed by the Principal;
+
+(iv) endorsement by the Principal and representatives from key stakeholders.
