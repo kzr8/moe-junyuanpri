@@ -16,4 +16,4 @@ JYPS Bulletin
 
 [March](/files/March_Bulletin_2022.pdf)
 
-[April](/files/April_Bulletin_2022%20For%20Circulation.pdf) ( [Mozzie Wipeout Checklist](/files/Mozzie%20Wipeout%20Checklist.pdf)
+[April](/files/April_Bulletin_2022%20For%20Circulation.pdf) ( [Mozzie Wipeout Checklist](/files/Mozzie%20Wipeout%20Checklist.pdf) [P3 WA1 Schedule & Topics](/files/P3%20WA1%20Topics%20%20Schedule.pdf)
