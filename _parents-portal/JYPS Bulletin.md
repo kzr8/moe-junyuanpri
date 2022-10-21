@@ -24,3 +24,6 @@ JYPS Bulletin
 
 [August](/files/August_Bulletin_2022.pdf) ( [HPB Workshop](/files/HPB%20Workshop.pdf) )
 
+[September](/files/Sep_Bulletin_2022%20FINAL.pdf)
+
+[October](/files/October_Bulletin%20_2022_For%20Circulation.pdf)
