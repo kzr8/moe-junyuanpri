@@ -32,4 +32,4 @@ Click [here](/parents-portal/Transition-to-Secondary-School/2022-E-Invitations-f
 
 ##### Group Personal Accident (GPA) Insurance Plan for Students
 
-Click  to access!
+Click [here](/parents-portal/Announcements/) to access!
