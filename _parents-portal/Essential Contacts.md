@@ -30,3 +30,7 @@ Mondays to Fridays
 
 ##### **Address**
 2 Tampines Street 91 Singapore 528906
+
+
+##### **Other information**
+Closed on Sat, Sun and Public Holidays
