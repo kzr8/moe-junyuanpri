@@ -22,4 +22,5 @@ JYPS Bulletin
 
 [June-July](/files/June-July_Bulletin_2022.pdf) ( [Childhood Eye Condition](/files/Childhood%20Eye%20Condition.pdf) )
 
-[August](/files/August_Bulletin_2022.pdf)
+[August](/files/August_Bulletin_2022.pdf) ( [HPB Workshop](/files/HPB%20Workshop.pdf) )
+
