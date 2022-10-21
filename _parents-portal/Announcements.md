@@ -30,3 +30,7 @@ We have formulated a rigorous, robust and fair selection process based on the gu
 (iii) selection of the final awardees by a panel headed by the Principal;
 
 (iv) endorsement by the Principal and representatives from key stakeholders.
+
+In addition to the MOE Edusave Character Award, the school will continue to recognise students who are good role models with school-based award – the JYPS Character Award. These awardees will be selected based on similar criteria for ECHA and would include non-Singaporeans.
+
+Teachers, parents and students are welcome to nominate deserving Junyuan Primary School students for the award. The nominees will be interviewed by a panel consisting of the school middle managers, school leaders and stakeholders (Alumni and Parent Support Group).
