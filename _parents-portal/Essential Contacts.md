@@ -26,7 +26,14 @@ Essential Contacts
 .tg .tg-vu6a{background-color:#E8AB38;color:#A52023;text-align:left;text-decoration:underline;vertical-align:top}
 .tg .tg-a7i3{background-color:#E8AB38;color:#FFF;text-align:center;vertical-align:top}
 </style>
-<table class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 2369px">
+<colgroup>
+<col style="width: 155px">
+<col style="width: 287px">
+<col style="width: 726px">
+<col style="width: 261px">
+<col style="width: 940px">
+</colgroup>
 <thead>
   <tr>
     <th class="tg-556q"></th>
