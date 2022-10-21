@@ -13,5 +13,5 @@ sections:
       key_highlights:
         - title: Announcements
           description: ""
-          url: https://google.com
+          url: /Announcements/
 ---
