@@ -14,3 +14,6 @@ links:
     collection: parents-portal
   - title: JYPS Kids Cafe
     collection: jyps-kids-cafe
+  - title: JPS
+    url: /permalink
+    sublinks: []
