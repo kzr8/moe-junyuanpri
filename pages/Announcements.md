@@ -21,4 +21,4 @@ Click [here](/parents-portal/JYPS-Bulletin/) to access!
 
 ##### ECHA 2022
 
-Click here to find out more!
+Click [here](/parents-portal/Announcements/) to find out more!
