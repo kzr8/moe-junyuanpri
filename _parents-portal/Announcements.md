@@ -49,3 +49,26 @@ We would like to invite you to join us for Junyuan Primary School’s Virtual Op
 
 You may register using QR code or via this link [https://go.gov.sg/jyps-virtual-open-hse](https://go.gov.sg/jyps-virtual-open-hse).  
 We look forward to your registration.
+
+![](/images/JYPS%20E-Open%20House%202022.jpeg)
+
+  
+### 2022 Primary One (P1) Registration Exercise - Phase 1 Registration NEW!
+
+Phase 1 registration is for a Singapore Citizen (SC) or Permanent Resident (PR) child born between 2 Jan 2016 and 1 Jan 2017 (both dates inclusive) and has a sibling studying in our school.
+
+If you have a SC or PR child eligible for Phase 1, please submit the online form at [https://go.gov.sg/p1onlineform](https://go.gov.sg/p1onlineform)  by **10 June 2022.** The school will contact you should additional clarifications and / or documents are required.
+
+If your child is non-SC / non-PR and thus not eligible for Phase 1, please submit an online Indication of Interest between 31 May 2022 and 6 Jun 2022.
+
+You may refer to the MOE website at [go.gov.sg/P1reg](http://go.gov.sg/P1reg) for updates on the 2022 P1 Registration exercise.  Thank you.
+
+Best Regards,
+
+Junyuan Primary School
+
+### 2021 JYPS P6 e-Yearbook
+
+![](/images/e-Yearbook.png)
+
+Click [here](https://www.canva.com/design/DAEu_gv4qZU/hFl6yglvn0V-1p86CFmK8g/view) to access the 2021 e-Yearbook.
