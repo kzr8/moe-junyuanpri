@@ -28,3 +28,8 @@ Click [here](/parents-portal/Announcements/) to find out more!
 ##### 2022 E-Invitations from Secondary Schools
 
 Click [here](/parents-portal/Transition-to-Secondary-School/2022-E-Invitations-from-Secondary-Schools/) to access!
+
+
+##### Group Personal Accident (GPA) Insurance Plan for Students
+
+Click  to access!
