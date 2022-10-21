@@ -34,3 +34,9 @@ We have formulated a rigorous, robust and fair selection process based on the gu
 In addition to the MOE Edusave Character Award, the school will continue to recognise students who are good role models with school-based award – the JYPS Character Award. These awardees will be selected based on similar criteria for ECHA and would include non-Singaporeans.
 
 Teachers, parents and students are welcome to nominate deserving Junyuan Primary School students for the award. The nominees will be interviewed by a panel consisting of the school middle managers, school leaders and stakeholders (Alumni and Parent Support Group).
+
+As our key partner-in-education, we invite you to nominate suitable students for ECHA. 
+
+You may nominate online via [https://go.gov.sg/jypsecha2022](https://go.gov.sg/jypsecha2022)
+
+Nominations will open from Monday, 8 August 2022 to Friday, 2 September 2022.
