@@ -35,8 +35,17 @@ In addition to the MOE Edusave Character Award, the school will continue to reco
 
 Teachers, parents and students are welcome to nominate deserving Junyuan Primary School students for the award. The nominees will be interviewed by a panel consisting of the school middle managers, school leaders and stakeholders (Alumni and Parent Support Group).
 
-As our key partner-in-education, we invite you to nominate suitable students for ECHA. 
+As our key partner-in-education, we invite you to nominate suitable students for ECHA.
 
 You may nominate online via [https://go.gov.sg/jypsecha2022](https://go.gov.sg/jypsecha2022)
 
 Nominations will open from Monday, 8 August 2022 to Friday, 2 September 2022.
+
+### JYPS Virtual Open House 2022  !New
+
+Dear Parents,  
+  
+We would like to invite you to join us for Junyuan Primary School’s Virtual Open House 2022 on Friday, 8 July 2022 from 2.30pm to 3.30pm.
+
+You may register using QR code or via this link [https://go.gov.sg/jyps-virtual-open-hse](https://go.gov.sg/jyps-virtual-open-hse).  
+We look forward to your registration.
