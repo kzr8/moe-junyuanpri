@@ -10,4 +10,4 @@ description: ""
 
 ##### MOE FAS e-Application Form
 
-Click here to access!
+Click [here](/parents-portal/Downloads-and-Links/) to access!
