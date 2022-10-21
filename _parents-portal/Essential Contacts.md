@@ -8,9 +8,6 @@ description: ""
 Essential Contacts
 ==================
 
-
-
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -43,7 +40,7 @@ Essential Contacts
   <tr>
     <td class="tg-mwhi"><span style="color:#454545;background-color:#FFEECF">General Office</span></td>
     <td class="tg-mwhi"><span style="color:#454545;background-color:#FFEECF">Tel: 6783 0375</span><br><span style="color:#454545;background-color:#FFEECF">Fax: 6788 7395</span><br><span style="color:#454545;background-color:#FFEECF">Email: </span><a href="mailto:junyuan_ps@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">junyuan_ps@moe.edu.sg</span></a></td>
-    <td class="tg-mwhi"><span style="color:#454545;background-color:#FFEECF">Mondays to Fridays</span><br><br>Revised Opening Hours during Phase 2 (HA)<br><span style="color:#454545;background-color:#FFEECF">7am to 5pm</span><br><br>School Term<br><span style="color:#454545;background-color:#FFEECF">7.30am - 5.30pm</span><br><br>School Holidays<br><span style="color:#454545;background-color:#FFEECF">8.00am - 5.00pm</span><br></td>
+    <td class="tg-mwhi"><span style="color:#454545;background-color:#FFEECF">Mondays to Fridays</span><br><br><span style="font-weight:bold">Revised Opening Hours during Phase 2 (HA)</span><br><span style="color:#454545;background-color:#FFEECF">7am to 5pm</span><br><br><span style="font-weight:bold">School Term</span><br><span style="color:#454545;background-color:#FFEECF">7.30am - 5.30pm</span><br><br><span style="font-weight:bold">School Holidays</span><br><span style="color:#454545;background-color:#FFEECF">8.00am - 5.00pm</span><br></td>
     <td class="tg-mwhi"><span style="color:#454545;background-color:#FFEECF">2 Tampines Street 91 Singapore 528906</span><br></td>
     <td class="tg-mwhi"><span style="color:#454545;background-color:#FFEECF">Closed on Sat, Sun and Public Holidays</span><br></td>
   </tr>
@@ -71,7 +68,7 @@ Essential Contacts
   <tr>
     <td class="tg-mwhi"><span style="color:#454545;background-color:#FFEECF">School Dental Clinic</span></td>
     <td class="tg-mwhi"><span style="color:#454545;background-color:#FFEECF">Tel: 8940 3520</span><br><br></td>
-    <td class="tg-mwhi"><span style="color:#454545;background-color:#FFEECF">The school dental clinic will be operating during the 1st and 3rd week of every month with effect from 27 June 2022.</span><br><br>Monday to Thursday<br><span style="color:#454545;background-color:#FFEECF">8.00am to 5,30pm</span><br><span style="color:#454545;background-color:#FFEECF">(Lunch 1.00pm to 2.00pm)</span><br><br><span style="color:#454545;background-color:#FFEECF">It is closed on Fridays.</span><br><br><br></td>
+    <td class="tg-mwhi"><span style="color:#454545;background-color:#FFEECF">The school dental clinic will be operating during the 1st and 3rd week of every month with effect from 27 June 2022.</span><br><br><span style="font-weight:bold">Monday to Thursday</span><br><span style="color:#454545;background-color:#FFEECF">8.00am to 5,30pm</span><br><span style="color:#454545;background-color:#FFEECF">(Lunch 1.00pm to 2.00pm)</span><br><br><span style="color:#454545;background-color:#FFEECF">It is closed on Fridays.</span><br><br><br></td>
     <td class="tg-7s04"><span style="color:#454545;background-color:#FFEECF">-</span></td>
     <td class="tg-mwhi"><span style="color:#454545;background-color:#FFEECF">The School Dental Clinic is located on Level 1 across from the General Office.</span><br><br><span style="color:#454545;background-color:#FFEECF">For urgent cases during during clinic closure, please call School Dental Centre (HPB) at 6435 3782 for assistance.</span><br></td>
   </tr>
