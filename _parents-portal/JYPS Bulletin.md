@@ -9,3 +9,5 @@ JYPS Bulletin
 =============
 
 ### **JYPS Bulletin 2022**
+
+[January](/files/January%20Bulletin_2022_FINAL.pdf)
