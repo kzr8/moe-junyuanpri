@@ -130,7 +130,7 @@ j)  Mobile devices (e.g. handphone, smartphone, tablets) / MP3 / electronic ga
 k)  Chewing gum is banned.
 
 ##### Use of School ICT Equipment
----------------------------
+
 
 ###### **What are the ICT Equipment that the school provides for the students?**
 
@@ -139,7 +139,7 @@ k)  Chewing gum is banned.
 Computing devices like laptops, desktop PCs and tablets are available for students to use on daily basis. These computing devices are used to support your learning in school and internet access allows you to share resources and interact with people from all over the world. For more details, please _**refer to page 26 of Pupils Diary 2021.**_
 
 ##### Mobile Devices
---------------
+
 
 ###### **Can my child bring handphone to school?**  
 
