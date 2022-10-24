@@ -55,6 +55,3 @@ All P3 students will be given an option to participate in 1 CCA if they wish to.
   
 
 Parents who would like their P1 students to join a CCA will need to write in to HOD (PE/Music/Arts) or SH (Aesthetics) at junyuan_ps@moe.edu.sg
-
-
-
