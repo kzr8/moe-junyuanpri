@@ -40,6 +40,7 @@ Physical Sports Groups:
 
 
 Visual and Performing Arts Groups
+* [Chinese Dance](/cca/Visual-and-Performing-Arts-Group/ChineseDance/)
 
 
 Uniformed Groups
