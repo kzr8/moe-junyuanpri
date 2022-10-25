@@ -44,6 +44,7 @@ Visual and Performing Arts Groups
 * [Malay Dance](/cca/Visual-and-Performing-Arts-Group/MalayDance/)
 * [Modern Dance](/cca/Visual-and-Performing-Arts-Group/ModernDance/)
 * [Choir](/cca/Visual-and-Performing-Arts-Group/Choir/)
+* [Music Interest Club](/cca/Visual-and-Performing-Arts-Group/MusicInterestClub/)
 
 
 Uniformed Groups
