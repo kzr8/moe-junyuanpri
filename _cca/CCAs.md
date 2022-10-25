@@ -35,6 +35,7 @@ Our CCAs offer excellent platforms for students to acquire core values, social a
 Physical Sports Groups:
 * [Floorball](/cca/Physical-Sports-Group/Floorball/)
 * [Volleyball](/cca/Physical-Sports-Group/Volleyball/)
+* [Taekwondo](/cca/Physical-Sports-Group/TaeKwonDo/)
 
 
 Visual and Performing Arts Groups
