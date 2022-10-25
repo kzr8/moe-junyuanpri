@@ -54,6 +54,7 @@ Our CCAs offer excellent platforms for students to acquire core values, social a
 
 **Clubs and Societies:**
 * [Drama Club](/cca/Clubs-and-Societies/DramaClub/)
+* [Info Comm Club](/cca/Clubs-and-Societies/InfoCommClub/)
 
 
 
