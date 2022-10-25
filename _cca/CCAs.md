@@ -36,6 +36,7 @@ Physical Sports Groups:
 * [Floorball](/cca/Physical-Sports-Group/Floorball/)
 * [Volleyball](/cca/Physical-Sports-Group/Volleyball/)
 * [Taekwondo](/cca/Physical-Sports-Group/TaeKwonDo/)
+* [Tchoukball](/cca/Physical-Sports-Group/Tchoukball/)
 
 
 Visual and Performing Arts Groups
