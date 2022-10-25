@@ -42,6 +42,7 @@ Physical Sports Groups:
 Visual and Performing Arts Groups
 * [Chinese Dance](/cca/Visual-and-Performing-Arts-Group/ChineseDance/)
 * [Malay Dance](/cca/Visual-and-Performing-Arts-Group/MalayDance/)
+* [Modern Dance](/cca/Visual-and-Performing-Arts-Group/ModernDance/)
 
 
 Uniformed Groups
