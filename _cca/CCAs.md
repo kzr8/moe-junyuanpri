@@ -49,7 +49,7 @@ Our CCAs offer excellent platforms for students to acquire core values, social a
 
 
 **Uniformed Groups:**
-* 
+* [Scouts](/cca/Uniformed-Groups/ScoutsCubs/)
 
 
 **Clubs and Societies:**
