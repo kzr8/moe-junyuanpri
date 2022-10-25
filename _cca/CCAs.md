@@ -32,14 +32,14 @@ Our CCAs offer excellent platforms for students to acquire core values, social a
 
 ##### **2.1 List of CCAs**
 
-Physical Sports Groups:
+**Physical Sports Groups:**
 * [Floorball](/cca/Physical-Sports-Group/Floorball/)
 * [Volleyball](/cca/Physical-Sports-Group/Volleyball/)
 * [Taekwondo](/cca/Physical-Sports-Group/TaeKwonDo/)
 * [Tchoukball](/cca/Physical-Sports-Group/Tchoukball/)
 
 
-Visual and Performing Arts Groups
+**Visual and Performing Arts Groups:**
 * [Chinese Dance](/cca/Visual-and-Performing-Arts-Group/ChineseDance/)
 * [Malay Dance](/cca/Visual-and-Performing-Arts-Group/MalayDance/)
 * [Modern Dance](/cca/Visual-and-Performing-Arts-Group/ModernDance/)
@@ -48,10 +48,10 @@ Visual and Performing Arts Groups
 * [Visual Art Club](/cca/Visual-and-Performing-Arts-Group/VisualArtsClub/)
 
 
-Uniformed Groups
+**Uniformed Groups:**
 
 
-Clubs and Societies
+**Clubs and Societies:**
 
 
 
