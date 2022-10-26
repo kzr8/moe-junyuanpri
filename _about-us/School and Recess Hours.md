@@ -22,7 +22,15 @@ School and Recess Hours
 .tg .tg-ncov{background-color:#FFF;color:#454545;text-align:center;vertical-align:middle}
 .tg .tg-2fwu{background-color:#FFF;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
 </style>
-<table class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 825px">
+<colgroup>
+<col style="width: 170px">
+<col style="width: 131px">
+<col style="width: 131px">
+<col style="width: 131px">
+<col style="width: 131px">
+<col style="width: 131px">
+</colgroup>
 <thead>
   <tr>
     <th class="tg-2fwu">Daily</th>
@@ -39,7 +47,7 @@ School and Recess Hours
     <td class="tg-a4yv" colspan="5">Curriculum Hours</td>
   </tr>
   <tr>
-    <td class="tg-ncov"> Flag Raising Ceremony<br>7.30 am </td>
+    <td class="tg-ncov"> <span style="font-weight:bold">Flag Raising Ceremony</span><br>7.30 am </td>
     <td class="tg-ncov" colspan="4">7.30 am - 1.30 pm*</td>
     <td class="tg-ncov"> 7.30 am - 12.45 pm*</td>
   </tr>
