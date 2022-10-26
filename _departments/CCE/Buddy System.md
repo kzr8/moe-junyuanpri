@@ -82,3 +82,30 @@ The first few days of school can be an exciting yet daunting experience for many
 </table>
 
 All in all, smiles and happiness were abound during the programme and friendship bonds were established between the Primary 5 ‘Big Brothers and Sisters’ and their Primary 1 counterparts.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-zv4m{border-color:#ffffff;text-align:left;vertical-align:top}
+.tg .tg-8bgf{border-color:inherit;font-style:italic;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-8bgf" colspan="2">Happy Times during recess</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-zv4m"><img src="https://junyuanpri.moe.edu.sg/qql/slot/u499/Buddy%20System/buddy%201.jpg" width="400" height="300"></td>
+    <td class="tg-zv4m"><img src="https://junyuanpri.moe.edu.sg/qql/slot/u499/Buddy%20System/buddy%202.jpg" width="400" height="300"></td>
+  </tr>
+  <tr>
+    <td class="tg-zv4m"><img src="https://junyuanpri.moe.edu.sg/qql/slot/u499/Buddy%20System/buddy%203.jpg" width="400" height="300"></td>
+    <td class="tg-zv4m"><img src="https://junyuanpri.moe.edu.sg/qql/slot/u499/Buddy%20System/buddy%204.jpg" width="400" height="300"></td>
+  </tr>
+</tbody>
+</table>
