@@ -47,3 +47,37 @@ The first few days of school can be an exciting yet daunting experience for many
   </tr>
 </tbody>
 </table>
+
+---
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-zv4m{border-color:#ffffff;text-align:left;vertical-align:top}
+.tg .tg-8jgo{border-color:#ffffff;text-align:center;vertical-align:top}
+.tg .tg-9kjl{font-size:20px;font-style:italic;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-9kjl" colspan="2">We learnt how to buy food from our friendly stallholders.</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-8jgo"><img src="https://junyuanpri.moe.edu.sg/qql/slot/u499/Buddy%20System/eating%201.jpg" width="400" height="300"></td>
+    <td class="tg-zv4m"><img src="https://junyuanpri.moe.edu.sg/qql/slot/u499/Buddy%20System/eating%202.jpg" width="400" height="300"></td>
+  </tr>
+  <tr>
+    <td class="tg-zv4m"><img src="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/Buddy%20System/eating%204.jpg" width="400" height="300"></td>
+    <td class="tg-zv4m"><img src="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/Buddy%20System/eating%205.jpg" width="400" height="300"></td>
+  </tr>
+  <tr>
+    <td class="tg-8jgo"><img src="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/Buddy%20System/eating%206.jpg" alt="Image" width="300" height="400"></td>
+    <td class="tg-8jgo"><img src="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/Buddy%20System/eating%203.jpg" alt="Image" width="400" height="300"></td>
+  </tr>
+</tbody>
+</table>
