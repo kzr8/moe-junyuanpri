@@ -126,3 +126,18 @@ Junyuan Primary started Tchoukball as a CCA in 2012. It is an active and fun spo
   </tr>
 </tbody>
 </table>
+
+
+##### **SCHEDULE**
+
+Mondays 2.00pm - 4.00pm  
+Fridays 1.15pm - 3.30pm
+
+
+**Teachers IC and Email address:**
+
+Mr Terence Khoo: [khoo\_kang\_ming@moe.edu.sg](mailto:khoo_kang_ming@moe.edu.sg)  
+Mr Koh Thiam Joo: [koh\_thiam\_joo@moe.edu.sg](mailto:koh_thiam_joo@moe.edu.sg)  
+Mdm Nurul Syahidah: [nurul\_syahidah\_rahmat@moe.edu.sg](mailto:nurul_syahidah_rahmat@moe.edu.sg)  
+Mdm Jane Lim: [lim\_mui\_huay@moe.edu.sg](mailto:lim_mui_huay@moe.edu.sg)  
+Mdm Soh Eng Wee: [soh\_eng\_wee@moe.edu.sg](mailto:soh_eng_wee@moe.edu.sg)
