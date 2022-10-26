@@ -73,137 +73,28 @@ Mathematics is a hierarchical subject, where higher concepts and skills are buil
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-fwnj{background-color:#FFF;color:#454545;text-align:left;vertical-align:top}
-.tg .tg-2fwu{background-color:#FFF;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 653px">
-<colgroup>
-<col style="width: 254px">
-<col style="width: 270px">
-<col style="width: 129px">
-</colgroup>
-<thead>
-  <tr>
-    <th class="tg-2fwu">AWARD</th>
-    <th class="tg-2fwu">NAME</th>
-    <th class="tg-2fwu">CLASS</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-2fwu"><br>GOLD<br><img src="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/2021/2021%20Maths%20Dept%20Website/Trophy.jpg" alt="Trophy.jpg"><br></td>
-    <td class="tg-fwnj">Katikareddy Samyutha</td>
-    <td class="tg-fwnj">6 Resilience</td>
-  </tr>
-  <tr>
-    <td class="tg-2fwu" rowspan="3"><br>SILVER<br><img src="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/2021/2021%20Maths%20Dept%20Website/Trophy.jpg" alt="Trophy.jpg"><br></td>
-    <td class="tg-fwnj">Jayden Ho Junde</td>
-    <td class="tg-fwnj">5 Responsibility</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Leung Chun Hei Noah</td>
-    <td class="tg-fwnj">4 Respect</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Wang Jian Zhuo Jayden</td>
-    <td class="tg-fwnj">4 Resilience</td>
-  </tr>
-  <tr>
-    <td class="tg-2fwu" rowspan="10">BRONZE<br><br><img src="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/2021/2021%20Maths%20Dept%20Website/Trophy.jpg" alt="Trophy.jpg"><br></td>
-    <td class="tg-fwnj">Boston Than Ye Feng</td>
-    <td class="tg-fwnj">6 Resilience</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Charlynn Chng</td>
-    <td class="tg-fwnj">6 Integrity</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Chong Rui Hong</td>
-    <td class="tg-fwnj">6 Care</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Han Xinrui Rae</td>
-    <td class="tg-fwnj">5 Resilience</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Luo Yuelin</td>
-    <td class="tg-fwnj">5 Resilience</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Ng Xin Yi</td>
-    <td class="tg-fwnj">5 Resilience</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Yerabham John Preetham Reddy</td>
-    <td class="tg-fwnj">5 Respect</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Eqil Unays Bin Amran</td>
-    <td class="tg-fwnj">5 Responsibility</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Nufael Ariq Bin Muhd Shahron</td>
-    <td class="tg-fwnj">4 Resilience</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Rosanne Yong Le Xuan</td>
-    <td class="tg-fwnj">4 Care</td>
-  </tr>
-  <tr>
-    <td class="tg-2fwu" rowspan="5">HONOURABLE MENTION</td>
-    <td class="tg-fwnj">Hoon Tai Fong</td>
-    <td class="tg-fwnj">6 Respect</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Itaash Sudhan</td>
-    <td class="tg-fwnj">6 Care</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Amirul Aqil Bin Imran</td>
-    <td class="tg-fwnj">5 Responsibility</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Christopher Ian Javier Leung Zheng Yuan</td>
-    <td class="tg-fwnj">5 Responsibility</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">Derrick Tay Min Wei</td>
-    <td class="tg-fwnj">5 Responsibility</td>
-  </tr>
-</tbody>
-</table>
-
-
-**SINGAPORE MATHEMATICAL OLYMPIAD FOR PRIMARY SCHOOLS (SMOPS) 2021**
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-sxkx{background-color:#FFF;color:#454545;text-align:center;vertical-align:top}
 .tg .tg-ncov{background-color:#FFF;color:#454545;text-align:center;vertical-align:middle}
-.tg .tg-2fwu{background-color:#FFF;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-9u4g{background-color:#FFF;color:#454545;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-2fwu{background-color:#FFF;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-2fwu">AWARD</th>
+    <th class="tg-9u4g">AWARD</th>
     <th class="tg-9u4g">NAME</th>
     <th class="tg-9u4g">CLASS</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-2fwu" rowspan="2"><br>SILVER<br><img src="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/2021/2021%20Maths%20Dept%20Website/Trophy.jpg" alt="Trophy.jpg"><br><br><br></td>
-    <td class="tg-sxkx">Chong Rui Hong<br></td>
-    <td class="tg-sxkx">6 Care</td>
+    <td class="tg-2fwu" rowspan="2"><br>SILVER<br><img src="https://junyuanpri.moe.edu.sg/qql/slot/u499/2021/2021%20Maths%20Dept%20Website/Trophy.jpg" alt="Trophy.jpg" width="118" height="101"><br><br><br></td>
+    <td class="tg-sxkx"><br><br>Chong Rui Hong<br></td>
+    <td class="tg-sxkx"><br><br>6 Care</td>
   </tr>
   <tr>
     <td class="tg-ncov">Katikareddy Samyutha</td>
-    <td class="tg-sxkx"><br><br><br><br><br><br>6 Resilience</td>
+    <td class="tg-sxkx"><br><br>6 Resilience<br></td>
   </tr>
 </tbody>
 </table>
