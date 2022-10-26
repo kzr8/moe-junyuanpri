@@ -18,10 +18,10 @@ Teacher Leaders
 .tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-sdzj{background-color:#FFF;color:#454545;text-align:left;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 443px">
+<table class="tg" style="undefined;table-layout: fixed; width: 659px">
 <colgroup>
-<col style="width: 240px">
-<col style="width: 203px">
+<col style="width: 400px">
+<col style="width: 259px">
 </colgroup>
 <thead>
   <tr>
