@@ -58,7 +58,7 @@ Privacy Policy
 
   
 
-    iii)  Private entities who wish to have their websites hyperlinked on The Website can write to The Webmaster at junyuan_ps@moe.edu.sg, with their contact details, the Uniform Resource Locator (URL) of the proposed link, a brief write-up of their website’s function, and reasons for wanting to be hyperlinked on The Website.
+    iii)  Private entities who wish to have their websites hyperlinked on The Website can write to The Webmaster at [junyuan\_ps@moe.edu.sg](mailto:junyuan_ps@moe.edu.sg), with their contact details, the Uniform Resource Locator (URL) of the proposed link, a brief write-up of their website’s function, and reasons for wanting to be hyperlinked on The Website.
 
   
 
