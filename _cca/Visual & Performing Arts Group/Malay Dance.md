@@ -15,6 +15,32 @@ We aim to develop our members into graceful and skilled dancers, and confident p
 
 ---
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ifde{background-color:#FFF;color:#454545;font-style:italic;text-align:center;vertical-align:top}
+.tg .tg-9u4g{background-color:#FFF;color:#454545;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-9u4g"><img src="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/CCA/PA/PIC%202[4].jpg" alt="Pic 2.jpg" width="318"></th>
+    <th class="tg-9u4g"><img src="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/CCA/PA/PIC%203.jpeg" alt="PIC 3.jpeg" width="312"></th>
+    <th class="tg-9u4g"><img src="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/CCA/PA/PIC%204[4].jpg" alt="Pic 4.jpg" width="326"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ifde">Singapore Youth Festival 2018</td>
+    <td class="tg-ifde">End-of-Year Prize Presentation 2019</td>
+    <td class="tg-ifde">End-of-Year Prize Presentation 2019</td>
+  </tr>
+</tbody>
+</table>
+
 ---
 
 ##### **ACHIEVEMENTS**
