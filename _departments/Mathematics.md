@@ -75,20 +75,20 @@ Mathematics is a hierarchical subject, where higher concepts and skills are buil
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-sxkx{background-color:#FFF;color:#454545;text-align:center;vertical-align:top}
 .tg .tg-ncov{background-color:#FFF;color:#454545;text-align:center;vertical-align:middle}
-.tg .tg-9u4g{background-color:#FFF;color:#454545;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-2fwu{background-color:#FFF;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-9u4g{background-color:#FFF;color:#454545;font-weight:bold;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-9u4g">AWARD</th>
+    <th class="tg-2fwu">AWARD</th>
     <th class="tg-9u4g">NAME</th>
     <th class="tg-9u4g">CLASS</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-2fwu" rowspan="2"><br>SILVER<br><img src="https://junyuanpri.moe.edu.sg/qql/slot/u499/2021/2021%20Maths%20Dept%20Website/Trophy.jpg" alt="Trophy.jpg" width="118" height="101"><br><br><br></td>
+    <td class="tg-2fwu" rowspan="2"><br>SILVER<br><img src="https://junyuanpri.moe.edu.sg/qql/slot/u499/2021/2021%20Maths%20Dept%20Website/Trophy.jpg" alt="Trophy.jpg" width="142" height="120"><br><br><br></td>
     <td class="tg-sxkx"><br><br>Chong Rui Hong<br></td>
     <td class="tg-sxkx"><br><br>6 Care</td>
   </tr>
