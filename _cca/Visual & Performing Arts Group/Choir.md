@@ -15,6 +15,32 @@ The JYPS Choir is under the baton of Miss Lim Beena. The choir aims to provide a
 
 ---
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ifde{background-color:#FFF;color:#454545;font-style:italic;text-align:center;vertical-align:top}
+.tg .tg-9u4g{background-color:#FFF;color:#454545;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-9u4g"><img src="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/2020/CCA/Choir%20pic%202.jpg" alt="Choir pic 2.jpg" width="279"></th>
+    <th class="tg-9u4g"><img src="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/2020/CCA/Choir%20pic%203.jpg" alt="Choir pic 3.jpg" width="387"></th>
+    <th class="tg-9u4g"><img src="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/2020/CCA/choir%20pic%204.jpg" alt="choir pic 4.jpg" width="279"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ifde">CCA at the Music Room <br></td>
+    <td class="tg-ifde">Performance at The Esplanade<br></td>
+    <td class="tg-ifde">Rehearsal at SOTA </td>
+  </tr>
+</tbody>
+</table>
+
 ---
 
 ##### **ACHIEVEMENTS**  
