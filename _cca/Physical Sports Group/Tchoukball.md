@@ -58,3 +58,71 @@ Junyuan Primary started Tchoukball as a CCA in 2012. It is an active and fun spo
 ---
 
 ##### **PARTICIPATION AND ACHIEVEMENTS AT EVENTS**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-fwnj{background-color:#FFF;color:#454545;text-align:left;vertical-align:top}
+.tg .tg-9u4g{background-color:#FFF;color:#454545;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-sdzj{background-color:#FFF;color:#454545;text-align:left;vertical-align:middle}
+.tg .tg-csdc{background-color:#FFF;color:#454545;font-weight:bold;text-align:left;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 653px">
+<colgroup>
+<col style="width: 56px">
+<col style="width: 433px">
+<col style="width: 164px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-9u4g">2019</th>
+    <th class="tg-sdzj"><span style="color:inherit;background-color:transparent">National Primary School Tchoukball Championships 2019 (Seniors)</span><br></th>
+    <th class="tg-sdzj"><span style="color:inherit;background-color:transparent">Boys – Champion</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent"> </span></td>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">National Primary School Tchoukball Championships 2019 (Seniors)</span><br></td>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">Girls – 1st Runner up</span></td>
+  </tr>
+  <tr>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent"> </span></td>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">National Primary School Tchoukball Championships 2019 (Juniors)</span></td>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">Boys – Champion</span></td>
+  </tr>
+  <tr>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent"> </span></td>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">National Primary School Tchoukball Championships 2019 (Juniors)</span><br></td>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">Girls – Champion</span></td>
+  </tr>
+  <tr>
+    <td class="tg-csdc"><span style="color:inherit;background-color:transparent">2018</span></td>
+    <td class="tg-fwnj"><span style="font-weight:normal">Singapore Press Holdings Foundation East Zone (Seniors) </span><br></td>
+    <td class="tg-fwnj"><span style="font-weight:normal">Boys – Champion</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent"> </span></td>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">National Primary School Tchoukball Championships 2018 (Seniors)</span><br></td>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">Boys – Participation</span></td>
+  </tr>
+  <tr>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent"> </span></td>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">National Primary School Tchoukball Championships 2018 (Seniors)</span><br></td>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">Girls – 2nd Runner up</span></td>
+  </tr>
+  <tr>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent"> </span></td>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">National Primary School Tchoukball Championships 2018 (Juniors)</span></td>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">Boys – Champion</span></td>
+  </tr>
+  <tr>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent"> </span></td>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">National Primary School Tchoukball Championships 2018 (Juniors)</span><br></td>
+    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">Girls – 2nd Runner up</span></td>
+  </tr>
+</tbody>
+</table>
