@@ -35,7 +35,7 @@ Terms of Use
 
 6\. This site may contain links to non-Government sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites.
 
-7\. Please email us at junyuan_ps@moe.edu.sg for:
+7\. Please email us at [junyuan\_ps@moe.edu.sg](mailto:junyuan_ps@moe.edu.sg) for:
 
 • any enquiries and/or feedback on our data protection policies and procedures;
 
