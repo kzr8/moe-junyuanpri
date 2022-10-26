@@ -46,3 +46,29 @@ The International Dance is a newly formed Aesthetics CCA in Junyuan Primary Scho
   </tr>
 </tbody>
 </table>
+
+---
+
+##### **PARTICIPATION AND ACHIEVEMENT AT EVENTS**
+
+*   SYF (2020)
+*   International Friendship Day (2019)
+*   National Day Observance Ceremony (2019)
+
+---
+##### **SCHEDULE**
+
+Mondays 2.00pm - 3.30pm  
+Fridays 1.15pm - 3.30pm
+
+**Teachers IC and Email address:**  
+
+Mr Nor Azri B Abdul Aziz(I.C): [nor\_azri@moe.edu.sg](mailto:nor_azri@moe.edu.sg)
+
+Mdm Siti Raihani Bte Husainni: [siti\_raihani\_husainni@moe.edu.sg](mailto:siti_raihani_husainni@moe.edu.sg)
+
+Mdm Selvi D/O Suppiah: [selvarajoo\_selvi@moe.edu.sg](mailto:selvarajoo_selvi@moe.edu.sg)
+
+Miss Lim Chwee Neo, Pearl: [lim\_chwee\_neo\_pearl@moe.edu.sg](mailto:lim_chwee_neo_pearl@moe.edu.sg)
+
+Miss Goh Mei Ling: [goh\_mei\_ling\_a@moe.edu.sg](mailto:goh_mei_ling_a@moe.edu.sg)
