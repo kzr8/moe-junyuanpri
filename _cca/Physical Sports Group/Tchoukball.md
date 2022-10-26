@@ -54,3 +54,7 @@ Junyuan Primary started Tchoukball as a CCA in 2012. It is an active and fun spo
   </tr>
 </tbody>
 </table>
+
+---
+
+##### **PARTICIPATION AND ACHIEVEMENTS AT EVENTS**
