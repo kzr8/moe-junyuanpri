@@ -8,6 +8,3 @@ description: ""
 School Gates Opening Hours & Dismissal
 ======================================
 
-**SCHOOL GATE OPENING HOURS**
-
-##### **Updating in Progress**
