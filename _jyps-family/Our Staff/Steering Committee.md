@@ -17,23 +17,23 @@ Steering Committee
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-81wz{background-color:#FFF;color:#111;text-align:left;vertical-align:middle}
+.tg .tg-yp4s{color:#111;text-align:left;vertical-align:middle}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-81wz">Mr Chan Weng Cheong</th>
-    <th class="tg-81wz">Principal</th>
+    <th class="tg-yp4s">Mr Chan Weng Cheong</th>
+    <th class="tg-yp4s">Principal</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-81wz">Mrs Jenny Lai</td>
-    <td class="tg-81wz">VP-Academic </td>
+    <td class="tg-yp4s">Mrs Jenny Lai</td>
+    <td class="tg-yp4s">VP-Academic </td>
   </tr>
   <tr>
-    <td class="tg-81wz">Mdm Hafsah Abdullah</td>
-    <td class="tg-81wz">VP-Administration</td>
+    <td class="tg-yp4s">Mr Chue Wai Leong William </td>
+    <td class="tg-yp4s">VP-Administration</td>
   </tr>
 </tbody>
 </table>
