@@ -8,7 +8,7 @@ description: ""
 School and Recess Hours
 =======================
 
-### <center> SCHOOL HOURS </center>
+<center> <u><b>SCHOOL HOURS</b></u> </center>
 
 
 <style type="text/css">
