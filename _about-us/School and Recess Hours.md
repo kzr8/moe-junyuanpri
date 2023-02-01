@@ -58,9 +58,7 @@ School and Recess Hours
 </tbody>
 </table>
 
-\*   Pending national posture and Covid situation, staggered dismissal might be implemented in 2021. More details to be released through Parents’ Gateway before school re-opens.  
-
-\*\* For selected students only.  Parents will be notified by Term 1 Week 3 if their child has been selected for the remediation programme.
+\*   Do note the revision in school hours on Friday is due to the increase in CCE (FTGP) periods from 2023 onwards. The increase in CCE (FTGP) curriculum time is critical to support the expanded scope of content <br>\*\*  for CCE lessons to enhance the holistic development of our students.<br>For selected students only. Parents will be notified by Term 1 Week 3 if their child has been selected for the remediation programme.
 
 
 ### RECESS & SNACK BREAK
