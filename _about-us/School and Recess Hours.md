@@ -62,3 +62,55 @@ School and Recess Hours
 
 
 <center> <u><b>RECESS & SNACK BREAK</b></u> </center>
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-nrix{text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-a4yv">Levels</th>
+    <th class="tg-a4yv">Recess</th>
+    <th class="tg-a4yv">Snack Break</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-nrix">P6 </td>
+    <td class="tg-nrix">8.30am - 9.00am</td>
+    <td class="tg-nrix">12.00pm - 12.10pm </td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">P1</td>
+    <td class="tg-nrix">9.00am - 9.30am</td>
+    <td class="tg-nrix">12.00pm - 12.10pm<br></td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">P2</td>
+    <td class="tg-nrix">9.30am - 10.00am</td>
+    <td class="tg-nrix">12.00pm - 12.10pm </td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">P3</td>
+    <td class="tg-nrix">10.00am - 10.30am</td>
+    <td class="tg-nrix">8.30am - 8.40am </td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">P4</td>
+    <td class="tg-nrix">10.30am - 11.00am </td>
+    <td class="tg-nrix">8.30am - 8.40am </td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">P5</td>
+    <td class="tg-nrix">11.00am - 11.30am </td>
+    <td class="tg-nrix">8.30am - 8.40am </td>
+  </tr>
+</tbody>
+</table>
