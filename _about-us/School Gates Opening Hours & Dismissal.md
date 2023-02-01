@@ -104,3 +104,7 @@ School Gates Opening Hours & Dismissal
   </tr>
 </tbody>
 </table>
+
+
+
+<center> <u><b>DISMISSAL POINTS</b></u> </center>
