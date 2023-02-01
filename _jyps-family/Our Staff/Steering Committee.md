@@ -39,7 +39,7 @@ Steering Committee
 </table>
 
 
-##### KEY PERSONNEL
+### KEY PERSONNEL
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
