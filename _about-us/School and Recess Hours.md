@@ -8,8 +8,8 @@ description: ""
 School and Recess Hours
 =======================
 
-### SCHOOL HOURS
-------------
+### <center> SCHOOL HOURS </center>
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
