@@ -108,3 +108,36 @@ School Gates Opening Hours & Dismissal
 
 
 <center> <u><b>DISMISSAL POINTS</b></u> </center>
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-fz76{color:#454545;text-align:center;vertical-align:middle}
+.tg .tg-0lj4{color:#454545;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-fz76">Side Gate 1</th>
+    <th class="tg-0lj4">P3, P5 and P6</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-fz76">Side Gate 2</td>
+    <td class="tg-0lj4">P1, P2 and P4<br>P1 and P2 parents are strongly encouraged to wait for their child at the Basketball Court 5 minutes before end of day.<br>Teachers taking the last period will lead the P1 and P2 students to the Basketball Court.   </td>
+  </tr>
+  <tr>
+    <td class="tg-fz76"> School Bus Bay</td>
+    <td class="tg-0lj4">Teachers taking the last period will lead the students taking the school bus to<br>the bus bay. </td>
+  </tr>
+  <tr>
+    <td class="tg-fz76"> Basketball Court</td>
+    <td class="tg-0lj4">Siblings' pick-up point and all other Student Care Centres. </td>
+  </tr>
+</tbody>
+</table>
