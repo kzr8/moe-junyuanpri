@@ -39,18 +39,18 @@ Primary 6 Teachers
   </tr>
   <tr>
     <td class="tg-que8"> P6 Responsibility</td>
-    <td class="tg-0qja"> Mr Pavadai Mohan<br> <a href="mailto:pavadai_mohan@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">pavadai_mohan@moe.edu.sg</span></a><br></td>
-    <td class="tg-0qja"> Mdm Vasnani Pushpa Udharam (Mrs Bala)<br> <a href="mailto:vasnani_pushpa_udharam@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">vasnani_pushpa_udharam@moe.edu.sg</span></a><br></td>
+    <td class="tg-0lj4"> Mr Pavadai Mohan<br> <a href="mailto:pavadai_mohan@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">pavadai_mohan@moe.edu.sg</span></a><br></td>
+    <td class="tg-0lj4"> Mdm Vasnani Pushpa Udharam (Mrs Bala)<br> <a href="mailto:vasnani_pushpa_udharam@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">vasnani_pushpa_udharam@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-que8"> P6 Resilience</td>
-    <td class="tg-0qja"> Mdm Maisarah Bte Mohamad Sahat<br> <a href="mailto:maisarah_mohamad_sahat@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">maisarah_mohamad_sahat@moe.edu.sg</span></a><br></td>
-    <td class="tg-0qja"> Miss Goh Mei Ling<br> <a href="mailto:goh_mei_ling_a@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">goh_mei_ling_a@moe.edu.sg</span></a><br></td>
+    <td class="tg-0lj4"> Mdm Maisarah Bte Mohamad Sahat<br> <a href="mailto:maisarah_mohamad_sahat@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">maisarah_mohamad_sahat@moe.edu.sg</span></a><br></td>
+    <td class="tg-0lj4"> Miss Goh Mei Ling<br> <a href="mailto:goh_mei_ling_a@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">goh_mei_ling_a@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-que8"> P6 Integrity-1</td>
-    <td class="tg-0qja"> Miss Lim Chwee Neo Pearl<br> <a href="mailto:lim_chwee_neo_pearl@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">lim_chwee_neo_pearl@moe.edu.sg</span></a><br></td>
-    <td class="tg-0qja"> Mr Wang Shing Huei<br> <a href="mailto:wang_shing_huei@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">wang_shing_huei@moe.edu.sg</span></a><br></td>
+    <td class="tg-0lj4"> Miss Lim Chwee Neo Pearl<br> <a href="mailto:lim_chwee_neo_pearl@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">lim_chwee_neo_pearl@moe.edu.sg</span></a><br></td>
+    <td class="tg-0lj4"> Mr Wang Shing Huei<br> <a href="mailto:wang_shing_huei@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">wang_shing_huei@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-0lj4"> P6 Integrity-2</td>
@@ -59,8 +59,8 @@ Primary 6 Teachers
   </tr>
   <tr>
     <td class="tg-0lj4"> P6 Care</td>
-    <td class="tg-0qja"> Miss Chan Audrey<br> <a href="mailto:chan_audrey@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">chan_audrey@moe.edu.sg</span></a><br></td>
-    <td class="tg-0qja"> Mdm Cheah Soo Har Joelyn<br> <a href="mailto:cheah_soo_har@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">cheah_soo_har@moe.edu.sg</span></a><br> Miss Halimatussa'diah Bte Jaffar<br> <a href="mailto:halimatussadiah_jaffar@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">halimatussadiah_jaffar@moe.edu.sg</span></a></td>
+    <td class="tg-0lj4"> Miss Chan Audrey<br> <a href="mailto:chan_audrey@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">chan_audrey@moe.edu.sg</span></a><br></td>
+    <td class="tg-0lj4"> Mdm Cheah Soo Har Joelyn<br> <a href="mailto:cheah_soo_har@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">cheah_soo_har@moe.edu.sg</span></a><br> Miss Halimatussa'diah Bte Jaffar<br> <a href="mailto:halimatussadiah_jaffar@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">halimatussadiah_jaffar@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
 </table>
