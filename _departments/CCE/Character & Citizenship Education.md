@@ -14,8 +14,7 @@ Leaders of Character,  Gracious and Active Citizens
 
   
 
-### Mission
-
+<b>Mission</b> <br>
 To nurture every student to be caring, gracious and discerning
 
   
