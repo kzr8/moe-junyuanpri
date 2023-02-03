@@ -99,3 +99,12 @@ Through the following programmes conducted during curriculum time, we aim for ou
 	*   Field-based learning journeys & cohort learning journeys
 
 Please click for more information about [Character and Citizenship Education](/files/2021-primary-character-and-citizenship-education.pdf) and [Social Studies](/files/2020-social-studies-primary.pdf).
+
+
+### RECOGNITION & REWARDS:
+
+We strive to affirm and acknowledge the graciousness, kindness and resilience shown by our students and celebrate their goodness·       
+*   Caught Doing Right
+*   Class Model Student
+*   MOE Edusave Character Awards (ECHA)
+*   JYPS Character Awards
