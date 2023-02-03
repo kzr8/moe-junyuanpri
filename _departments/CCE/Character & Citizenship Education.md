@@ -76,4 +76,7 @@ Inculcate R3ICH values and coach social-emotional competencies such as self-awar
 *   <b>Education and Career Guidance (ECG)</b> 
 
 	Raise awareness of the different education and career pathways that are suited to students’ values, interests, personality and skills
-
+	
+	*   Career Talks (P6 only)
+	*   Transition to secondary school talks (P6 only)
+	*   Myskillsfuture Portal (P5 & P6 only)
