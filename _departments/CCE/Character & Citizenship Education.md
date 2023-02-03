@@ -19,8 +19,7 @@ To nurture every student to be caring, gracious and discerning
 
   
 
-### Tagline
-
+<b>Tagline</b> <br>
 I Care, You Care and We Care
 
   
