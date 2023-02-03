@@ -45,6 +45,8 @@ We strive to enrich learning platforms and opportunities for students to underst
 *   Have a good sense of gratitude and appreciation
 *   Develop a strong sense of love for our nation
 
+Through the following programmes conducted during curriculum time, we aim for our students to be equipped with  knowledge, strengthened in moral and civic values, coached in social and emotional competencies to develop good character and citizenship dispositions.
+
 ### RECOGNITION & REWARDS:
 
 *   Model pupils of the term
