@@ -29,7 +29,10 @@ I Care, You Care and We Care
 
 ### Rationale
 
-##### 'We want our pupils to be Leaders of Character and demonstrate our Character Values - **EnR³ICH** – **E**xcellence, **R**espect, **R**esponsibility, **R**esilience, **I**ntegrity, **C**are and **H**armony.  Pupils should also be effective in managing themselves, relationships, have self and social awareness and be able to make responsible decisions'
+We strive to nurture our students to be:
+
+> *   **Leaders of Character** who seek to exemplify our school values of **R3ICH,** enabled by **Social-Emotional Competencies**and 21st Century **Cross Cultural Civil Literacy Skills**.
+> *   **Active Citizens** who are **caring and gracious**, committed to do their bit to build a better nation for all; as well as **discerning**and grounded as they navigate through the challenges and influences encountered along the way to flourish and live fulfilling lives as individuals, family members, friends and citizens of Singapore
 
 ### OUR PROGRAMMES:
 
