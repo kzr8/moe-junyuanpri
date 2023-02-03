@@ -47,26 +47,3 @@ We strive to enrich learning platforms and opportunities for students to underst
 
 Through the following programmes conducted during curriculum time, we aim for our students to be equipped with  knowledge, strengthened in moral and civic values, coached in social and emotional competencies to develop good character and citizenship dispositions.
 
-### RECOGNITION & REWARDS:
-
-*   Model pupils of the term
-*   MOE Edusave Character Award (ECHA)
-*   MOE Edusave Awards for Achievement, Good Leadership and Service (EAGLES) award for outstanding contribution and leadership
-*   JYPS Character award
-*   Leadership roles e.g. Prefects, Class Monitors, Subject Monitors etc
-
-##### **All the programmes planned by the Character & Citizenship Education Department ensures that by the end of 6 years in JYPS, every pupil will be able to:**
-
-\*be able to distinguish right from wrong
-
-\*have learnt to share and put others first
-
-\*be able to build friendship with others
-
-\*have a lively curiosity about things
-
-\*take pride in their work and 
-
-\*have cultivated healthy habits 
-
-\*love Singapore
