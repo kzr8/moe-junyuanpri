@@ -80,3 +80,10 @@ Inculcate R3ICH values and coach social-emotional competencies such as self-awar
 	*   Career Talks (P6 only)
 	*   Transition to secondary school talks (P6 only)
 	*   Myskillsfuture Portal (P5 & P6 only)
+
+*   <b>Sexuality Education (SEd)</b>
+    
+
+	Understand the physiological, social and emotional changes experienced as students mature; and the importance of developing healthy and rewarding relationships  
+
+	*   Growing Years Series (P5 & P6 only)
