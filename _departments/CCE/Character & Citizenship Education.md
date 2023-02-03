@@ -72,3 +72,8 @@ Inculcate R3ICH values and coach social-emotional competencies such as self-awar
 
 	*   Whole School Programme
 	*   VIA Level Projects
+
+*   <b>Education and Career Guidance (ECG)</b> 
+
+	Raise awareness of the different education and career pathways that are suited to students’ values, interests, personality and skills
+
