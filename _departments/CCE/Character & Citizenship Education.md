@@ -47,3 +47,10 @@ We strive to enrich learning platforms and opportunities for students to underst
 
 Through the following programmes conducted during curriculum time, we aim for our students to be equipped with  knowledge, strengthened in moral and civic values, coached in social and emotional competencies to develop good character and citizenship dispositions.
 
+
+*    <b>CCE Curriculum</b> <br>  
+Inculcate R3ICH values and coach social-emotional competencies such as self-awareness and management skills, social-awareness and management skills and responsible decision-making skills
+
+	*   CCE (FTGP)
+	*   CCE (MTL)
+	*   PAL (P1 & P2 only)
