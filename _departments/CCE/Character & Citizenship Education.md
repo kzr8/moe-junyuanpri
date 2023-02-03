@@ -55,11 +55,12 @@ Inculcate R3ICH values and coach social-emotional competencies such as self-awar
 	*   CCE (MTL)
 	*   PAL (P1 & P2 only)
 	
-*   <b>National Education Events</b>  
 
-        Foster a strong sense of belonging, reality and hope to motivate our students to be active citizens
+*   <b>National Education Events</b>
 
-	*   Total Defence Day (TDD)   
+	Foster a strong sense of belonging, reality and hope to motivate our students to be active citizens
+
+	*   Total Defence Day (TDD)
 	*   International Friendship Day (IFD)
 	*   Racial Harmony Day (RHD)
 	*   National Day Celebration (ND)
