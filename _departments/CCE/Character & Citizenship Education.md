@@ -9,27 +9,20 @@ third_nav_title: CCE
 Character & Citizenship Education
 =================================
 
-### Vision
-
-  
-
-'Leaders of Character and Concerned Citizens'
+<b>Vision</b> <br>
+Leaders of Character,  Gracious and Active Citizens
 
   
 
 ### Mission
 
-  
-
-'To nurture every child in a gracious environment'
+To nurture every student to be caring, gracious and discerning
 
   
 
 ### Tagline
 
-  
-
-'We Care & Every Child Matters'
+I Care, You Care and We Care
 
   
 
