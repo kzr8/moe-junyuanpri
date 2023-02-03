@@ -87,3 +87,9 @@ Inculcate R3ICH values and coach social-emotional competencies such as self-awar
 	Understand the physiological, social and emotional changes experienced as students mature; and the importance of developing healthy and rewarding relationships  
 
 	*   Growing Years Series (P5 & P6 only)
+
+*   <b>Social Studies (SS)</b>    
+
+	Grow in knowledge, develop skills and learn values through examining issues that are of concern to our society and the world in which we live
+
+	*   Field-based learning journeys & cohort learning journeys
