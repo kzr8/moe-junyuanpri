@@ -98,4 +98,4 @@ Through the following programmes conducted during curriculum time, we aim for ou
 
 	*   Field-based learning journeys & cohort learning journeys
 
-Please click for more information about [Character and Citizenship Education](/files/2021-primary-character-and-citizenship-education.pdf) and [Social Studies](https://www.moe.gov.sg/-/media/files/primary/2020-social-studies-primary.ashx?la=en&hash=1C4D8BA74B72E3ABFB91D409460572A4067C2DEF).
+Please click for more information about [Character and Citizenship Education](/files/2021-primary-character-and-citizenship-education.pdf) and [Social Studies](/files/2020-social-studies-primary.pdf).
