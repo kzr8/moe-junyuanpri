@@ -9,17 +9,20 @@ third_nav_title: CCE
 Character & Citizenship Education
 =================================
 
-<b>Vision</b> <br>
+### Vision
+
 Leaders of Character,  Gracious and Active Citizens
 
   
 
-<b>Mission</b> <br>
+### Mission
+
 To nurture every student to be caring, gracious and discerning
 
   
 
-<b>Tagline</b> <br>
+### Tagline
+
 I Care, You Care and We Care
 
   
