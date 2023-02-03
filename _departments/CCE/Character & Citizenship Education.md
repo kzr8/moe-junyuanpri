@@ -55,7 +55,7 @@ Inculcate R3ICH values and coach social-emotional competencies such as self-awar
 	*   CCE (MTL)
 	*   PAL (P1 & P2 only)
 	
-*   **National Education Events**  
+*   <b>National Education Events</b>  
 
         Foster a strong sense of belonging, reality and hope to motivate our students to be active citizens
 
@@ -64,3 +64,11 @@ Inculcate R3ICH values and coach social-emotional competencies such as self-awar
 	*   Racial Harmony Day (RHD)
 	*   National Day Celebration (ND)
 	*   National Education (NE) Show (P5 only)
+
+*   <b>Values In Action</b>  
+    
+
+	Develop students to be active and socially responsible family, school and community members through demonstrating the values they learn to contributing meaningfully at home, in school and community
+
+	*   Whole School Programme
+	*   VIA Level Projects
