@@ -6,10 +6,12 @@ third_nav_title: CCE
 ---
 ![](/images/banner.gif)
 
-  
-# Total Defence Day (TDD)
+ 2022
+====
 
-### Total Defence Day (TDD) 2022 \*NEW!\*
+Total Defence Day (TDD) 2022
+----------------------------
+
 
 
 Junyuan Primary School commemorates Total Defence Day annually to mark Singapore’s fall to the Japanese in 1942. Total Defence Day serves to remind our students that Singapore is defensible and is worth defending, and we ourselves must defend Singapore. This year, our school commenced the TDD commemoration with the reading of the TDD message by our Principal, Mr Chan on 15 February morning.
