@@ -97,3 +97,5 @@ Through the following programmes conducted during curriculum time, we aim for ou
 	Grow in knowledge, develop skills and learn values through examining issues that are of concern to our society and the world in which we live
 
 	*   Field-based learning journeys & cohort learning journeys
+
+Please click for more information about [Character and Citizenship Education](/files/2021-primary-character-and-citizenship-education.pdf) and [Social Studies](https://www.moe.gov.sg/-/media/files/primary/2020-social-studies-primary.ashx?la=en&hash=1C4D8BA74B72E3ABFB91D409460572A4067C2DEF).
