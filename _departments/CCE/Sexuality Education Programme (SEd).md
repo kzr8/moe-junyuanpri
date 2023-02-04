@@ -5,3 +5,6 @@ description: ""
 third_nav_title: CCE
 ---
 ![](/images/banner.gif)
+
+Sexuality Education Programme (SEd)
+===================================
