@@ -27,7 +27,7 @@ Downloads & Links
 *   [English](/files/2023%20P3%20EL%20Cclm%20Briefing_upload.pdf)
 *   [Mathematics](/files/2023%20P3%20MA%20Curriculum%20Briefing.pdf)
 *   [Mother Tongue Language](/files/2023%20P3%20MTL%20Curriculum%20Briefing.pdf)
-*   [Science](https://junyuanpri.moe.edu.sg/qql/slot/u499/2023/2023%20Curriculum%20Briefing/P3/Primary%203_SCI%2013%20Jan.pdf)
+*   [Science](/files/Primary%203_SCI%2013%20Jan.pdf)
 *   [PAM CCA](https://junyuanpri.moe.edu.sg/qql/slot/u499/2023/2023%20Curriculum%20Briefing/P3/2023%20P3%20PAM%20CCA%20Curriculum%20Briefing.pdf)
 *   [CCE](https://junyuanpri.moe.edu.sg/qql/slot/u499/2023/2023%20Curriculum%20Briefing/P3/CCE%20Briefing%20for%20P3%20parents%202023.pdf)
 
