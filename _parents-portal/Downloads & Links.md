@@ -73,3 +73,8 @@ Downloads & Links
 ##### **2023 Primary 1 Matters \*NEW!**
 
 *   [2023 P1 Links & Downloads](https://go.gov.sg/jyps2023p1)
+
+##### **SLS NEW!\***
+
+*   [Account Management (P2 - P6)](https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/Downloads/2020/SLS%20Account%20Management%20-%20Guide%20for%20P2%20to%20P6%20Students.pdf)
+*   [Annex A and B (P1)](https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/Downloads/2020/2.%20Annex%20A%20and%20B%20for%20SLS_P1.pdf)
