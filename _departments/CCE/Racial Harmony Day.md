@@ -6,8 +6,8 @@ third_nav_title: CCE
 ---
 ![](/images/banner.gif)
 
-Racial Harmony Day
-==================
+Racial Harmony Day (RHD)
+========================
 
 The theme for this year’s Racial Harmony Day (RHD) is _The Singapore Connection_. On 18, 19 and 22 July, JYPS offered opportunities during recess for students to be connected as Singaporeans through play. Game booths were set up in Junyuan Village as fringe activities to commemorate this year’s Racial Harmony Day. For those three days, students strengthened their peer relationships through a wide range of traditional games such as _kuti kuti_, paper balls, hopscotch, _chapteh_, pick-up sticks, tops and _congkak_. Students also learnt how to play Cat’s Cradle, otherwise known as the Patterned String Game, a rather challenging game which involves looping a string between fingers to create patterns. At the Heritage Photo Booth, students were given opportunities to try on different ethnic attires and strike poses, preserving precious memories.   
 
