@@ -37,7 +37,7 @@ Downloads & Links
 
 *   [Year Head's Address](/files/2023%20YH%20Presentation%20for%20Curriculum%20Briefing%20P4.pdf)
 *   [English](/files/2023%20P4%20EL%20Cclm%20Briefing%20uploading.pdf)
-*   [Mathematics](https://junyuanpri.moe.edu.sg/qql/slot/u499/2023/2023%20Curriculum%20Briefing/P4/2023%20P4%20MA%20Curriculum%20Briefing.pdf)
+*   [Mathematics](/files/2023%20P4%20MA%20Curriculum%20Briefing.pdf)
 *   [Mother Tongue Language](https://junyuanpri.moe.edu.sg/qql/slot/u499/2023/2023%20Curriculum%20Briefing/P4/2023%20P4%20MTL%20Curriculum%20Briefing.pdf)
 *   [Science](https://junyuanpri.moe.edu.sg/qql/slot/u499/2023/2023%20Curriculum%20Briefing/P4/2023%20P4%20SCI%20Curriculum%20Briefing.pdf)
 *   [PAM CCA](https://junyuanpri.moe.edu.sg/qql/slot/u499/2023/2023%20Curriculum%20Briefing/P4/2023%20PAM%20CCA%20Curriculum%20Briefing.pdf)
