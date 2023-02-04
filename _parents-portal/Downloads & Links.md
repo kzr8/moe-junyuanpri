@@ -12,7 +12,7 @@ Downloads & Links
 
 ##### **Primary 2 Briefing Slides & Recording**
 
-*   [Principal's Address](https://junyuanpri.moe.edu.sg/qql/slot/u499/2023/2023%20Curriculum%20Briefing/P2/2023%20P2%20P%20Welcome_Address.pdf)
+*   [Principal's Address](/files/2023%20P2%20P%20Welcome_Address.pdf)
 *   [English](https://junyuanpri.moe.edu.sg/qql/slot/u499/2023/2023%20Curriculum%20Briefing/P2/2023%20P2%20EL%20Curriculum%20Briefing.pdf) 
 *   [Mathematics](https://junyuanpri.moe.edu.sg/qql/slot/u499/2023/2023%20Curriculum%20Briefing/P2/2023%20P2%20MA%20Curriculum%20Briefing.pdf)
 *   [Mother Tongue Language](https://junyuanpri.moe.edu.sg/qql/slot/u499/2023/2023%20Curriculum%20Briefing/P2/2023%20P2%20MTL%20Curriculum%20Briefing.pdf) 
