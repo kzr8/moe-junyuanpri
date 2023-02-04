@@ -105,3 +105,43 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more info
 
 
 ##### <center> **Primary 6** </center>
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-reen{background-color:#D9D9D9;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-umoi{color:#454545;text-align:center;vertical-align:top}
+.tg .tg-que8{color:#454545;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-reen">CCE(FTGP) THEME</th>
+    <th class="tg-reen">LESSON TITLE / DURATION</th>
+    <th class="tg-reen"><span style="color:black">LESSON OVERVIEW</span></th>
+    <th class="tg-reen"><span style="color:black">TIME PERIOD</span><br><br><span style="color:black">(e.g. Term 1 Week 2)</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-umoi" rowspan="3">Growing Years</td>
+    <td class="tg-que8">Are We More than Friends?<br><br>Lesson 1<br>(60 min)</td>
+    <td class="tg-que8">In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experience feelings of infatuation if part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.</td>
+    <td class="tg-umoi"><span style="font-weight:normal">Term 1 Week 5</span></td>
+  </tr>
+  <tr>
+    <td class="tg-que8">Are We More than Friends?<br><br>Lesson 2<br>(60 min)</td>
+    <td class="tg-que8">In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.</td>
+    <td class="tg-umoi"><span style="font-weight:normal">Term 1 Week 6</span></td>
+  </tr>
+  <tr>
+    <td class="tg-umoi">Did You Know? *<br>(60 min)</td>
+    <td class="tg-que8">This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pronography by applying the strategy 'Stop-Think-Do'.<br><br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
+    <td class="tg-umoi"><span style="font-weight:normal">Term 3 Week 5</span></td>
+  </tr>
+</tbody>
+</table>
