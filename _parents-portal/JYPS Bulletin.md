@@ -10,4 +10,5 @@ JYPS Bulletin
 
 ##### <u>**JYPS Bulletin 2023**</u>
 
-[January](/files/January%20Bulletin_2023_FINAL_Updated.pdf)
+[January](/files/January%20Bulletin_2023_FINAL_Updated.pdf) <br>
+[February](/files/February%20Bulletin_2023_Final.pdf)
