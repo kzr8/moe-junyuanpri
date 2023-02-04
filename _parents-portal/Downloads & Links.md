@@ -24,7 +24,7 @@ Downloads & Links
 ##### **Primary 3 Briefing Slides**  
 
 *   [Principal's Address](/files/2023%20P3%20P%20Address%202023.pdf)
-*   [English](https://junyuanpri.moe.edu.sg/qql/slot/u499/2023/2023%20Curriculum%20Briefing/P3/2023%20P3%20EL%20Cclm%20Briefing_upload.pdf)
+*   [English](/files/2023%20P3%20EL%20Cclm%20Briefing_upload.pdf)
 *   [Mathematics](https://junyuanpri.moe.edu.sg/qql/slot/u499/2023/2023%20Curriculum%20Briefing/P3/2023%20P3%20MA%20Curriculum%20Briefing.pdf)
 *   [Mother Tongue Language](https://junyuanpri.moe.edu.sg/qql/slot/u499/2023/2023%20Curriculum%20Briefing/P3/2023%20P3%20MTL%20Curriculum%20Briefing.pdf)
 *   [Science](https://junyuanpri.moe.edu.sg/qql/slot/u499/2023/2023%20Curriculum%20Briefing/P3/Primary%203_SCI%2013%20Jan.pdf)
