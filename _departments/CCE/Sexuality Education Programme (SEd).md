@@ -159,7 +159,7 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more info
 
   
 
-9.    Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/Departments/Character%20&%20Citizenship%20Education/2023%20SEd/2023%20SEd%20Annex%20A.pdf). The completed opt-out form is to be submitted by 25 January 2023 (P6) and 23 March 2023 (P5).
+9.    Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/2023%20SEd%20Annex%20A.pdf). The completed opt-out form is to be submitted by 25 January 2023 (P6) and 23 March 2023 (P5).
 
   
 
