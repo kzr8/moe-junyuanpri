@@ -60,3 +60,44 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more info
 
 
 ##### <center> **Primary 5** </center>
+
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-reen{background-color:#D9D9D9;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-umoi{color:#454545;text-align:center;vertical-align:top}
+.tg .tg-que8{color:#454545;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-reen">CCE(FTGP) THEME</th>
+    <th class="tg-reen">LESSON TITLE / DURATION</th>
+    <th class="tg-reen"><span style="color:black">LESSON OVERVIEW</span><br></th>
+    <th class="tg-reen"><span style="color:black">TIME PERIOD</span><br><span style="color:black">(e.g. Term 1 Week 2)</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-umoi" rowspan="3"><span style="font-weight:normal">Growing Years</span></td>
+    <td class="tg-que8">The Changes in Me<br>(60 min)</td>
+    <td class="tg-que8">This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one's identity need not be negatively affected, even when one's body is experiencing changes due to puberty. <br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. </td>
+    <td class="tg-umoi">Term 2 Week 4</td>
+  </tr>
+  <tr>
+    <td class="tg-umoi">Did You Know?(60 min)</td>
+    <td class="tg-que8">This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy <span style="font-weight:bold">'Stop-Think-Do'.</span><br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
+    <td class="tg-umoi">Term 2 Week 5</td>
+  </tr>
+  <tr>
+    <td class="tg-que8"><span style="font-weight:normal">Keeping Myself Safe</span><br>(60 min)</td>
+    <td class="tg-que8">In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.<br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. </td>
+    <td class="tg-umoi">Term 2 Week 6</td>
+  </tr>
+</tbody>
+</table>
