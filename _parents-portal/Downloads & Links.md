@@ -31,3 +31,16 @@ Downloads & Links
 *   [PAM CCA](/files/2023%20P3%20PAM%20CCA%20Curriculum%20Briefing.pdf)
 *   [CCE](/files/CCE%20Briefing%20for%20P3%20parents%202023.pdf)
 *   [Briefing Recording](https://drive.google.com/file/d/1b0wGLX4sm8CSj-N9E6dizuRe2UTTIhyI/view?usp=sharing)
+
+
+##### **Primary 4 Briefing Slides**  
+
+*   [Year Head's Address](https://junyuanpri.moe.edu.sg/qql/slot/u499/2023/2023%20Curriculum%20Briefing/P4/2023%20YH%20Presentation%20for%20Curriculum%20Briefing%20P4.pdf)
+*   [English](https://junyuanpri.moe.edu.sg/qql/slot/u499/2023/2023%20Curriculum%20Briefing/P4/2023%20P4%20EL%20Cclm%20Briefing%20uploading.pdf)
+*   [Mathematics](https://junyuanpri.moe.edu.sg/qql/slot/u499/2023/2023%20Curriculum%20Briefing/P4/2023%20P4%20MA%20Curriculum%20Briefing.pdf)
+*   [Mother Tongue Language](https://junyuanpri.moe.edu.sg/qql/slot/u499/2023/2023%20Curriculum%20Briefing/P4/2023%20P4%20MTL%20Curriculum%20Briefing.pdf)
+*   [Science](https://junyuanpri.moe.edu.sg/qql/slot/u499/2023/2023%20Curriculum%20Briefing/P4/2023%20P4%20SCI%20Curriculum%20Briefing.pdf)
+*   [PAM CCA](https://junyuanpri.moe.edu.sg/qql/slot/u499/2023/2023%20Curriculum%20Briefing/P4/2023%20PAM%20CCA%20Curriculum%20Briefing.pdf)
+*   [CCE](https://junyuanpri.moe.edu.sg/qql/slot/u499/2023/2023%20Curriculum%20Briefing/P4/CCE%20Briefing%20for%20P4%20parents%202023.pdf)
+
+*   [Briefing Recording](https://drive.google.com/file/d/1weLQFWfjTZfjTJ2UqQfnKBHWZHoRHILo/view?usp=sharing)
