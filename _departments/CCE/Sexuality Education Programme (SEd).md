@@ -101,3 +101,7 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more info
   </tr>
 </tbody>
 </table>
+
+
+
+##### <center> **Primary 6** </center>
