@@ -82,3 +82,16 @@ Downloads & Links
 ##### **Edusave Character Award**
 
 *   [Nomination Form](/files/Nomination%20Form.pdf)
+
+
+##### **Quick Links**
+
+*   [Parents Gateway](https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/Downloads/2020/Instructional%20Guide%20to%20Onboard%20Parents%20Gateway.pdf)
+*   [Sexuality Education Programme](https://junyuanpri-moe-edu-sg-admin.cwp.sg/departments/character-n-citizenship-education/sexuality-education-programme-sed)
+*   [MOE FAS Application Form](https://junyuanpri.moe.edu.sg/qql/slot/u499/Downloads/GGAS_Application%20Form.pdf) / [e-FAS](https://go.gov.sg/moe-efas)  **\*NEW!**
+*   [Group Personal Accident GPA Insurance Plan for Students (Fact Sheet)](https://junyuanpri.moe.edu.sg/qql/slot/u499/2023/Product%20Fact%20Sheet%20Year%202023.pdf) **\*NEW!**
+*   [Student GPA Claims Portal](https://studentgpa.incomegroupins.com.sg/) **\*NEW!**
+*   [JYPS Vehicle Access](https://go.gov.sg/jyps-vehicle-access) **\*NEW!**  
+    
+*   [Leave of Absence (LOA)](https://go.gov.sg/jyps-loa) **\*NEW!**
+*   [WaitList Form](https://go.gov.sg/jypswaitlistform) **\*NEW!**
