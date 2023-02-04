@@ -8,3 +8,6 @@ description: ""
 Downloads & Links
 =================
 
+### 2023 Curriculum Briefing
+
+##### **Primary 2 Briefing Slides & Recording**
