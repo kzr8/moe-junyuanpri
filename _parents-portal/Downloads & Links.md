@@ -81,4 +81,4 @@ Downloads & Links
 
 ##### **Edusave Character Award**
 
-*   [Nomination Form](https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/Downloads/2019/Nomination%20Form%20for%20stakeholders.doc)
+*   [Nomination Form](/files/Nomination%20Form.pdf)
