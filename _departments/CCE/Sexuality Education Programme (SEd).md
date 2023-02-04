@@ -150,3 +150,17 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more info
 
 <u><b>Please Note:</b></u> <br>
 <b>\*For 2023, the Primary 5 lesson "_Did You Know?_" will also be conducted for the Primary 6 cohort.</b>
+
+
+
+##### **Information for Parents**
+
+8.    Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.
+
+  
+
+9.    Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/Departments/Character%20&%20Citizenship%20Education/2023%20SEd/2023%20SEd%20Annex%20A.pdf). The completed opt-out form is to be submitted by 25 January 2023 (P6) and 23 March 2023 (P5).
+
+  
+
+10.    Parents can contact the school at [junyuan\_ps@moe.edu.sg](mailto:junyuan_ps@moe.edu.sg), Tel: 6783 0375 for discussion or to seek clarification about the school’s Sexuality Education programme.
