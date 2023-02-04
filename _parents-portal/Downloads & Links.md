@@ -47,7 +47,7 @@ Downloads & Links
 
 ##### **Primary 5 Briefing Slides**  
 
-*   [Principal's Address](https://junyuanpri.moe.edu.sg/qql/slot/u499/2023/2023%20Curriculum%20Briefing/P5/Curriculum%20Briefing%202023%20for%20PSLE%20Changes%20and%20DSA_P5%20Principal.pdf)
+*   [Principal's Address](/files/Curriculum%20Briefing%202023%20for%20PSLE%20Changes%20and%20DSA_P5%20Principal.pdf)
 *   [Year Head's Address](https://junyuanpri.moe.edu.sg/qql/slot/u499/2023/2023%20Curriculum%20Briefing/P5/P5%20Currciulum%20Briefing%202023_YH%20updated.pdf)
 *   [English](https://junyuanpri.moe.edu.sg/qql/slot/u499/2023/2023%20Curriculum%20Briefing/P5/2023%20P5%20Std%20EL%20%20Fdn%20EL%20Presentation%20for%20Curriculum%20Briefing%20uploading.pdf)
 *   [Mathematics](https://junyuanpri.moe.edu.sg/qql/slot/u499/2023/2023%20Curriculum%20Briefing/P5/2023%20P5%20MA%20Curriculum%20Briefing.pdf)
