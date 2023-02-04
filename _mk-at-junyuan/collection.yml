@@ -2,7 +2,7 @@ collections:
   mk-at-junyuan:
     output: true
     order:
-      - MK Registration.md
       - Announcements.md
+      - MK Registration.md
       - Staff List.md
       - Media Release.md
