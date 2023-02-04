@@ -9,7 +9,7 @@ third_nav_title: CCE
     
 		
   
-International Friendship Day
+International Friendship Day (IFD)
 ===============================
 
 ### International Friendship Day 2021 NEW!
