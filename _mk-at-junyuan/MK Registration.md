@@ -10,8 +10,7 @@ MK Registration
 ===============
 
 
-Registration for MK@Junyuan <br> 
-·      (K1 – 2023 Cohort) <br>
+Registration for MK@Junyuan <br>·      (K1 – 2023 Cohort) <br>
 ·      (K2 – 2023 Cohort)
 
 
