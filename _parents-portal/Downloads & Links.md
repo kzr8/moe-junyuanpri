@@ -77,4 +77,8 @@ Downloads & Links
 ##### **SLS NEW!\***
 
 *   [Account Management (P2 - P6)](/files/SLS%20AccountManagement.pdf)
-*   [Annex A and B (P1)](https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/Downloads/2020/2.%20Annex%20A%20and%20B%20for%20SLS_P1.pdf)
+*   [Annex A and B (P1)](/files/2Annex%20A%20and%20B%20for%20SLS_P1.pdf)
+
+##### **Edusave Character Award**
+
+*   [Nomination Form](https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/Downloads/2019/Nomination%20Form%20for%20stakeholders.doc)
