@@ -41,6 +41,6 @@ Downloads & Links
 *   [Mother Tongue Language](/files/2023%20P4%20MTL%20Curriculum%20Briefing.pdf)
 *   [Science](/files/2023%20P4%20SCI%20Curriculum%20Briefing.pdf)
 *   [PAM CCA](/files/2023%20PAM%20CCA%20Curriculum%20Briefing.pdf)
-*   [CCE](https://junyuanpri.moe.edu.sg/qql/slot/u499/2023/2023%20Curriculum%20Briefing/P4/CCE%20Briefing%20for%20P4%20parents%202023.pdf)
+*   [CCE](/files/CCE%20Briefing%20for%20P4%20parents%202023.pdf)
 
 *   [Briefing Recording](https://drive.google.com/file/d/1weLQFWfjTZfjTJ2UqQfnKBHWZHoRHILo/view?usp=sharing)
