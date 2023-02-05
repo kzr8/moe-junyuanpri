@@ -2,6 +2,7 @@ collections:
   cce:
     output: true
     order:
+      - Total Defence Day (TDD)/Total Defence Day (TDD).md
       - Total Defence Day (TDD)/.keep
       - Character & Citizenship Education.md
       - International Friendship Day (IFD).md
