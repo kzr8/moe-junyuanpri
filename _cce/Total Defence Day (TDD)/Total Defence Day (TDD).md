@@ -4,8 +4,6 @@ permalink: /departments/CCE/Total-Defence-Day-TDD/
 description: ""
 third_nav_title: Total Defence Day (TDD)
 ---
-
-
 ![](/images/banner.gif)
 
  2022
@@ -81,6 +79,7 @@ Through these activities and our daily routines of showing social consideration 
 ====
 
 ### Total Defence Day(TDD) 2019
+----------------------------
 
 Total Defence Day falls on 15 February each year to commemorate the fall of Singapore during WW2. The theme for this year is “Together We Keep Singapore Strong”. The teachers and students were able to resonate with this year’s TDD message through exposure to the Five Pillars of TDD during the fringe activities held during recess from 13 February 2019 to 15 February 2019, CCE lessons and mass assembly shows. Through the two different assembly shows, students were taught how to defend themselves against cyberattacks on common social media platforms and how to identify fake news.  
 
