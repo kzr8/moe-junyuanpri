@@ -2,6 +2,7 @@ collections:
   cce:
     output: true
     order:
+      - National Day (ND) Celebrations.md
       - National Education (NE) Show.md
       - Buddy System.md
       - Values In Action (VIA) (coming soon).md
