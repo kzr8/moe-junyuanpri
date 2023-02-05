@@ -12,12 +12,12 @@ Buddy System
 ============
 
 
-### <center>**Buddy System**</center>
+### <center>Buddy System</center>
 
 The first few days of school can be an exciting yet daunting experience for many Primary 1 students. To help ease them into the school environment, JYPS has a buddy system which pairs every Primary 1 student with a Primary 5 student. This system has helped the new students gradually adapt to the rigours of our school. The Primary 1 students also learnt how to take care of themselves in school during the Buddy Programme. After a hiatus of two years because of COVID Safety Management Measures, our P4 students will be buddying the incoming P1 students in 2023.
 
 
-### <center> <u>**Pupils’ Reflections about the Buddy Programme**</u> </center>
+### <center> <u>Pupils’ Reflections about the Buddy Programme</u> </center>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
