@@ -3,16 +3,13 @@ title: National Day (ND) Celebrations
 permalink: /CCE/National-Day-Celebrations-ND/
 description: ""
 ---
-
-
-
 ![](/images/banner.gif)
 
 National Day (ND) Celebrations
 ==============================
 
 ### National Day Celebrations 2022
-
+------------------------------
 
 During the 5 August Studio 91 Broadcast, one of the CCE ambassadors exclaimed excitedly, “Oh yes! I am looking forward to sing the National songs in the hall!” What she said on that day became a reality during the National Day celebration on 8 August 2022 in school.  For the first time ever, selected Cub scouts joined our talented teachers, Mr Muru and Mrs Sarah Quek, to lead the whole school in a rousing sing-along of our favourite National Day songs. This was followed by music videos produced by our Music Interest Club, School Choir and Modern Dance Club to seal the celebratory mood on that day. The P5s concluded the celebration by sharing the proud moments of their NE Show experience with their peers in a montage video.
 
