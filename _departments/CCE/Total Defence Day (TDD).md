@@ -75,3 +75,34 @@ Our JYPS students also demonstrated how they could play a part in Psychological 
 Though there were no physical fringe activities for this year, students participated virtually on TDD Fringe activities in SLS which aimed to strengthen their understanding towards Singapore’s Military and Civil Defences. Students were also reminded of the importance of ‘Being Prepared for Any Emergency” through a discussion session through the SG Alert package.  
 
 Through these activities and our daily routines of showing social consideration such as wiping-down and social-distancing, and social inclusivity such as showing kindness and understanding to one another, we hope to inculcate in our students the importance of practising Total Defence every day of our lives. Because only Together, We Can Keep Singapore Strong.
+
+
+2019
+====
+
+### Total Defence Day(TDD) 2019
+----------------------------
+
+Total Defence Day falls on 15 February each year to commemorate the fall of Singapore during WW2. The theme for this year is “Together We Keep Singapore Strong”. The teachers and students were able to resonate with this year’s TDD message through exposure to the Five Pillars of TDD during the fringe activities held during recess from 13 February 2019 to 15 February 2019, CCE lessons and mass assembly shows. Through the two different assembly shows, students were taught how to defend themselves against cyberattacks on common social media platforms and how to identify fake news.  
+
+  
+
+As part of the fringe activities, the Singapore Police Force were invited to our school to interact with our students on 14 February 2019. Students got to examine the interior of a police car and try on bullet-proof vests provided by the Home Team. During the fringe activities, students were also given the opportunity to strengthen their commitment to Total Defence by participating in the TDD pledge-taking and a quiz about TDD. They also learnt some basic first-aid and played different TDD roles in the Defence Heroes Photo Booth. Lower Primary pupils were engaged through “The True Story of the Three Little Pigs”, a twisted tale of how the wolf was maligned due to fake news, by our very own, and very talented storyteller, Ms Nisha.
+
+  
+
+For the very first time in Junyuan’s history, the TDD message was shared via a broadcast from Studio 91 on 15 February 2019 by our Principal, Miss Chiam. The message, from Defence Minister Ng Eng Hen, stressed that cyber-security threats and disinformation are a serious danger to Singapore, and emphasised the need to be vigilant against them. To cap the commemoration, the school was engaged in an evacuation drill to emphasis the need to be always prepared for an emergency.
+
+<figure><img src="/images/TDD10.jpeg" style="width:75%"><figcaption> We pledged to keep Singapore strong!</figcaption></figure>
+
+<figure><img src="/images/TDD11.jpeg" style="width:100%"><figcaption> The children were greatly excited at the opportunity to view a police car up close</figcaption></figure>
+
+<figure><img src="/images/TDD12.jpeg" style="width:100%"><figcaption> Let's experience what it is like to put on a bullet-proof vest and protective helmet!</figcaption></figure>
+
+<figure><img src="/images/TDD13.jpeg" style="width:100%"><figcaption> The pupils learnt about the 5 Pillars of Total Defence and how to use a bandage correctly.</figcaption></figure>
+
+<figure><img src="/images/TDD14.jpeg" style="width:100%"><figcaption> A treat to an animated Storytelling session during recess.</figcaption></figure>
+
+<figure><img src="/images/TDD15.jpeg" style="width:100%"><figcaption> Our dreams will help us to keep Singapore Strong!</figcaption></figure>
+
+<figure><img src="/images/TDD16.jpeg" style="width:100%"><figcaption> Parents from the PSG trying out the Defence Heroes costumes!</figcaption></figure>
