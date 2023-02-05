@@ -2,6 +2,7 @@ collections:
   cce:
     output: true
     order:
+      - Buddy System.md
       - Values In Action (VIA) (coming soon).md
       - Sexuality Education Programme (SEd).md
       - Education and Career Guidance (ECG) (coming soon).md
