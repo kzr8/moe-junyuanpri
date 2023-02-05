@@ -2,4 +2,5 @@ collections:
   cce:
     output: true
     order:
+      - ECHA (coming soon).md
       - Signature Programmes (coming soon).md
