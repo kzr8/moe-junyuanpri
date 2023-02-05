@@ -2,6 +2,7 @@ collections:
   cce:
     output: true
     order:
+      - International Friendship Day/International Friendship Day (IFD).md
       - International Friendship Day/.keep
       - Character & Citizenship Education.md
       - Total Defence Day (TDD)/2022.md
