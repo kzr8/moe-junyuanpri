@@ -4,8 +4,6 @@ permalink: /departments/CCE/National-Day-Celebrations-ND/
 description: ""
 third_nav_title: CCE
 ---
-
-
 ![](/images/banner.gif)
 
 National Day (ND) Celebrations
