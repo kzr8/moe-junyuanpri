@@ -60,9 +60,6 @@ Steering Committee
   <tr>
     <th class="tg-yp4s">Mdm Noorazlina Bte Mad Shah<br><a href="mailto:noorazlina_mad_shah@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">noorazlina_mad_shah@moe.edu.sg</span></a><br></th>
     <th class="tg-yp4s">HOD-English Language</th>
-  </tr>
-</thead>
-<tbody>
   <tr>
     <td class="tg-yp4s">Mrs Joewen Teo<br><a href="mailto:tang_tze_ling_joewen@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">tang_tze_ling_joewen@moe.edu.sg</span></a> </td>
     <td class="tg-lyvw">HOD-Mathematics  </td>
