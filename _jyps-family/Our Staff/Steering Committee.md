@@ -40,8 +40,8 @@ Steering Committee
       <td class="tg-yp4s">
         Mdm Noorazlina Bte Mad Shah<br>
         <a href="mailto:noorazlina_mad_shah@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">noorazlina_mad_shah@moe.edu.sg</span></a><br>
-      </th>
-      <td class="tg-yp4s">HOD-English Language</th>
+      </td>
+      <td class="tg-yp4s">HOD-English Language</td>
     </tr>
     <tr>
       <td class="tg-yp4s">
