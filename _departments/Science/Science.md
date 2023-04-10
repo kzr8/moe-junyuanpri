@@ -56,23 +56,17 @@ Click [here](/departments/Science/Learning-Journeys/) to find out more!
 
 ### Competition
 
-  
-
 To enable our pupils to gain a measure of their own achievement on a national/ international setting as well as to provide pupils, parents and teachers with an insight of their strengths and areas for improvement, selected pupils in Primary 5 participate in the Singapore Primary Science Olympiad (facilitated by NUS High School for primary schools in Singapore). The competition assesses our pupils on the different cognitive skills for the subject.
 
 Click [here](/departments/Science/Competition/) to find out more!
 
 ### Science Club
 
-  
-
 The Science Environmental Club CCA develops our pupils to become scientific literate individuals and learners with a keen interest and love for the subject. Our members are given opportunities to engage in hands-on science investigations that support exploration and stimulate curiosity in Science. These activities also involve caring for the environment and contributing back to society. The club also takes part in numerous environmental activities and challenges at national platforms.  
 
   
 
 ### Overseas Learning Journey
-
-  
 
 The Primary 5 Overseas Learning Journey to Chiang Mai provides an opportunity for the students to experience, learn as well as interact with their peers through a 2-day school immersion programme in Ban Loungnuae School (A Learning School to Sustainable Life). It also provides pupils with the opportunity to learn about the local culture, lifestyle and appreciate the diversity of Chiang Mai. This will enrich the educational experiences of pupils and to develop the skills of team-building and independent learning.
 
