@@ -96,15 +96,11 @@ Pupils learn to be self-directed learners and make their own decisions as they r
 
 ##### **SCHEDULE**
 
-Fridays 1.10 pm - 3.40 pm  
-**Venue:** Science Lab 1
-
-**Teachers IC and Email address:**
-
-Ms Chan Audrey: [chan\_audrey@moe.edu.sg](mailto:chan_audrey@moe.edu.sg)  
-
-Mr Ivan Ong: [ong\_chee\_beng\_a@moe.edu.sg](mailto:ong_chee_beng_a@moe.edu.sg)
-
-Mrs Corinne Teo: [sim\_chew\_yen@moe.edu.sg](mailto:sim_chew_yen@moe.edu.sg)
-
-Ms Loong Shu Yi: [loong\_shu\_yi@moe.edu.sg](mailto:loong_shu_yi@moe.edu.sg)
+Fridays  
+2.00pm - 3.30pm  
+  
+**Teachers IC and Email address:**  <br>
+Mr Ivan Ong:&nbsp;[ong\_chee\_beng\_a@moe.edu.sg](mailto:ong_chee_beng_a@moe.edu.sg)  <br>
+Mrs Corinne Teo:&nbsp;[sim\_chew\_yen@moe.edu.sg](mailto:sim_chew_yen@moe.edu.sg)  <br>
+Ms Loong Shu Yi:&nbsp;[loong\_shu\_yi@moe.edu.sg](mailto:loong_shu_yi@moe.edu.sg)<br>
+Mrs Cynthia Chu:&nbsp;[lim\_hui\_ling\_cynthia@moe.edu.sg](mailto:lim_hui_ling_cynthia@moe.edu.sg)
