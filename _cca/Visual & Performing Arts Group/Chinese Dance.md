@@ -2,7 +2,7 @@
 title: Chinese Dance
 permalink: /cca/Visual-and-Performing-Arts-Group/ChineseDance/
 description: ""
-third_nav_title: Visual & Performing Arts Group
+third_nav_title: Visual &amp; Performing Arts Group
 ---
 ![](/images/banner.gif)
 
@@ -56,8 +56,6 @@ Mondays 2.oopm - 3.3opm
 
 **Teachers IC and Email address:**
 
-Mdm Pang Sze Sheng: [pang\_sze\_sheng@moe.edu.sg](mailto:pang_sze_sheng@moe.edu.sg) 
-
-Mdm Poh Choon Tee: [poh\_choon\_tee@moe.edu.sg](mailto:poh_choon_tee@moe.edu.sg)  
-
-Mdm Pan Xuan: [pan\_xuan@moe.edu.sg](mailto:pan_xuan@moe.edu.sg)
+Mdm Pang Sze Sheng:&nbsp;[pang\_sze\_sheng@moe.edu.sg](mailto:pang_sze_sheng@moe.edu.sg)&nbsp;<br>
+Mdm Poh Choon Tee:&nbsp;[poh\_choon\_tee@moe.edu.sg](mailto:poh_choon_tee@moe.edu.sg)&nbsp;&nbsp;<br>
+Mdm Patricia Chiang:&nbsp;[chiang\_chih-yi\_patricia@moe.edu.sg](mailto:chiang_chih-yi_patricia@moe.edu.sg)
