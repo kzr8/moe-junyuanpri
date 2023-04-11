@@ -2,6 +2,7 @@ collections:
   cce:
     output: true
     order:
+      - Signature Programmes (coming soon).md
       - International Friendship Day/2021.md
       - International Friendship Day/2019.md
       - International Friendship Day/.keep
