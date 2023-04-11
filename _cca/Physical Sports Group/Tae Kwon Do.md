@@ -414,11 +414,10 @@ Our pupils emerged 2nd place for Overall in the Junior Division Male category an
 
 ##### **SCHEDULE**  
   
-Mondays 2.00pm - 3.30pm  
-Fridays 1.15pm - 3.30pm
-
+Mondays &amp; Fridays  
+2.00pm - 3.30pm  
+  
 **Teachers IC and Email address:**  
-Mdm Teo Wan Qi:&nbsp;[teo\_wan\_qi@moe.edu.sg](mailto:teo_wan_qi@moe.edu.sg)  
-Mdm Yvonne Lee:&nbsp;[lee\_yen\_ting\_yvonne@moe.edu.sg](mailto:lee_yen_ting_yvonne@moe.edu.sg)[](mailto:lee_yen_ting_yvonne@moe.edu.sg)  
 Mdm Sim Hui Hui:&nbsp;[sim\_huihui@moe.edu.sg](mailto:sim_huihui@moe.edu.sg)  
-Mdm Norlinda:&nbsp;[norlinda\_saadon@moe.edu.sg](mailto:norlinda_saadon@moe.edu.sg)
+Mdm Norlinda:&nbsp;[norlinda\_saadon@moe.edu.sg](mailto:norlinda_saadon@moe.edu.sg)  
+Mdm Zhu Xue Shu:&nbsp;[zhu\_xueshu@moe.edu.sg](mailto:zhu_xueshu@moe.edu.sg)
