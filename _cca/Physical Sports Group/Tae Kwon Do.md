@@ -30,7 +30,7 @@ Taekwondo is a Korean martial art that was developed by Korean masters in the 19
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-8jgo"><img src="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/2020/CCA/pic%202.jpg" alt="Image" width="262" height="350"></th>
+    <th class="tg-8jgo"><img src="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/2020/CCA/pic%202.jpg" alt="Image" width="262" height="50"></th>
     <th class="tg-8jgo"><img src="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/2020/CCA/pic%203.jpg" alt="Image" width="400" height="225"></th>
     <th class="tg-8jgo"><img src="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/2020/CCA/pic%204.jpg" alt="Image" width="400" height="225"></th>
   </tr>
@@ -418,7 +418,7 @@ Mondays 2.00pm - 3.30pm
 Fridays 1.15pm - 3.30pm
 
 **Teachers IC and Email address:**  
-Mdm Teo Wan Qi: [teo\_wan\_qi@moe.edu.sg](mailto:teo_wan_qi@moe.edu.sg)  
-Mdm Yvonne Lee: [lee\_yen\_ting\_yvonne@moe.edu.sg](mailto:lee_yen_ting_yvonne@moe.edu.sg)[](mailto:lee_yen_ting_yvonne@moe.edu.sg)  
-Mdm Sim Hui Hui: [sim\_huihui@moe.edu.sg](mailto:sim_huihui@moe.edu.sg)  
-Mdm Norlinda: [norlinda\_saadon@moe.edu.sg](mailto:norlinda_saadon@moe.edu.sg)
+Mdm Teo Wan Qi:&nbsp;[teo\_wan\_qi@moe.edu.sg](mailto:teo_wan_qi@moe.edu.sg)  
+Mdm Yvonne Lee:&nbsp;[lee\_yen\_ting\_yvonne@moe.edu.sg](mailto:lee_yen_ting_yvonne@moe.edu.sg)[](mailto:lee_yen_ting_yvonne@moe.edu.sg)  
+Mdm Sim Hui Hui:&nbsp;[sim\_huihui@moe.edu.sg](mailto:sim_huihui@moe.edu.sg)  
+Mdm Norlinda:&nbsp;[norlinda\_saadon@moe.edu.sg](mailto:norlinda_saadon@moe.edu.sg)
