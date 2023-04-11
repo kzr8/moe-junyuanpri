@@ -2,7 +2,7 @@
 title: Visual Arts Club
 permalink: /cca/Visual-and-Performing-Arts-Group/VisualArtsClub/
 description: ""
-third_nav_title: Visual & Performing Arts Group
+third_nav_title: Visual &amp; Performing Arts Group
 ---
 ![](/images/banner.gif)
 
@@ -68,10 +68,11 @@ Participated in SOTA Junior Academy 2017 - Visual Arts Workshop
 ---
 
 ##### **SCHEDULE:**  
-Mondays 2.00pm - 3.30pm
-
-**Teachers IC and Email address:**  
-Mrs Michelle Ang: [chan\_yen\_ling\_michelle@moe.edu.sg](mailto:chan_yen_ling_michelle@moe.edu.sg)  
-Mr Wang Shing Huei: [wang\_shing\_huei@moe.edu.sg](mailto:wang_shing_huei@moe.edu.sg)  
-Mrs Chong SL: [chong\_soh\_lim@moe.edu.sg](mailto:chong_soh_lim@moe.edu.sg)  
-Mrs Monica Berger: [monica\_vasanti\_augustine@moe.edu.sg](mailto:monica_vasanti_augustine@moe.edu.sg)
+Mondays &amp; Fridays  
+2.00pm - 3.30pm  
+  
+**Teachers IC and Email address:**<br>
+Mrs Michelle Ang:&nbsp;[chan\_yen\_ling\_michelle@moe.edu.sg](mailto:chan_yen_ling_michelle@moe.edu.sg)  <br>
+Mr Wang Shing Huei:&nbsp;[wang\_shing\_huei@moe.edu.sg](mailto:wang_shing_huei@moe.edu.sg)  <br>
+Mrs Monica Berger:&nbsp;[monica\_vasanti\_augustine@moe.edu.sg](mailto:monica_vasanti_augustine@moe.edu.sg)<br> 
+Mrs Angela Chin:&nbsp;[kam\_jiewen@moe.edu.sg](mailto:kam_jiewen@moe.edu.sg)
