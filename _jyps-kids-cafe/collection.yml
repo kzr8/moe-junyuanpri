@@ -1,4 +1,5 @@
 collections:
   jyps-kids-cafe:
     output: true
-    order: []
+    order:
+      - JYPS Kids Cafe.md
