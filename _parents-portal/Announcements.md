@@ -8,6 +8,12 @@ description: ""
 Announcements
 =============
 
+### 2022JYPS P6 e-Yearbook
+
+Paste iframe code for the canva slides here.
+
+[2022 P6 e-Yearbook](https://www.canva.com/design/DAFOt12c6WA/view?utm_content=DAFOt12c6WA&utm_campaign=designshare&utm_medium=embeds&utm_source=link) by JYPS
+
 ### MOE Edusave Character Award (ECHA) 2022
 
 
