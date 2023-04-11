@@ -2,7 +2,7 @@
 title: Music Interest Club
 permalink: /cca/Visual-and-Performing-Arts-Group/MusicInterestClub/
 description: ""
-third_nav_title: Visual & Performing Arts Group
+third_nav_title: Visual &amp; Performing Arts Group
 ---
 ![](/images/banner.gif)
 
@@ -54,7 +54,11 @@ Latin and Pop music performance on Awards Day 2019
 
 ##### **SCHEDULE**
 
+Mondays &amp; Fridays  
+2:00pm – 3:30pm  
   
-
-Mondays 2:00pm – 3:30pm  
-Fridays 1:30pm – 3:30pm
+**Teachers IC and Email address:**  <br>
+Mr Murugesu:&nbsp;[murugesu\_samarasan@moe.edu.sg](mailto:murugesu_samarasan@moe.edu.sg)<br>
+Mr Joseph Sim:&nbsp;[sim\_poh\_meng\_joseph@moe.edu.sg](mailto:sim_poh_meng_joseph@moe.edu.sg)  <br>
+Mrs Chua Ming Peow:&nbsp;[foo\_ming\_peow@moe.edu.sg](mailto:foo_ming_peow@moe.edu.sg)  <br>
+Mrs Marisa de Almeida:&nbsp;[marisa\_de\_almeida@moe.edu.sg](mailto:marisa_de_almeida@moe.edu.sg)
