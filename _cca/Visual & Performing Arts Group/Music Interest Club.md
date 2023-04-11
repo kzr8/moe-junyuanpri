@@ -22,8 +22,7 @@ The Music Interest Club is a multi-instrumental ensemble club comprising of enth
 
 ##### **PARTICIPATION AND ACHIEVEMENT AT EVENTS**
 
-Performance of a medley of popular Singapore Songs at TWCC National Day Carnival 2019
-
+Performance of a medley of popular Singapore Songs at TWCC National Day Carnival 2019<br>
 Latin and Pop music performance on Awards Day 2019
 
 ---
