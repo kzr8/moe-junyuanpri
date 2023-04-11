@@ -29,17 +29,17 @@ Mathematics for life !
 
 ### **KEY PROGRAMMES / ACTIVITIES**
 
-###   Enrichment Activities
+### &nbsp;&nbsp;Enrichment Activities
 
 The enrichment programmes/activities aim to improve students’ understanding of Mathematics concepts through the following :
 
-1.             Help students acquire, refine, extend or apply Mathematics concepts that are aligned to the   school syllabus.
+1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Help students acquire, refine, extend or apply Mathematics concepts that are aligned to the&nbsp;&nbsp; school syllabus.
 
-2.             Help students be aware of and develop a set of good habits of mind.
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Help students be aware of and develop a set of good habits of mind.
 
-3.             Help students acquire a set of thinking skills and problem-solving heuristics.
+3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Help students acquire a set of thinking skills and problem-solving heuristics.
 
-4.             Make learning enjoyable.
+4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Make learning enjoyable.
 
 *   STAR HPack (P1-6)
 *   Maths Collaborative Lessons (P1-6)
@@ -52,53 +52,68 @@ The enrichment programmes/activities aim to improve students’ understanding of
 *   Mathlympics (P4-5)
 
 
-###  Maths Reinforcement Programmes / Activities
+### &nbsp;Maths Reinforcement Programmes / Activities
 
 Mathematics is a hierarchical subject, where higher concepts and skills are built upon the more foundational ones. It is important that students are grounded in the basic concepts so as to be better prepared for learning of concepts of a higher level.
 
-*   Learning Support for Maths (LSM) (P1&2)
+*   Learning Support for Maths (LSM) (P1&amp;2)
 *   Improving Confidence and Achievement in Numeracy (ICAN) (P3-6)
 *   Factual Fluency (P1-6)
-*   Timed Revision (P5&6)
+*   Timed Revision (P5&amp;6)
 *   Maths Alive! Programme (P6)
 
 
 ##### **The school is proud to share the following achievements:**
 
-**SINGAPORE & ASIAN SCHOOLS MATH OLYMPIAD (SASMO) 2021**
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-sxkx{background-color:#FFF;color:#454545;text-align:center;vertical-align:top}
-.tg .tg-ncov{background-color:#FFF;color:#454545;text-align:center;vertical-align:middle}
-.tg .tg-2fwu{background-color:#FFF;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-9u4g{background-color:#FFF;color:#454545;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-2fwu">AWARD</th>
-    <th class="tg-9u4g">NAME</th>
-    <th class="tg-9u4g">CLASS</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-2fwu" rowspan="2"><br>SILVER<br><img src="https://junyuanpri.moe.edu.sg/qql/slot/u499/2021/2021%20Maths%20Dept%20Website/Trophy.jpg" alt="Trophy.jpg" width="142" height="120"><br><br><br></td>
-    <td class="tg-sxkx"><br><br>Chong Rui Hong<br></td>
-    <td class="tg-sxkx"><br><br>6 Care</td>
-  </tr>
-  <tr>
-    <td class="tg-ncov">Katikareddy Samyutha</td>
-    <td class="tg-sxkx"><br><br>6 Resilience<br></td>
-  </tr>
-</tbody>
-</table>
+**VS Mathlympics 2022**
 
+| A | B | C |
+|:---:|:---:|:---:|
+| SILVER<br><img style="width:30%" src="/images/trophy.png"> | JAYDEN HO JUNDE | P6 RESPONSIBILITY |
+| BRONZE<br><img style="width:30%" src="/images/trophy.png"> | CO CARLITOS SEBASTIAN ALZUL<br><br>EQIL UNAYS BIN AMRAN | P6 RESILIENCE<br><br>P6 RESPONSIBILITY |
+
+**Raffles Institution Primary Mathematics World Contest (RIPMWC) 2022**
+
+| AWARD | NAME | CLASS |
+|:---:|:---:|:---:|
+| Certificate of Distinction | WANG JIAN ZHUO JAYDEN   | P5 RESPECT |
+| Certificate of Distinction | LIM JIA XUAN GERMAINE | P5 RESPECT |
+|  Certificate of Distinction | JOHNNY XIE ZEMING      | P4 RESILIENCE  |
+|  Certificate of Merit | YANG FURUI  | P4 RESPECT  |
+
+**National Mathematical Olympiad of Singapore (NMOS) 2022**
+
+
+| AWARD | NAME | CLASS |
+|:---:|:---:|:---:|
+| GOLD<br><img style="width:30%" src="/images/trophy.png"> | LI YISHAN | P5 RESPONSIBILITY |
+| SILVER<br><img style="width:30%" src="/images/trophy.png"> | WANG JIAN ZHUO JAYDEN | P5 RESPECT |
+|  BRONZE<br><img style="width:30%" src="/images/trophy.png"> | DENG XIAOTONG | P5 RESPONSIBILITY |
+
+**15th Annual Mathlympics 2022**
+
+| AWARD | NAME | CLASS |
+|:---:|:---:|:---:|
+| GOLD<br><img style="width:30%" src="/images/trophy.png"> | WANG JIAN ZHUO JAYDEN | P5 RESPECT |
+| SILVER<br><img style="width:30%" src="/images/trophy.png"> | LI YISHAN | P5 RESPONSIBILITY |
+|  BRONZE<br><img style="width:30%" src="/images/trophy.png"> | JOHNNY XIE ZEMING | P4 RESILIENCE |
+
+**Singapore Mathematical Olympiad for Primary Schools (SMOPS) 2022**
+
+| AWARD | NAME | CLASS |
+|:---:|:---:|:---:|
+| SILVER<br><img style="width:30%" src="/images/trophy.png"> | YERABHAM JOHN PREETHAM REDDY | P6 RESPECT |
+| BRONZE<br><img style="width:30%" src="/images/trophy.png"> | JAYDEN HO JUNZE<br>LUO YUELIN | P6 RESPONSIBILITY<br>P6 RESPONSIBILITY |
+
+**Singapore &amp; Asian Schools Math Olympiad (SASMO) 2022**
+
+| AWARD | NAME | CLASS |
+|:---:|:---:|:---:|
+| GOLD<br><img style="width:30%" src="/images/trophy.png"> | WANG JIAN ZHUO JAYDEN | P5 RESPECT |
+| SILVER<br><img style="width:30%" src="/images/trophy.png">| ZHANG TING<br>TAY DING HAN<br>TAN YI KAI<br>LI YISHAN<br>YERABHAM JOHN PREETHAM REDDY | P4 RESPECT<br>P4 RESPONSIBILITY<br>P4 INTEGRITY<br>P5 RESPONSIBILITY<br>P6 RESPECT |
+|  BRONZE<br><img style="width:30%" src="/images/trophy.png"> | LEUNG CHUN HEI NOAH<br>LEE WYNN ERN<br>DERRICK TAY MIN WEI<br>AMIRUL AQIL BIN IMRAN<br>JAYDEN HO JUNDE<br>HOO WEN ZE<br>EQIL UNAYS BIN AMRAN  | P5 RESPONSIBILITY<br>P6 RESPECT<br>P6 RESPONSIBILITY<br>P6 RESPONSIBILITY<br>P6 RESPONSIBILITY<br>P6 RESPECT<br>P6 RESPONSIBILITY |
+|  HONORABLE MENTION | LOY JI EN<br>LUO YUELIN<br>NUFAEL ARIQ BIN MUHAMMAD SHAHRON  | P6 HARMONY<br>P5 RESILIENCE<br>P5 RESPECT  |
 
 ##### **Activities in the Mathematics classrooms**
 
