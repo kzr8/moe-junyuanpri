@@ -9,8 +9,4 @@ description: ""
 Announcements
 =============
 
-### Open House 2023
----------------
-
-
-![](/images/Open%20House%202023.jpeg)
+#### MOE Kindergarten Registration Exercise for K1 Admission 2024 has closed. Thank you
