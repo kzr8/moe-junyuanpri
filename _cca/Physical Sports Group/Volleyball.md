@@ -46,7 +46,7 @@ The Volleyball CCA aims to educate its members on the schools’ 7 character val
 ##### **PARTICIPATION AND ACHIEVEMENTS AT EVENTS**
 
 **East Zone Volleyball Championships 2018**  
-Senior boys 3rd in group / Junior Boys 4th in group  
+Senior boys 3rd in group / Junior Boys 4th&nbsp;in group  
   
 
 **East Zone Volleyball Championships 2019**  
@@ -56,8 +56,11 @@ Senior boys 3rd in group / Junior Boys 4th in group
 
 ##### **SCHEDULE**
 
-Mondays 2.00pm - 3.30pm (Primary 4 & Primary 5)   
-Fridays 1.14pm - 3.45pm (Primary 6)
-
+Mondays &amp; Fridays  
+2.00pm - 3.30pm&nbsp;  
+  
 **Teachers IC and Email address:**  
-Mr Andre Ye: [ye\_huankun\_andre@moe.edu.sg](mailto:ye_huankun_andre@moe.edu.sg)
+Mr Andre Ye:&nbsp;[ye\_huankun\_andre@moe.edu.sg](mailto:ye_huankun_andre@moe.edu.sg)  <br>
+Mdm Marina:&nbsp;[marina\_hassan@moe.edu.sg](mailto:marina_hassan@moe.edu.sg) <br>
+Mrs Widdy Teh:&nbsp;[widdy\_haryanti\_srisungkouu@moe.edu.sg](mailto:widdy_haryanti_srisungkouu@moe.edu.sg)  <br>
+Mdm Halima:&nbsp;[halimatussadiah\_jaffar@moe.edu.sg](mailto:halimatussadiah_jaffar@moe.edu.sg)
