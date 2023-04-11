@@ -2,6 +2,7 @@ collections:
   cce:
     output: true
     order:
+      - Education and Career Guidance (ECG) (coming soon).md
       - ECHA (coming soon).md
       - Signature Programmes (coming soon).md
       - International Friendship Day/2021.md
