@@ -14,28 +14,20 @@ Scouts Cubs
 
 It is a CCA programme that seeks to provide a group environment to build Cub scouts in their social, emotional, intellectual, physical and character development. Each meeting involves the use of the Scout Method, with an emphasis on practical outdoor activities, including camping, woodcraft, hiking and sports. Most Cub Scouts will be a leader within their Pack as they continue in their Scouting Journey.
 
-##### **Regular meeting involves the following:** 
+##### **Regular meeting involves the following:**&nbsp;
 
-Scouting skills and games
-
-Activities for Progress Badges in Leadership
-
-Activities for the Proficiency Badges such as First Aid, Sports
-
+Scouting skills and games<br>
+Activities for Progress Badges in Leadership<br>
+Activities for the Proficiency Badges such as First Aid, Sports<br>
 Activities for National Badges
 
 ##### **Scout HQ and East Area Activities:**
 
-Bicentennial Scout Trek
-
-Cub Scout Leadership Course
-
-Job Week and Donation Draw
-
-Area Orienteering Race
-
-Cub Scout Explorer Camp
-
+Bicentennial Scout Trek<br>
+Cub Scout&nbsp;Leadership Course<br>
+Job Week and Donation Draw<br>
+Area Orienteering Race<br>
+Cub Scout Explorer Camp<br>
 Cub Scout Gangshow
 
 ---
@@ -72,13 +64,18 @@ Cub Scout Gangshow
 *   Akela Award 2019 Recipients - Illyanis and Gracia Lee
 *   Akela Award 2020 Recipients - Erin Lee Jia En and Mavis Seng Jia En
 *   National event - 2019 Bicentennial Scout trek at Bishan Stadium
+
+
 ---
 
 ##### **SCHEDULE**  
 
-Fridays 1.15pm - 3.30pm
+Fridays&nbsp;<br>
+2.00pm - 3.30pm
+
+  
 
 **Teachers IC and Email address:**  
-Mdm Loo Chin Imm: [loo\_chin\_imm@moe.edu.sg](mailto:oo_chin_imm@moe.edu.sg)  
-Mdm Nur Liyana: [nur\_liyana\_amrun@moe.edu.sg](mailto:nur_liyana_amrun@moe.edu.sg)  
-Mr Kelvin Goh: [goh\_wei\_keong\_kelvin@moe.edu.sg](mailto:goh_wei_keong_kelvin@moe.edu.sg)
+Mdm Loo Chin Imm: l[oo\_chin\_imm@moe.edu.sg](mailto:oo_chin_imm@moe.edu.sg)  
+Mr Kelvin Goh:&nbsp;[goh\_wei\_keong\_kelvin@moe.edu.sg](mailto:goh_wei_keong_kelvin@moe.edu.sg)  
+Mdm Goh Mei Ling:&nbsp;[goh\_mei\_ling\_a@moe.edu.sg](mailto:goh_mei_ling_a@moe.edu.sg)
