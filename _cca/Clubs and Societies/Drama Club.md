@@ -29,11 +29,10 @@ The Drama Club was formed in 2013. Currently, there are 15 members from Primary 
 ### SCHEDULE
 
 
-Every Friday, 1.15pm - 3.30pm
-
-##### **Teachers IC:**
-
-Mrs Chow Kar Yan: [chua\_kar\_yan@moe.edu.sg](mailto:chua_kar_yan@moe.edu.sg)[](mailto:chua_kar_yan@moe.edu.sg)  
-Mrs Suriani Hanes: [suriani\_abdullah@moe.edu.sg](mailto:suriani_abdullah@moe.edu.sg)[](mailto:suriani_abdullah@moe.edu.sg)  
-Mrs Chan Soh Wah: [teo\_soh\_wah@moe.edu.sg](mailto:teo_soh_wah@moe.edu.sg)[](mailto:teo_soh_wah@moe.edu.sg)  
-Mrs Cynthia Chua: [lim\_hui\_ling\_cynthia@moe.edu.sg](mailto:lim_hui_ling_cynthia@moe.edu.sg)
+Fridays  
+2.00pm - 3.30pm  
+  
+**Teachers IC:**<br>
+Mdm Melissa Ong:&nbsp;[ong\_melissa@moe.edu.sg](mailto:ong_melissa@moe.edu.sg)[](mailto:chua_kar_yan@moe.edu.sg)  <br>
+Mrs Suriani Hanes:&nbsp;[suriani\_abdullah@moe.edu.sg](mailto:suriani_abdullah@moe.edu.sg)<br>
+Mrs Chan Soh Wah:&nbsp;[teo\_soh\_wah@moe.edu.sg](mailto:teo_soh_wah@moe.edu.sg)
