@@ -32,28 +32,7 @@ Cub Scout Gangshow
 
 ---
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-4r87{border-color:#ffffff;font-style:italic;text-align:center;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 933px">
-<colgroup>
-<col style="width: 311px">
-<col style="width: 311px">
-<col style="width: 311px">
-</colgroup>
-<thead>
-  <tr>
-    <td class="tg-4r87"><img src="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/2020/CCA/Pic%202.jpg" alt="Image" width="300" height="225"><br>Flag bearers for school National Day Observance Ceremony</td>
-    <td class="tg-4r87"><img src="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/CCA/UG/Sixers-in-action.jpg" alt="Image" width="300" height="225"><br>Sixers in action</td>
-    <td class="tg-4r87"><img src="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/2020/CCA/Pic%204.jpg" alt="Image" width="300" height="225"><br>Playing games with the Scout gadget - Catapult</td>
-  </tr>
-</thead>
-</table>
+<img style="width:80%" src="/images/scouts.png">
 
 ---
 
