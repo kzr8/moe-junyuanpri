@@ -60,15 +60,13 @@ National Floorball Championships: Junior Boys came in 3rd in the preliminary rou
 
 ##### **SCHEDULE**  
   
-Wednesdays 2.00pm - 3.30pm (Primary 4 & 5 on alternate weeks)  
-Fridays 1.15pm to 3.30pm (Primary 6)
+Mondays &amp; Fridays  
+2.00pm - 3.30pm&nbsp;  
+  
+**Teachers IC and Email address:**&nbsp;  
 
-**Teachers IC and Email address:**   
-
-Mdm Subiati Bte Cromo: [subiati\_cromo@moe.edu.sg](mailto:subiati_cromo@moe.edu.sg)
-
-Mr Pavadai Mohan: [pavadai\_mohan@moe.edu.sg](mailto:pavadai_mohan@moe.edu.sg)
-
-Mdm Hafidzoh Sirri Bts Sajani: [hafidzoh\_sirri\_sajani@moe.edu.sg](mailto:hafidzoh_sirri_sajani@moe.edu.sg)
-
-Miss Jalilah Bte Jalihan: [jalilah\_jalihan@moe.edu.sg](mailto:jalilah_jalihan@moe.edu.sg)
+Mdm Subiati Bte Cromo:&nbsp;[subiati\_cromo@moe.edu.sg](mailto:subiati_cromo@moe.edu.sg)
+<br>
+Mr Pavadai Mohan:&nbsp;[pavadai\_mohan@moe.edu.sg](mailto:pavadai_mohan@moe.edu.sg)<br>
+Mdm Hafidzoh Sirri Bts Sajani:&nbsp;[hafidzoh\_sirri\_sajani@moe.edu.sg](mailto:hafidzoh_sirri_sajani@moe.edu.sg)<br>
+Mr Khairul:&nbsp;[khairul\_anwar\_kamaruddin@moe.edu.sg](mailto:khairul_anwar_kamaruddin@moe.edu.sg)
