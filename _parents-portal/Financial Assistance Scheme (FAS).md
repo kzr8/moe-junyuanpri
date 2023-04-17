@@ -13,5 +13,8 @@ The objective of the MOE FAS is to help financially needy Singaporean students i
 [https://www.moe.gov.sg/financial-matters/financial-assistance](https://www.moe.gov.sg/financial-matters/financial-assistance)  
   
 **NEU PC PLUS**   
-The NEU PC Plus Programme offers low-income households with student or person with disabilities the opportunity to own a brand new computer at an affordable price. You may refer to IMDA website on NEU PC Plus for further details :   
-[https://www.imda.gov.sg/programme-listing/neu-pc-plus](https://www.imda.gov.sg/programme-listing/neu-pc-plus)
+The scheme has ceased on 31 March 2023, please refer to the new scheme DigitalAccess@Home : [https://www.imda.gov.sg/dah](https://www.imda.gov.sg/dah) 
+
+**DigitalAccess@Home**   
+DigitalAccess@Home provides subsidised broadband and laptops/tablets to lower-income households to support their lifestyle needs, including work and social activities. 
+Please refer to the new scheme : [https://www.imda.gov.sg/dah](https://www.imda.gov.sg/dah)
