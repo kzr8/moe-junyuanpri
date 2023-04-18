@@ -1,0 +1,23 @@
+collections:
+  cca:
+    output: true
+    order:
+      - CCAs.md
+      - Physical Sports Group/Volleyball.md
+      - Physical Sports Group/Tchoukball.md
+      - Physical Sports Group/Tae Kwon Do.md
+      - Physical Sports Group/Floorball.md
+      - Physical Sports Group/.keep
+      - Visual & Performing Arts Group/Chinese Dance.md
+      - Visual & Performing Arts Group/Malay Dance.md
+      - Visual & Performing Arts Group/Modern Dance.md
+      - Visual & Performing Arts Group/Music Interest Club.md
+      - Visual & Performing Arts Group/Visual Arts Club.md
+      - Visual & Performing Arts Group/.keep
+      - Uniformed Groups/Scouts Cubs.md
+      - Uniformed Groups/.keep
+      - Clubs and Societies/Library Club.md
+      - Clubs and Societies/InfoComm Club.md
+      - Clubs and Societies/Environment Club.md
+      - Clubs and Societies/Drama Club.md
+      - Clubs and Societies/.keep
