@@ -2,6 +2,7 @@ collections:
   cce:
     output: true
     order:
+      - Signature Programmes (coming soon).md
       - ECHA (coming soon).md
       - Education and Career Guidance (ECG) (coming soon).md
       - Sexuality Education Programme (SEd).md
