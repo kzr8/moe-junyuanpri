@@ -2,7 +2,7 @@ collections:
   departments:
     output: true
     order:
-      - Character & Citizen/.keep
+      - Character & Citizenship/.keep
       - English Language.md
       - Mathematics.md
       - Science/Science.md
