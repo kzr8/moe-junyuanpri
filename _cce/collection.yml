@@ -2,6 +2,7 @@ collections:
   cce:
     output: true
     order:
+      - Sexuality Education Programme (SEd).md
       - Values In Action (VIA) (coming soon).md
       - Buddy System.md
       - National Education (NE) Show.md
