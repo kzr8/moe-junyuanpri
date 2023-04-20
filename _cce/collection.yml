@@ -2,7 +2,6 @@ collections:
   cce:
     output: true
     order:
-      - Character & Citizenship Education.md
       - Total Defence Day (TDD)/2023.md
       - Total Defence Day (TDD)/.keep
       - Total Defence Day (TDD)/2022.md
