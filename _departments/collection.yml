@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - International Friendship Day/.keep
       - English Language.md
       - Mathematics.md
       - Science/.keep
