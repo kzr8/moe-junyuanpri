@@ -7,8 +7,12 @@ description: ""
 
 Downloads &amp; Links
 =================
-##### **2023 P5 &amp; P6 Math Alive&nbsp;\*NEW!**
-* [Briefing Slides]()
+##### **2023 Math Alive&nbsp;\*NEW!**
+* [P1 Briefing Slides](/files/p1%20math%20alive%20workshop%20for%20parents%2014%20april%202023%20(for%20school%20website).pdf)
+* [P2 Briefing Slides](/files/p2%20math%20alive%20workshop%20for%20parents%2014%20april%202023%20(for%20school%20website).pdf)
+* [P3 Briefing Slides](/files/p3%20math%20alive%20workshop%20for%20parents%2014%20april%202023%20(for%20school%20website).pdf)
+* [P4 Briefing Slides](/files/p4%20math%20alive%20workshop%20for%20parents%2014%20april%202023%20(for%20school%20website).pdf)
+* [P5 &amp; P6 Briefing Slides]()
 
 ##### **2023 Primary 1 Matters&nbsp;\*NEW!**
 
