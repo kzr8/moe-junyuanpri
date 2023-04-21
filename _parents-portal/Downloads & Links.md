@@ -1,5 +1,5 @@
 ---
-title: Downloads &amp; Links
+title: Downloads & Links
 permalink: /parents-portal/Downloads-and-Links/
 description: ""
 ---
@@ -12,7 +12,7 @@ Downloads &amp; Links
 * [P2 Briefing Slides](/files/p2%20math%20alive%20workshop%20for%20parents%2014%20april%202023%20(for%20school%20website).pdf)
 * [P3 Briefing Slides](/files/p3%20math%20alive%20workshop%20for%20parents%2014%20april%202023%20(for%20school%20website).pdf)
 * [P4 Briefing Slides](/files/p4%20math%20alive%20workshop%20for%20parents%2014%20april%202023%20(for%20school%20website).pdf)
-* [P5 &amp; P6 Briefing Slides]()
+* [P5 &amp; P6 Briefing Slides]([](/files/p5%20&amp;%206%20math%20alive!%20workshop%20for%20parents%2031%20march%2023.pdf))
 
 ##### **2023 Primary 1 Matters&nbsp;\*NEW!**
 
