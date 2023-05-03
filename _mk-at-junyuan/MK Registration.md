@@ -29,7 +29,7 @@ All incoming applications for Registration for MK@Junyuan will be placed under t
 
 
 
-<img src="/images/download.png" style="width:60%">
+<img src="/images/mkwaitlist.png" style="width:60%">
 
 
 For more information, you can visit MK website ([www.moe.gov.sg/mk](http://www.moe.gov.sg/mk)) or contact the MK ([www.moe.gov.sg/schoolfinder-mk](http://www.moe.gov.sg/schoolfinder-mk)) directly if you have further queries.
