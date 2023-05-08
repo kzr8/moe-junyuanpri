@@ -37,5 +37,13 @@ SEN Officers
     <td class="tg-0lj4"> Mdm Munira Binte Salleh<br> <a href="mailto:munira_salleh@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">munira_salleh@moe.edu.sg</span></a><br></td>
     <td class="tg-0lj4"> SEN Officer</td>
   </tr>
+	<tr>
+    <td class="tg-0lj4"> Ms Selvarani M <br> <a href="mailto:munira_salleh@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">munira_salleh@moe.edu.sg</span></a><br></td>
+    <td class="tg-0lj4"> SEN Officer</td>
+  </tr>
+	<tr>
+    <td class="tg-0lj4"> Ms Lee Jie Yi Clair<br> <a href="mailto:munira_salleh@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">munira_salleh@moe.edu.sg</span></a><br></td>
+    <td class="tg-0lj4"> SEN Officer</td>
+  </tr>
 </tbody>
 </table>
