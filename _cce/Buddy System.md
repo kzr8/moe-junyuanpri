@@ -25,4 +25,3 @@ The first few days of school can be an exciting yet daunting experience for many
 ![](/images/slide8.JPG)
 ![](/images/slide9.JPG)
 ![](/images/slide10.JPG)
-
