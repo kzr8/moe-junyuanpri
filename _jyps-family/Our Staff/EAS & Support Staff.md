@@ -6,7 +6,7 @@ third_nav_title: Our Staff
 ---
 ![](/images/banner.gif)
 
-EAS & Support Staff
+EAS &amp; Support Staff
 ===================
 
 
@@ -26,10 +26,7 @@ EAS & Support Staff
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-0lj4"> Ms Noor Farhani Bte Mohamed Rahim </td>
-    <td class="tg-0lj4"> Admin Executive </td>
-  </tr>
+
   <tr>
     <td class="tg-0lj4"> Ms Chan Pui Lin Rachael </td>
     <td class="tg-0lj4"> Admin Executive </td>
@@ -95,7 +92,7 @@ EAS & Support Staff
     <td class="tg-0lj4"> Library Assistant</td>
   </tr>
   <tr>
-    <td class="tg-0lj4"> Mdm Muthu Meenachi</td>
+    <td class="tg-0lj4"> Mdm Thulasi Dhanalaximi</td>
     <td class="tg-0lj4"> Security Guard </td>
   </tr>
   <tr>
@@ -111,4 +108,4 @@ EAS & Support Staff
 
 
 
-Email: [junyuan\_ps@moe.edu.sg](mailto:junyuan_ps@moe.edu.sg)
+Email:&nbsp;[junyuan\_ps@moe.edu.sg](mailto:junyuan_ps@moe.edu.sg)
