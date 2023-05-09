@@ -5,5 +5,5 @@ description: ""
 ---
 ![](/images/cafe%20front%20view.jpeg)
 
-#####  JYPS Kids Cafe is currently closed for annual  stocktaking. <br>
-##### We will inform when the cafe is open for business! 
+##### JYPS Kids Cafe is currently closed for annual  stocktaking. <br>
+##### We will inform when the cafe is open for business!
