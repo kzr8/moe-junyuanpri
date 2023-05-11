@@ -7,13 +7,10 @@ description: ""
 
 
          
-**Values in Action (VIA)** is a Key Student Development Experience (SDE) that aims to nurture socially responsible citizens who contribute meaningfully to the community, through the learning and application of values, knowledge and skills. VIA is designed to engender student ownership and initiative. As part of VIA, students reflect on their experience, the values they have put into practice, and how they can continue to contribute meaningfully.
-
-VIA is an important component of National Education and the holistic development of students for the following reasons: 
-
-1)     VIA promotes active citizenry by involving students in meaningful community         service to school and community.
-
-2)     VIA provides an opportunity for moral action and recognition of moral action.
+**Values in Action (VIA)** is a Key Student Development Experience (SDE) that aims to nurture socially responsible citizens who contribute meaningfully to the community, through the learning and application of values, knowledge and skills. VIA is designed to engender student ownership and initiative. As part of VIA, students reflect on their experience, the values they have put into practice, and how they can continue to contribute meaningfully.<br>
+VIA is an important component of National Education and the holistic development of students for the following reasons:&nbsp;<br>
+1)&nbsp;&nbsp;&nbsp;  VIA promotes active citizenry by involving students in meaningful community         service to school and community.<br>
+2)&nbsp;&nbsp;&nbsp; &nbsp;VIA provides an opportunity for moral action and recognition of moral action.
 
 Our school provides various learning platforms and opportunities for students to be equipped with the knowledge, moral and civic values, skills and dispositions to become **_Responsible and Caring Citizens._** These activities are based on experiential learning pedagogy, including dialogue, discussion and reflection, and intentional application of values, social-emotional, and civic competencies.
 
