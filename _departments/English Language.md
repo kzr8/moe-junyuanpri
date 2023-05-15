@@ -24,7 +24,7 @@ Good English Matters!
 ### **CURRICULUM**
 
 ##### **STELLAR (P1-P6)**  
-STELLAR stands for Strategies in the Teaching of the English Language Learning and Reading.  Central to the STELLAR programme is reading, and anchored through the wide variety of interesting books, are the teaching of the various language skills as well as the development of social skills such as teamwork and opportunities for pupils to work independently.  Through this programme, pupils have become avid readers and are more proficient, and confident, EL communicator.
+STELLAR stands for Strategies in the Teaching of the English Language Learning and Reading. &nbsp;Central to the STELLAR programme is reading, and anchored through the wide variety of interesting books, are the teaching of the various language skills as well as the development of social skills such as teamwork and opportunities for pupils to work independently. &nbsp;Through this programme, pupils have become avid readers and are more proficient, and confident, EL communicator.
 
 ### **PROGRAMMES**
 
@@ -33,8 +33,8 @@ STELLAR stands for Strategies in the Teaching of the English Language Learning a
 **“I Am a Confident Communicator”**  
 Every Junyuan pupil will be equipped with skills and dispositions for the 21st century in the area of confident communication via the implementation of specific programmes for the whole school and customised programmes for selected pupils.
 
-*   Show & Tell and Speech & Drama via Moo-O (P1)
-*   Show & Tell and Speech & Drama via Moo-O (P2)
+*   Show &amp; Tell and Speech &amp; Drama via Moo-O (P1)
+*   Show &amp; Tell and Speech &amp; Drama via Moo-O (P2)
 *   Storytelling via Storyboard (P3)
 *   Producing an Instructional Video (P4)
 *   Group Public Speaking / Basic Journalism (P5)
@@ -45,7 +45,7 @@ Pupils are provided with opportunities to broadcast current events, upcoming sch
 
 ![](/images/English2.png)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RK9vx3LcNrU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RK9vx3LcNrU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 
 
@@ -67,7 +67,7 @@ _2019 P5 Overseas Learning Trip (Suzhou, Brunei, Chiang Mai)_
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-zv4m"><img src="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/Departments/English/new/DSC01628.JPG" width="400" height="300"></th>
+    <th class="tg-zv4m"><img src="/images/dsc01628a.jpg" width="400" height="300"></th>
     <th class="tg-zv4m"><img src="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/Departments/English/new/DSC01653.JPG" width="400" height="300"></th>
   </tr>
 </thead>
@@ -111,7 +111,7 @@ This year, the English department embarked on the STARLETS programme for the Pri
 
 ##### **Enhanced Library Instruction Programme (P2 - P6)**
 
-The programme is carefully designed to expose pupils to varied genres as well as to make reading meaningful through engaging pupils in different reading-related activities when they visit the school library.  
+The programme is carefully designed to expose pupils to varied genres as well as to make reading meaningful through engaging pupils in different reading-related activities when they visit the school library. &nbsp;
 
   
 
@@ -121,7 +121,7 @@ At P2 and P3, we expose pupils to different genres such as fiction, fairy tales,
 
 ##### **Book Flood (P1 – P6)**
 
-A set of books is available in P1 – P3 classroom to encourage every pupil to read widely and frequently.  The pupils also take the books home to read to their parents. This allows for bonding between the child and parents through such a meaningful activity.
+A set of books is available in P1 – P3 classroom to encourage every pupil to read widely and frequently.&nbsp; The pupils also take the books home to read to their parents. This allows for bonding between the child and parents through such a meaningful activity.
 
 P4 – P6 pupils also borrow books from the school library for their silent reading daily.
 
@@ -130,9 +130,9 @@ MOE Reading Support Programmes (P1 - P4)
 
 Pupils who require further support in reading are enrolled into the following programmes according to their needs.
 
-*   Learning Support Programme (LSP) a.k.a. Rainbow Classes (P1 & P2)
-*   Reading Remediation Programme (RRP) (P3 & P4)
-*   School-based Dyslexia Remediation (SDR) Programme (P3 & P4)
+*   Learning Support Programme (LSP) a.k.a. Rainbow Classes (P1 &amp; P2)
+*   Reading Remediation Programme (RRP) (P3 &amp; P4)
+*   School-based Dyslexia Remediation (SDR) Programme (P3 &amp; P4)
 
 
 ##### **Partnership with NLB for Whole School Reading Programme**
@@ -192,13 +192,13 @@ In year 2019, the theme was on “STEAM”. Students had a chance to engage in l
 
 **\-A NATIONAL COMPETITION FOR SCHOOLS@ACJC**
 
- **(Extempore Comic Speaking - Upper Primary/ Lower Sec)**
+&nbsp;**(Extempore Comic Speaking - Upper Primary/ Lower Sec)**
  
  Vasanthakumar Ramamoorthy 6C3 (Tr-in-charge: Mdm Rahayu)
 
   
 
-The Extempore Comic Speaking competition was held on 31 August 2019. Vasanthakumar’s contenders were upper primary and lower secondary students from primary and secondary schools in Singapore. On the day of the competition, Vasanthkumar was given topics for his impromptu 3-minute speeches. He was allocated a fixed length of time for speech preparation. The speeches Vasanthakumar presented tickled the audience. He won the judges’ hearts with his wit and confidence. He presented speeches in Preliminary Round 1 and Round 2. His scores were high enough to be awarded an advancement to the Semi-Finals and later, the ultimate Finals. 
+The Extempore Comic Speaking competition was held on 31 August 2019. Vasanthakumar’s contenders were upper primary and lower secondary students from primary and secondary schools in Singapore. On the day of the competition, Vasanthkumar was given topics for his impromptu 3-minute speeches. He was allocated a fixed length of time for speech preparation. The speeches Vasanthakumar presented tickled the audience. He won the judges’ hearts with his wit and confidence. He presented speeches in Preliminary Round 1 and Round 2. His scores were high enough to be awarded an advancement to the Semi-Finals and later, the ultimate Finals.&nbsp;
 
   
 
