@@ -68,17 +68,17 @@ _2019 P5 Overseas Learning Trip (Suzhou, Brunei, Chiang Mai)_
 <thead>
   <tr>
     <th class="tg-zv4m"><img src="/images/dsc01628a.jpg" width="400" height="300"></th>
-    <th class="tg-zv4m"><img src="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/Departments/English/new/DSC01653.JPG" width="400" height="300"></th>
+    <th class="tg-zv4m"><img src="/images/dsc01653.JPG" width="400" height="300"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-zv4m"><img src="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/Departments/English/new/DSC01704.JPG" width="400" height="300"></td>
-    <td class="tg-zv4m"><img src="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/Departments/English/new/DSC01724.JPG" width="400" height="300"></td>
+    <td class="tg-zv4m"><img src="/images/dsc01704a.jpg" width="400" height="300"></td>
+    <td class="tg-zv4m"><img src="/images/dsc01724.JPG" width="400" height="300"></td>
   </tr>
   <tr>
-    <td class="tg-zv4m"><img src="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/Departments/English/new/DSC02244.JPG" width="400" height="300"></td>
-    <td class="tg-zv4m"><img src="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/Departments/English/new/DSC02250.JPG" width="400" height="300"></td>
+    <td class="tg-zv4m"><img src="/images/dsc02244a.jpg" width="400" height="300"></td>
+    <td class="tg-zv4m"><img src="/images/dsc02250a.jpg" width="400" height="300"></td>
   </tr>
 </tbody>
 </table>
@@ -173,14 +173,14 @@ In year 2019, the theme was on “STEAM”. Students had a chance to engage in l
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-oe15"><img src="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/Departments/English/new/IMG_6393.JPG" alt="Image" width="400" height="300"></th>
-    <th class="tg-oe15"><img src="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/Departments/English/new/IMG_6398.JPG" alt="Image" width="400" height="300"></th>
+    <th class="tg-oe15"><img src="/images/img_6393a.jpg" alt="Image" width="400" height="300"></th>
+    <th class="tg-oe15"><img src="/images/img_6398.JPG" alt="Image" width="400" height="300"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-oe15"><img src="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/Departments/English/new/IMG_6456.JPG" alt="Image" width="400" height="300"></td>
-    <td class="tg-oe15"><img src="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/Departments/English/new/IMG_6471.JPG" alt="Image" width="400" height="300"></td>
+    <td class="tg-oe15"><img src="/images/img_6456.JPG" alt="Image" width="400" height="300"></td>
+    <td class="tg-oe15"><img src="/images/img_6471.JPG" alt="Image" width="400" height="300"></td>
   </tr>
 </tbody>
 </table>
