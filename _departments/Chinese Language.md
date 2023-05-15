@@ -28,7 +28,7 @@ To equip our pupils with linguistic skills so that they are able to imbibe value
 
   
 
-乐学善用 Joyful Learners, Proficient Users. 
+乐学善用&nbsp;Joyful Learners, Proficient Users.&nbsp;
 
   
 
@@ -46,22 +46,22 @@ The Applied Learning Programme (ALP) on Confident Communication helps students a
 At Junyuan Primary, ALP Programmes for Confident Communication using Chinese Language consist of:
 
 *   P1 Speech and Drama Programme
-*   P2 Speech and Drama Programme & Learning Journey
+*   P2 Speech and Drama Programme &amp; Learning Journey
 *   P3 Chinese Storytelling via Moo-O (ICT platform)
 *   P4 Presentation Skills in Chinese Language
-*   P5 Chinese Language Journalism Programme 
+*   P5 Chinese Language Journalism Programme&nbsp;
 
   
 
 **P1 and P2 Speech and Drama 讲述与演艺班**
 
-Our department aims to nurture students to be confident communicators to help them acquire the skills and dispositions required for the 21st century. 
+Our department aims to nurture students to be confident communicators to help them acquire the skills and dispositions required for the 21st century.&nbsp;
 
-Our aims are to: 
+Our aims are to:&nbsp;
 
 *   Develop confidence communication through drama, songs, Chinese poetry recitation and storytelling activities.
-*   Improve socialization and oral communication skills via conversation and role-play. 
-*   Raise social awareness and encourage collaboration learning with others through group performance on stage. 
+*   Improve socialization and oral communication skills via conversation and role-play.&nbsp;
+*   Raise social awareness and encourage collaboration learning with others through group performance on stage.&nbsp;
 
 
 Students attended Speech and Drama programme to learn techniques and skills necessary for effective communication. They are engaged in fun activities such as role-play, singing aloud, storytelling, and props performance. Through the programme, students could experience the joy of learning Chinese Language and learn more about teamwork as they cooperate with other classmates.
@@ -102,14 +102,14 @@ In the process, students deepen their understanding of their own cultures throug
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-zv4m"><img src="https://junyuanpri.moe.edu.sg/qql/slot/u499/Departments/Chinese%20Language/camp/P3%20Cultural%20camp%201.jpg" width="400" height="300"></th>
-    <th class="tg-zv4m"><img src="https://junyuanpri.moe.edu.sg/qql/slot/u499/Departments/Chinese%20Language/camp/P3%20Cultural%20camp%202.jpg" width="400" height="300"></th>
+    <th class="tg-zv4m"><img src="/images/p3%20cultural%20camp%201.jpg" width="400" height="300"></th>
+    <th class="tg-zv4m"><img src="/images/p3%20cultural%20camp%202.jpg" width="400" height="300"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-zv4m"><img src="https://junyuanpri.moe.edu.sg/qql/slot/u499/Departments/Chinese%20Language/camp/P3%20Cultural%20camp%203.jpg" width="400" height="300"></td>
-    <td class="tg-zv4m"><img src="https://junyuanpri.moe.edu.sg/qql/slot/u499/Departments/Chinese%20Language/camp/P3%20Cultural%20camp%204.jpg" width="400" height="300"></td>
+    <td class="tg-zv4m"><img src="/images/p3%20cultural%20camp%203.jpg" width="400" height="300"></td>
+    <td class="tg-zv4m"><img src="/images/p3%20cultural%20camp%204.jpg" width="400" height="300"></td>
   </tr>
 </tbody>
 </table>
@@ -134,7 +134,7 @@ The objective of the Cultural Programme Exposure Scheme is to enhance students' 
 
 **P1 and P2 Chinese Brush Painting**
 
-Through the Chinese Brush Painting sessions, students are exposed to and immersed in the Chinese Art and cultivate an interest in the Chinese Language and culture. They are also able to understand the strokes and flow in Chinese Brush Painting.  
+Through the Chinese Brush Painting sessions, students are exposed to and immersed in the Chinese Art and cultivate an interest in the Chinese Language and culture. They are also able to understand the strokes and flow in Chinese Brush Painting.&nbsp;&nbsp;
 
   
 
@@ -144,27 +144,27 @@ The P1 and P2 Chinese Language students attended the Chinese brush painting less
 
 ### USEFUL CHINESE LANGUAGE DIGITAL LEARNING RESOURCES
 
-1.  iMTL Portal
+1.&nbsp;&nbsp;iMTL Portal
 
-The iMTL portal is a web-based, interactive Mother Tongue Languages Portal which supports the teaching and learning of Mother Tongue Languages  in schools. 
+The iMTL portal is a web-based, interactive Mother Tongue Languages Portal which supports the teaching and learning of Mother Tongue Languages&nbsp; in schools. 
 
 The iMTL Portal offers a wide range of tools and resources to promote collaboration and interaction between students, and between teachers and students. It seeks to create an immersive MTL learning environment that integrates the learning of MTLs with students’ daily lives.
 
-Link: [https://imtl.moe.edu.sg/cos/o.x?c=/ca7\_imtl/user&func=login](https://imtl.moe.edu.sg/cos/o.x?c=/ca7_imtl/user&func=login)[](https://imtl.moe.edu.sg/cos/o.x?c=/ca7_imtl/user&func=login)
+Link:&nbsp;[https://imtl.moe.edu.sg/cos/o.x?c=/ca7\_imtl/user&amp;func=login](https://imtl.moe.edu.sg/cos/o.x?c=/ca7_imtl/user&amp;func=login)[](https://imtl.moe.edu.sg/cos/o.x?c=/ca7_imtl/user&amp;func=login)
 
-2.  Thumbs Up Chinese Newspaper
+2.&nbsp;&nbsp;Thumbs Up Chinese Newspaper
 
 The tabloid-sized Chinese newspaper presents news to students in a perspective that their young mind can understand, to improve their general knowledge and Chinese language ability.
 
 Thumbs up adopts a fun and interactive editorial approach, with the use of colourful pictures and illustrations to appeal to its young readers.
 
-Link: [https://zbschools.sg/](https://zbschools.sg/)
+Link:&nbsp;[https://zbschools.sg/](https://zbschools.sg/)
 
-3.  Committee to Promote Chinese Language Learning
+3.&nbsp;&nbsp;Committee to Promote Chinese Language Learning
 
 A website that contains information about the various events and programmes organized by the community to support children in the learning of Chinese Language outside schools.
 
-Link: [http://www.cpcll.sg/](http://www.cpcll.sg/)
+Link:&nbsp;[http://www.cpcll.sg/](http://www.cpcll.sg/)
 
 LIST OF APPROVED DICTIONARIES FOR USE IN 2022 PSLE
 
