@@ -16,9 +16,9 @@ Every child to take pride of their culture and to be confident and competent use
   
 To develop the joy of learning the Tamil Language so as to equip the students with linguistic skills and to cultivate the love for the Tamil culture.  
   
-#####  **Tagline**  
+##### &nbsp;**Tagline**  
   
- “தமிழில் பேசுவோம் தமிழை நேசிப்போம்” ( Speak Tamil Love Tamil)
+&nbsp;“தமிழில் பேசுவோம் தமிழை நேசிப்போம்” ( Speak Tamil Love Tamil)
  
 
 
@@ -37,11 +37,11 @@ ALP Programmes for Confident Communication using Tamil Language :
 
   
 
-P1 / P2  :   Speech and Drama Programme
+P1 / P2&nbsp; :&nbsp; &nbsp;Speech and Drama Programme
 
-P3 / P4  :   Story telling 
+P3 / P4&nbsp; :&nbsp; &nbsp;Story telling&nbsp;
 
-P5           :  Tamil Language Journalism Programme 
+P5&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:&nbsp; Tamil Language Journalism Programme&nbsp;
 
   
 
@@ -61,35 +61,35 @@ P5           :  Tamil Language Journalism Programme 
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-zv4m"><img src="https://junyuanpri.moe.edu.sg/qql/slot/u499/Departments/Tamil%20Language/P1%20SPEECH%20AND%20DRAMA.JPG" width="400" height="300"></th>
-    <th class="tg-zv4m"><img src="https://junyuanpri.moe.edu.sg/qql/slot/u499/Departments/Tamil%20Language/P1%20TL%20PHONICS%20lesson.JPG" width="400" height="300"></th>
+    <th class="tg-zv4m"><img src="/images/p1%20speech%20and%20drama.JPG" width="400" height="300"></th>
+    <th class="tg-zv4m"><img src="/images/p1%20tl%20phonics%20lesson.JPG" width="400" height="300"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-zv4m"><img src="https://junyuanpri.moe.edu.sg/qql/slot/u499/Departments/Tamil%20Language/P1%20TL%20SPELL%20TAC%20TOE%20%20Game.JPG" width="400" height="300"></td>
-    <td class="tg-zv4m"><img src="https://junyuanpri.moe.edu.sg/qql/slot/u499/Departments/Tamil%20Language/P1-2%20SPEECH%20AND%20DRAMA.JPG" width="400" height="300"></td>
+    <td class="tg-zv4m"><img src="/images/p1%20tl%20spell%20tac%20toe%20%20game.JPG" width="400" height="300"></td>
+    <td class="tg-zv4m"><img src="/images/p1-2%20speech%20and%20drama.JPG" width="400" height="300"></td>
   </tr>
   <tr>
-    <td class="tg-zv4m"><img src="https://junyuanpri.moe.edu.sg/qql/slot/u499/Departments/Tamil%20Language/P1-P2%20Speech%20and%20drama%203.JPG" width="400" height="300"></td>
-    <td class="tg-zv4m"><img src="https://junyuanpri.moe.edu.sg/qql/slot/u499/Departments/Tamil%20Language/P2%20SPEECH%20AND%20DRAMA.JPG" width="400" height="300"></td>
+    <td class="tg-zv4m"><img src="/images/p1-p2%20speech%20and%20drama%203.JPG" width="400" height="300"></td>
+    <td class="tg-zv4m"><img src="/images/p2%20speech%20and%20drama.JPG" width="400" height="300"></td>
   </tr>
 </tbody>
 </table>
 
 
-**P3 and P4  Story telling**
+**P3 and P4&nbsp; Story telling**
 
 *   To develop confidence communication through storytelling activities.
-*   To improve  oral communication and social skills.
+*   To improve&nbsp; oral communication and social skills.
 
 
 ![](/images/TamilLang.png)
 
 
-**P5  Tamil Language Journalism Programme** 
+**P5&nbsp; Tamil Language Journalism Programme**&nbsp;
 
-*   The aim of this workshop is to improve pupils writing and presentation skills. Using the Tamil Language in a fun and non-threatening environment will help to boost pupils’ confidence. From the feedback gained from pupils, it was evident that they enjoyed the workshop and had fun using the language as a means of communication. 
+*   The aim of this workshop is to improve pupils writing and presentation skills. Using the Tamil Language in a fun and non-threatening environment will help to boost pupils’ confidence. From the feedback gained from pupils, it was evident that they enjoyed the workshop and had fun using the language as a means of communication.&nbsp;
 
   
 
@@ -101,7 +101,7 @@ This is an initiative by MOE which aims to immerse pupils in various activities 
 
 **P3 Cultural Camp**
 
-P3 Cultural Camp is a two-day camp held annually for P3 pupils. The aim of the camp is to expose students to wide range of cultural activities, such as performances and  traditional games.
+P3 Cultural Camp is a two-day camp held annually for P3 pupils. The aim of the camp is to expose students to wide range of cultural activities, such as performances and&nbsp; traditional games.
 
 In the process, pupils deepen their understanding of their own cultures through a myriad of fun and educational activities. It also enhances pupils’ interest in learning their Mother Tongue through participation in various activities.
 
@@ -109,14 +109,14 @@ In the process, pupils deepen their understanding of their own cultures through 
 
 **P4 – P6 : Festive Arts Theatre**
 
-                Shadow play \`Irulin Oli\` – \`இருளின் ஒளி\` 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Shadow play \`Irulin Oli\` – \`இருளின் ஒளி\`&nbsp;
 
-*   Appreciate  Tamil culture and develop an interest in telling stories with the shadow puppets.
+*   Appreciate&nbsp; Tamil culture and develop an interest in telling stories with the shadow puppets.
 *   Learn the Singapore stories.
 
 ![](/images/TamilLang2.jpeg)
 
-**P5 /P6 : Creative Drama** 
+**P5 /P6 : Creative Drama**&nbsp;
 
 *   to build confidence and improve articulation and stage presence and acting skills.
 *   to improve their acting, language and communication skills and develop their creativity in a fun way.
@@ -146,14 +146,14 @@ Tamil language Competitions organised by GRC IAEC Tampines Central CC
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-8jgo"><img src="https://junyuanpri.moe.edu.sg/qql/slot/u499/Departments/Tamil%20Language/Itaash%20receiving%20medal.JPG" alt="Image" width="400" height="300"><br>Itaash receiving medal</th>
-    <th class="tg-8jgo"><img src="https://junyuanpri.moe.edu.sg/qql/slot/u499/Departments/Tamil%20Language/Lithraa%20-%20medal.JPG" alt="Image" width="400" height="300"><br>Lithraa - medal</th>
+    <th class="tg-8jgo"><img src="/images/itaash%20receiving%20medal.JPG" alt="Image" width="400" height="300"><br>Itaash receiving medal</th>
+    <th class="tg-8jgo"><img src="/images/lithraa%20-%20medal.JPG" alt="Image" width="400" height="300"><br>Lithraa - medal</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-8jgo"><img src="https://junyuanpri.moe.edu.sg/qql/slot/u499/Departments/Tamil%20Language/Priya%20receiving%20medal%20from%20Mr%20Masagos.JPG" alt="Image" width="400" height="300"><br>Priya receiving medal from Mr Masagos</td>
-    <td class="tg-zv4m"><img src="https://junyuanpri.moe.edu.sg/qql/slot/u499/Departments/Tamil%20Language/TL%20Competitions%20prize%20winners%201.JPG" width="400" height="300"></td>
+    <td class="tg-8jgo"><img src="/images/priya%20receiving%20medal%20from%20mr%20masagos.JPG" alt="Image" width="400" height="300"><br>Priya receiving medal from Mr Masagos</td>
+    <td class="tg-zv4m"><img src="/images/tl%20competitions%20prize%20winners%201.JPG" width="400" height="300"></td>
   </tr>
 </tbody>
 </table>
