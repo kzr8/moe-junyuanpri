@@ -36,11 +36,11 @@ Competition
 </table>
 
 
-Two teams of Primary 5 pupils represented the school in the Marine Aquascaping Competition, held in conjunction with the East Zone STEM Festival at Victoria Junior College on 2 August 2019. The competition aims to raise awareness of the biodiversity of the marine ecosystem and the need for conserving and protecting the ocean. 
+Two teams of Primary 5 pupils represented the school in the Marine Aquascaping Competition, held in conjunction with the East Zone STEM Festival at Victoria Junior College on 2 August 2019. The competition aims to raise awareness of the biodiversity of the marine ecosystem and the need for conserving and protecting the ocean.&nbsp;
 
   
 
-The pupils were undaunted, despite this being their first time participating in such an event. They put in a lot of effort researching on how to set up a Nano marine aqua system as well as on marine conservation issues. On the day of the competition, the pupils worked well as a team and were able to engage the judges during their presentation.  
+The pupils were undaunted, despite this being their first time participating in such an event. They put in a lot of effort researching on how to set up a Nano marine aqua system as well as on marine conservation issues. On the day of the competition, the pupils worked well as a team and were able to engage the judges during their presentation.&nbsp;&nbsp;
 
   
 
@@ -65,8 +65,8 @@ The teachers were very heartened to see how the pupils took their own initiative
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-8jgo"><img src="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/Departments/Science/competition/MACS20195.JPG" alt="Image" width="400" height="300"><br><br><span style="font-weight:400;font-style:normal">Team 1:</span><br>TIAN DAOJIA ELIJAH<br>GERMAINE TAN HUI WEN<br>KWEK KEYING, SHERELLE</td>
-    <td class="tg-8jgo"><img src="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u499/Departments/Science/competition/MACS20196.JPG" alt="Image" width="400" height="300"><br><br><span style="font-weight:400;font-style:normal">Team 2:</span><br>SITI SARAH BINTE ABDUL RAZAK<br>TAN SHI SHAN<br>YOGANATHA GANESH TARUN</td>
+    <td class="tg-8jgo"><img src="/images/macs20195.JPG" alt="Image" width="400" height="300"><br><br><span style="font-weight:400;font-style:normal">Team 1:</span><br>TIAN DAOJIA ELIJAH<br>GERMAINE TAN HUI WEN<br>KWEK KEYING, SHERELLE</td>
+    <td class="tg-8jgo"><img src="/images/macs20196.JPG" alt="Image" width="400" height="300"><br><br><span style="font-weight:400;font-style:normal">Team 2:</span><br>SITI SARAH BINTE ABDUL RAZAK<br>TAN SHI SHAN<br>YOGANATHA GANESH TARUN</td>
   </tr>
 </thead>
 </table>
@@ -106,13 +106,13 @@ The teachers were very heartened to see how the pupils took their own initiative
 </tbody>
 </table>
 
-In line with the rationale behind the G!nnovation Challenge organized by NEA, the school  responded to the clarion call and put forth her support and contribution. The Science department’s innovation team trained and prepared 2 teams of P5 students to contribute through their participation in the G!nnovation Challenge.
+In line with the rationale behind the G!nnovation Challenge organized by NEA, the school&nbsp; responded to the clarion call and put forth her support and contribution. The Science department’s innovation team trained and prepared 2 teams of P5 students to contribute through their participation in the G!nnovation Challenge.
 
-Overall, the teams promoted environmental stewardship amongst students through increased awareness on environmental problems via the application of STEM (Science, Technology, Engineering, Mathematics) in their projects. The teams were encouraged and guided to think out of the box to arrive at innovative and creative solutions that were relevant, effective, efficient and feasible to solve the problems. 
+Overall, the teams promoted environmental stewardship amongst students through increased awareness on environmental problems via the application of STEM (Science, Technology, Engineering, Mathematics) in their projects. The teams were encouraged and guided to think out of the box to arrive at innovative and creative solutions that were relevant, effective, efficient and feasible to solve the problems.&nbsp;
 
   
 
-Specifically, to encourage their peers to recycle right, one team educated their peers  on what they can and cannot recycle through a humorous self-directed and self-produced video. In addition, their knowledge of Micro:bits were put into application in real life to track the rate of recycling. On the other hand, the other team gamified the experience of recycling plastic bottles by designing an arcade game-like bin. 
+Specifically, to encourage their peers to recycle right, one team educated their peers&nbsp; on what they can and cannot recycle through a humorous self-directed and self-produced video. In addition, their knowledge of Micro:bits were put into application in real life to track the rate of recycling. On the other hand, the other team gamified the experience of recycling plastic bottles by designing an arcade game-like bin.&nbsp;
 
   
 
@@ -155,7 +155,7 @@ Due to their efforts, the rate of recycling went up during the project implement
 </table>
 
 
-Write-up: (About 150 words would suffice) 
+Write-up: (About 150 words would suffice)&nbsp;
 
 A group of 11 students – four Primary 4 students and seven Primary 5 students – took part in the “The Wonders of Kitchen Chemistry Camp” organized by the East Zone Centre of Excellence (COE) for Innovations in Science at Dunman Secondary School on 3 June 2019.
 
@@ -169,7 +169,7 @@ During the second activity, the students had the opportunity to engage in the sc
 
   
 
-After a satisfying lunch, the students worked together to design an efficient cooking pan using the materials provided. The efficiency of their “cooking pan” (made from aluminium foil) was judged based on time taken to cook an egg in their improvised cooking pan. 
+After a satisfying lunch, the students worked together to design an efficient cooking pan using the materials provided. The efficiency of their “cooking pan” (made from aluminium foil) was judged based on time taken to cook an egg in their improvised cooking pan.&nbsp;
 
   
 

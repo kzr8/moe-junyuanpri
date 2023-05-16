@@ -53,15 +53,15 @@ At Junyuan Primary, ALP Programmes for Confident Communication using Malay Langu
 
   
 
-**P1 and P2 Speech and Drama** 
+**P1 and P2 Speech and Drama**&nbsp;
 
-Our department aims to nurture students to be confident communicators to help them acquire the skills and dispositions required for the 21st century. 
+Our department aims to nurture students to be confident communicators to help them acquire the skills and dispositions required for the 21st century.&nbsp;
 
-Our aims are to: 
+Our aims are to:&nbsp;
 
 *   Develop confidence communication through drama, songs, Malay poetry recitation and storytelling activities.
-*   Improve socialization and oral communication skills via conversation and role-play. 
-*   Raise social awareness and encourage collaboration learning with others through group performance on stage. 
+*   Improve socialization and oral communication skills via conversation and role-play.&nbsp;
+*   Raise social awareness and encourage collaboration learning with others through group performance on stage.&nbsp;
 
   
 
@@ -69,7 +69,7 @@ Students attended Speech and Drama programme to learn techniques and skills nece
 
 ![](/images/MalayLang.png)
 
-**P5 Malay Journalism Programme** 
+**P5 Malay Journalism Programme**&nbsp;
 
 Our P5 students participated in the Malay Journalism Programme to help them understand what it takes to report on an event and to provide hands on opportunities for them to record their reporting and interviews. Through this programme, the Malay Language department hope to build confident speakers who are able to report on the happenings of an event and interview their peers. Students wrote out their reporters’ scripts in teams and brainstormed interview questions through the guidance of the instructors and teachers. They had an enriching learning experience as they reported on the P5 NE Show and interviewed their classmates.
 
@@ -96,14 +96,14 @@ P3 Cultural Camp is a day camp held within curriculum hours for P3 students who 
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-zv4m"><img src="https://junyuanpri.moe.edu.sg/qql/slot/u499/Departments/Malay%20Language/camp/20190529_085938.jpg" width="400" height="300"></th>
-    <th class="tg-zv4m"><img src="https://junyuanpri.moe.edu.sg/qql/slot/u499/Departments/Malay%20Language/camp/20190529_101201.jpg" width="400" height="300"></th>
+    <th class="tg-zv4m"><img src="/images/20190529_085938.jpg" width="400" height="300"></th>
+    <th class="tg-zv4m"><img src="/images/20190529_101201.jpg" width="400" height="300"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-8jgo"><img src="https://junyuanpri.moe.edu.sg/qql/slot/u499/Departments/Malay%20Language/camp/20190529_114231.jpg" alt="Image" width="200" height="411"></td>
-    <td class="tg-8jgo"><br><br><br><br><br><br><img src="https://junyuanpri.moe.edu.sg/qql/slot/u499/Departments/Malay%20Language/camp/20190529_114305.jpg" alt="Image" width="400" height="194"><br></td>
+    <td class="tg-8jgo"><img src="/images/20190529_114231.jpg" alt="Image" width="200" height="411"></td>
+    <td class="tg-8jgo"><br><br><br><br><br><br><img src="/images/20190529_114305.jpg" alt="Image" width="400" height="194"><br></td>
   </tr>
 </tbody>
 </table>
@@ -126,9 +126,9 @@ The objective of the Cultural Programme Exposure Fund Scheme is to enhance stude
 
 ![](/images/MalayLang3.png)
 
-**P1 and P2 Songket and Batik Appreciation** 
+**P1 and P2 Songket and Batik Appreciation**&nbsp;
 
-Through the Songket and Batik Appreciation lesson, students are exposed to and immersed in the Malay Art and cultivate an interest in the Malay Language and culture. 
+Through the Songket and Batik Appreciation lesson, students are exposed to and immersed in the Malay Art and cultivate an interest in the Malay Language and culture.&nbsp;
 
 The lesson was conducted by the teachers during the Malay Language curriculum time in Term 4. Students are taught how to make bookmarks and coasters using the Songket and Batik fabric.
 
@@ -157,14 +157,14 @@ The Malay Language Department were invited to show case our winning MOE Innergy 
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-zv4m"><img src="https://junyuanpri.moe.edu.sg/qql/slot/u499/Departments/Malay%20Language/excel%20fest/WhatsApp%20Image%202019-11-18%20at%2011.20.37%20(6).jpeg" alt="Image" width="400" height="194"></th>
-    <th class="tg-zv4m"><img src="https://junyuanpri.moe.edu.sg/qql/slot/u499/Departments/Malay%20Language/excel%20fest/WhatsApp%20Image%202019-11-18%20at%2011.20.37%20(7).jpeg" alt="Image" width="400" height="194"></th>
+    <th class="tg-zv4m"><img src="/images/whatsapp%20image%202019-11-18%20at%20112037%20(6).jpeg" alt="Image" width="400" height="194"></th>
+    <th class="tg-zv4m"><img src="/images/whatsapp%20image%202019-11-18%20at%20112037%20(7).jpeg" alt="Image" width="400" height="194"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-zv4m"><img src="https://junyuanpri.moe.edu.sg/qql/slot/u499/Departments/Malay%20Language/excel%20fest/WhatsApp%20Image%202019-11-18%20at%2011.20.37%20(9).jpeg" alt="Image" width="400" height="194"></td>
-    <td class="tg-zv4m"><img src="https://junyuanpri.moe.edu.sg/qql/slot/u499/Departments/Malay%20Language/excel%20fest/WhatsApp%20Image%202019-11-18%20at%2011.20.37%20(10).jpeg" alt="Image" width="400" height="194"></td>
+    <td class="tg-zv4m"><img src="/images/whatsapp%20image%202019-11-18%20at%20112037%20(9).jpeg" alt="Image" width="400" height="194"></td>
+    <td class="tg-zv4m"><img src="/images/whatsapp%20image%202019-11-18%20at%20112037%20(10).jpeg" alt="Image" width="400" height="194"></td>
   </tr>
 </tbody>
 </table>
@@ -174,7 +174,7 @@ The Malay Language Department were invited to show case our winning MOE Innergy 
 
 
 **Ujana Bahasa dan Budaya @ TWCC**  
-In celebration of Bulan Bahasa (Malay Language Month), a group of P4 and P5 students participated in the Ujana Bahasa & Budaya 2019 @ TWCC. The full day event comprises of interactive booth engagements manned by media giants like Singapore Press Holdings and Mediacorp.
+In celebration of Bulan Bahasa (Malay Language Month), a group of P4 and P5 students participated in the Ujana Bahasa &amp; Budaya 2019 @ TWCC. The full day event comprises of interactive booth engagements manned by media giants like Singapore Press Holdings and Mediacorp.
 
 ![](/images/MalayLang6.png)
 
@@ -228,14 +228,14 @@ The National Malay Writing Competition aims to nurture budding young writers. Th
 
 ### USEFUL MALAY LANGUAGE DIGITAL LEARNING RESOURCES
 
-1. iMTL Portal
+1.&nbsp;iMTL Portal
 
-The iMTL portal is a web-based, interactive Mother Tongue Languages Portal which supports the teaching and learning of Mother Tongue Languages  in schools.
+The iMTL portal is a web-based, interactive Mother Tongue Languages Portal which supports the teaching and learning of Mother Tongue Languages&nbsp; in schools.
 
 The iMTL Portal offers a wide range of tools and resources to promote collaboration and interaction between students, and between teachers and students. It seeks to create an immersive MTL learning environment that integrates the learning of MTLs with students’ daily lives.
 
-Link: [https://imtl.moe.edu.sg/cos/o.x?c=/ca7\_imtl/user&func=login](https://imtl.moe.edu.sg/cos/o.x?c=/ca7_imtl/user&func=login)
+Link:&nbsp;[https://imtl.moe.edu.sg/cos/o.x?c=/ca7\_imtl/user&amp;func=login](https://imtl.moe.edu.sg/cos/o.x?c=/ca7_imtl/user&amp;func=login)
 
-2.  Dewan Bahasa dan Pustaka Online Dictionary
+2.&nbsp;&nbsp;Dewan Bahasa dan Pustaka Online Dictionary
 
-Link : [http://prpm.dbp.gov.my/](http://prpm.dbp.gov.my/)
+Link :&nbsp;[http://prpm.dbp.gov.my/](http://prpm.dbp.gov.my/)
