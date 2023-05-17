@@ -2,6 +2,7 @@ collections:
   cce:
     output: true
     order:
+      - Values In Action (VIA)/Buddy Programme.md
       - Values In Action (VIA)/Values In Action (VIA).md
       - Values In Action (VIA)/.keep
       - Character & Citizenship Education.md
