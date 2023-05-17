@@ -2,6 +2,7 @@
 title: Values In Action (VIA)
 permalink: /departments/cce/values-in-action-via/
 description: ""
+third_nav_title: Values In Action (VIA)
 ---
 ![](/images/banner.gif)
 

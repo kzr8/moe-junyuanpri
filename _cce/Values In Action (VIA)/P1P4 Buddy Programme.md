@@ -1,7 +1,8 @@
 ---
-title: Buddy Programme
-permalink: /departments/cce/buddy-programme/
+title: P1P4 Buddy Programme
+permalink: /departments/cce/p1p4-buddy-programme/
 description: ""
+third_nav_title: Values In Action (VIA)
 ---
 ![](/images/banner.gif)
 
