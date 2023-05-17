@@ -2,9 +2,9 @@ collections:
   cce:
     output: true
     order:
-      - Values In Action (VIA)/Buddy Programme.md
-      - Values In Action (VIA)/Values In Action (VIA).md
       - Values In Action (VIA)/.keep
+      - Values In Action (VIA)/Values In Action (VIA).md
+      - Values In Action (VIA)/Buddy Programme.md
       - Character & Citizenship Education.md
       - Total Defence Day (TDD)/.keep
       - Total Defence Day (TDD)/2023.md
