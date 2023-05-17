@@ -2,6 +2,7 @@ collections:
   cce:
     output: true
     order:
+      - Values In Action (VIA)/.keep
       - Character & Citizenship Education.md
       - Total Defence Day (TDD)/.keep
       - Total Defence Day (TDD)/2023.md
