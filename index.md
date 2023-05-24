@@ -11,5 +11,5 @@ sections:
       key_highlights:
         - title: Announcements
           description: 30 June 2023 | e-Open House
-          url: /Announcements/
+          url: /parents-portal/Announcements/
 ---
