@@ -10,6 +10,6 @@ sections:
       background: /images/Homepage.gif
       key_highlights:
         - title: Announcements
-          description: ""
-          url: /Announcements/
+          description: 30 June 2023 | Virtual Open House
+          url: /parents-portal/Announcements/
 ---

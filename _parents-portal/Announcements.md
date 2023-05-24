@@ -8,6 +8,17 @@ description: ""
 Announcements
 =============
 
+### JYPS Virtual Open House 2023  !New
+
+Dear Parents,  
+  
+We would like to invite you to join us for Junyuan Primary School’s Virtual Open House 2023 on Friday, 30 June 2023 from 2.30pm to 4.00pm.
+
+You may register using QR code or via this link [https://go.gov.sg/jyps-virtual-open-hse](https://go.gov.sg/jyps-virtual-open-hse).  
+We look forward to your registration.
+
+![](/images/jyps%20e-open%20house%202023.jpg)
+
 ### 2022JYPS P6 e-Yearbook
 
 [2022 P6 e-Yearbook](https://www.canva.com/design/DAFOt12c6WA/view?utm_content=DAFOt12c6WA&utm_campaign=designshare&utm_medium=embeds&utm_source=link) by JYPS
@@ -44,17 +55,6 @@ As our key partner-in-education, we invite you to nominate suitable students for
 You may nominate online via [https://go.gov.sg/jypsecha2022](https://go.gov.sg/jypsecha2022)
 
 Nominations will open from Monday, 8 August 2022 to Friday, 2 September 2022.
-
-### JYPS Virtual Open House 2022  !New
-
-Dear Parents,  
-  
-We would like to invite you to join us for Junyuan Primary School’s Virtual Open House 2022 on Friday, 8 July 2022 from 2.30pm to 3.30pm.
-
-You may register using QR code or via this link [https://go.gov.sg/jyps-virtual-open-hse](https://go.gov.sg/jyps-virtual-open-hse).  
-We look forward to your registration.
-
-![](/images/JYPS%20E-Open%20House%202022.jpeg)
 
   
 ### 2022 Primary One (P1) Registration Exercise - Phase 1 Registration NEW!
