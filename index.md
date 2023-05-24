@@ -10,6 +10,6 @@ sections:
       background: /images/Homepage.gif
       key_highlights:
         - title: Announcements
-          description: 30 June 2023 | e-Open House 023
+          description: 30 June 2023 | e-Open House
           url: /Announcements/
 ---
