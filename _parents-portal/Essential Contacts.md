@@ -27,7 +27,7 @@ Essential Contacts
 .tg .tg-9klb{background-color:#E8AB38;border-color:inherit;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-q1bw{background-color:#E8AB38;border-color:inherit;color:#FFF;text-align:center;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 2308px">
+<table style="undefined;table-layout: fixed; width: 2308px" class="tg">
 <colgroup>
 <col style="width: 155px">
 <col style="width: 287px">
@@ -71,7 +71,7 @@ Essential Contacts
     <td class="tg-nqk2"><span style="color:#FFF;background-color:#E8AB38">Tel: 6242 0201 / 6284 3032</span><br><span style="color:#FFF;background-color:#E8AB38">Email: </span><a href="mailto:enquire@bedoktransport.com"><span style="text-decoration:underline;color:#A52023">enquire@bedoktransport.com</span></a><br><span style="color:#FFF;background-color:#E8AB38">Website: </span><a href="http://www.bedoktransport.com/"><span style="text-decoration:underline;color:#A52023">http://www.bedoktransport.com</span></a></td>
     <td class="tg-q0tg"><span style="color:#FFF;background-color:#E8AB38">-</span></td>
     <td class="tg-nqk2"><span style="color:#FFF;background-color:#E8AB38">Bedok Transport</span><br><span style="color:#FFF;background-color:#E8AB38">Pte Ltd</span><br><span style="color:#FFF;background-color:#E8AB38">32 Defu Lane</span><br><span style="color:#FFF;background-color:#E8AB38">Singapore 539272</span></td>
-    <td class="tg-b6rr"><a href="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u1194/School%20Bus%20Services%202017-2019_Request%20Form%20REVISED.pdf"><span style="text-decoration:underline;color:#A52023">Letter to Parents_School Bus Services _Request Form</span></a><span style="color:#FFF;background-color:#E8AB38"> (Click to download)</span><br><br><a href="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u1194/Letter%20to%20Parents_School%20Bus%20Services%202017_FINAL%20(1).pdf"><span style="text-decoration:underline;color:#A52023">Letter to Parents_School Bus Services</span></a><span style="color:#FFF;background-color:#E8AB38"> (Click to download)</span><br><br><span style="text-decoration:none;color:#454545;background-color:#E8AB38">Details of School Bus Fares<br>  
+    <td class="tg-b6rr"><a href="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u1194/School%20Bus%20Services%202017-2019_Request%20Form%20REVISED.pdf"><span style="text-decoration:underline;color:#A52023">Letter to Parents_School Bus Services _Request Form</span></a><span style="color:#FFF;background-color:#E8AB38"> (Click to download)</span><br><br><a href="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u1194/Letter%20to%20Parents_School%20Bus%20Services%202017_FINAL%20(1).pdf"><span style="text-decoration:underline;color:#A52023">Letter to Parents_School Bus Services</span></a><span style="color:#FFF;background-color:#E8AB38"> (Click to download)</span><br><br><span style="text-decoration:none;color:#A52023">Details of School Bus Fares<br>  
 			Daily School Bus Services based on Not to Exceed Price (i.e. for sending students from home to school and vice versa)<br>
             <style type="text/css">
     .tg  {border-collapse:collapse;border-spacing:0;}
@@ -82,13 +82,13 @@ Essential Contacts
     .tg .tg-9wq8{border-color:inherit;text-align:center;vertical-align:middle}
     .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
     </style>
-    <table class="tg-r6xn">
+    <table class="tg-r6xn" style="background-color:#FFFFFF">
     <thead>
       <tr>
-        <th rowspan="2" class="tg-9wq8">Distance</th>
-        <th colspan="2" class="tg-c3ow">Up to 15 Seater</th>
-        <th colspan="2" class="tg-c3ow">&gt;15-30 Seater</th>
-        <th colspan="2" class="tg-c3ow">&gt;30 Seater</th>
+        <th class="tg-9wq8" rowspan="2">Distance</th>
+        <th class="tg-c3ow" colspan="2">Up to 15 Seater</th>
+        <th class="tg-c3ow" colspan="2">&gt;15-30 Seater</th>
+        <th class="tg-c3ow" colspan="2">&gt;30 Seater</th>
       </tr>
       <tr>
         <th class="tg-c3ow">1 way</th>
