@@ -73,50 +73,59 @@ Essential Contacts
     <td class="tg-nqk2"><span style="color:#FFF;background-color:#E8AB38">Bedok Transport</span><br><span style="color:#FFF;background-color:#E8AB38">Pte Ltd</span><br><span style="color:#FFF;background-color:#E8AB38">32 Defu Lane</span><br><span style="color:#FFF;background-color:#E8AB38">Singapore 539272</span></td>
     <td class="tg-b6rr"><a href="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u1194/School%20Bus%20Services%202017-2019_Request%20Form%20REVISED.pdf"><span style="text-decoration:underline;color:#A52023">Letter to Parents_School Bus Services _Request Form</span></a><span style="color:#FFF;background-color:#E8AB38"> (Click to download)</span><br><br><a href="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u1194/Letter%20to%20Parents_School%20Bus%20Services%202017_FINAL%20(1).pdf"><span style="text-decoration:underline;color:#A52023">Letter to Parents_School Bus Services</span></a><span style="color:#FFF;background-color:#E8AB38"> (Click to download)</span><br><br><span style="text-decoration:none;color:#A52023">Details of School Bus Fares<br>  
 			Daily School Bus Services based on Not to Exceed Price (i.e. for sending students from home to school and vice versa)<br>
-    <table cellspacing="3" cellpadding="3" style="background-color:#FDFEFE;;border:2px solid #000000;color:#000000;width:100%" border="2">
+            <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:2px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-9wq8{border-color:inherit;text-align:center;vertical-align:middle}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    </style>
+    <table class="tg">
     <thead>
       <tr>
-        <th rowspan="2" class="tg-nrix">Distance</th>
-        <th colspan="2" class="tg-0lax">Up to 15 Seater</th>
-        <th colspan="2" class="tg-0lax">&gt;15-30 Seater</th>
-        <th colspan="2" class="tg-0lax">&gt;30 Seater</th>
+        <th rowspan="2" class="tg-9wq8">Distance</th>
+        <th colspan="2" class="tg-c3ow">Up to 15 Seater</th>
+        <th colspan="2" class="tg-c3ow">&gt;15-30 Seater</th>
+        <th colspan="2" class="tg-c3ow">&gt;30 Seater</th>
       </tr>
       <tr>
-        <th class="tg-0lax">1 way</th>
-        <th class="tg-0lax">2 way</th>
-        <th class="tg-0lax">1 way</th>
-        <th class="tg-0lax">2 way</th>
-        <th class="tg-0lax">1 way</th>
-        <th class="tg-0lax">2 way</th>
+        <th class="tg-c3ow">1 way</th>
+        <th class="tg-c3ow">2 way</th>
+        <th class="tg-c3ow">1 way</th>
+        <th class="tg-c3ow">2 way</th>
+        <th class="tg-c3ow">1 way</th>
+        <th class="tg-c3ow">2 way</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td class="tg-0lax">Up to 2km</td>
-        <td class="tg-0lax">$170/-</td>
-        <td class="tg-0lax">$180/-</td>
-        <td class="tg-0lax">$150/-</td>
-        <td class="tg-0lax">$160/-</td>
-        <td class="tg-0lax">$140/-</td>
-        <td class="tg-0lax">$150/-</td>
+        <td class="tg-c3ow">Up to 2km</td>
+        <td class="tg-c3ow">$170/-</td>
+        <td class="tg-c3ow">$180/-</td>
+        <td class="tg-c3ow">$150/-</td>
+        <td class="tg-c3ow">$160/-</td>
+        <td class="tg-c3ow">$140/-</td>
+        <td class="tg-c3ow">$150/-</td>
       </tr>
       <tr>
-        <td class="tg-0lax">&gt;2 - 4km</td>
-        <td class="tg-0lax">$210/-</td>
-        <td class="tg-0lax">$220/-</td>
-        <td class="tg-0lax">$210/-</td>
-        <td class="tg-0lax">$220/-</td>
-        <td class="tg-0lax">$200/-</td>
-        <td class="tg-0lax">$210/-</td>
+        <td class="tg-c3ow">&gt;2 - 4km</td>
+        <td class="tg-c3ow">$210/-</td>
+        <td class="tg-c3ow">$220/-</td>
+        <td class="tg-c3ow">$210/-</td>
+        <td class="tg-c3ow">$220/-</td>
+        <td class="tg-c3ow">$200/-</td>
+        <td class="tg-c3ow">$210/-</td>
       </tr>
       <tr>
-        <td class="tg-0lax">&gt;4 - 6km</td>
-        <td class="tg-0lax">$220/-</td>
-        <td class="tg-0lax">$230/-</td>
-        <td class="tg-0lax">$220/-</td>
-        <td class="tg-0lax">$230/-</td>
-        <td class="tg-0lax">$210/-</td>
-        <td class="tg-0lax">$220/-</td>
+        <td class="tg-c3ow">&gt;4 - 6km</td>
+        <td class="tg-c3ow">$220/-</td>
+        <td class="tg-c3ow">$230/-</td>
+        <td class="tg-c3ow">$220/-</td>
+        <td class="tg-c3ow">$230/-</td>
+        <td class="tg-c3ow">$210/-</td>
+        <td class="tg-c3ow">$220/-</td>
       </tr>
     </tbody>
     </table>
