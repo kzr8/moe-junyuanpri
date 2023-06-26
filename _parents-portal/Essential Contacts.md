@@ -71,7 +71,54 @@ Essential Contacts
     <td class="tg-nqk2"><span style="color:#FFF;background-color:#E8AB38">Tel: 6242 0201 / 6284 3032</span><br><span style="color:#FFF;background-color:#E8AB38">Email: </span><a href="mailto:enquire@bedoktransport.com"><span style="text-decoration:underline;color:#A52023">enquire@bedoktransport.com</span></a><br><span style="color:#FFF;background-color:#E8AB38">Website: </span><a href="http://www.bedoktransport.com/"><span style="text-decoration:underline;color:#A52023">http://www.bedoktransport.com</span></a></td>
     <td class="tg-q0tg"><span style="color:#FFF;background-color:#E8AB38">-</span></td>
     <td class="tg-nqk2"><span style="color:#FFF;background-color:#E8AB38">Bedok Transport</span><br><span style="color:#FFF;background-color:#E8AB38">Pte Ltd</span><br><span style="color:#FFF;background-color:#E8AB38">32 Defu Lane</span><br><span style="color:#FFF;background-color:#E8AB38">Singapore 539272</span></td>
-    <td class="tg-b6rr"><a href="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u1194/School%20Bus%20Services%202017-2019_Request%20Form%20REVISED.pdf"><span style="text-decoration:underline;color:#A52023">Letter to Parents_School Bus Services _Request Form</span></a><span style="color:#FFF;background-color:#E8AB38"> (Click to download)</span><br><br><a href="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u1194/Letter%20to%20Parents_School%20Bus%20Services%202017_FINAL%20(1).pdf"><span style="text-decoration:underline;color:#A52023">Letter to Parents_School Bus Services</span></a><span style="color:#FFF;background-color:#E8AB38"> (Click to download)</span><br><br><span style="text-decoration:underline;color:#A52023">Details of School Bus Fares</span><br>![](/images/school_bus_fares_detail_2023.gif)
+    <td class="tg-b6rr"><a href="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u1194/School%20Bus%20Services%202017-2019_Request%20Form%20REVISED.pdf"><span style="text-decoration:underline;color:#A52023">Letter to Parents_School Bus Services _Request Form</span></a><span style="color:#FFF;background-color:#E8AB38"> (Click to download)</span><br><br><a href="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u1194/Letter%20to%20Parents_School%20Bus%20Services%202017_FINAL%20(1).pdf"><span style="text-decoration:underline;color:#A52023">Letter to Parents_School Bus Services</span></a><span style="color:#FFF;background-color:#E8AB38"> (Click to download)</span><br><br><span style="text-decoration;color:#17202A">Details of School Bus Fares</span><br>  
+    <table class="tg" border="4">
+    <thead>
+      <tr>
+        <th rowspan="2" class="tg-nrix">Distance</th>
+        <th colspan="2" class="tg-0lax">Up to 15 Seater</th>
+        <th colspan="2" class="tg-0lax">&gt;15-30 Seater</th>
+        <th colspan="2" class="tg-0lax">&gt;30 Seater</th>
+      </tr>
+      <tr>
+        <th class="tg-0lax">1 way</th>
+        <th class="tg-0lax">2 way</th>
+        <th class="tg-0lax">1 way</th>
+        <th class="tg-0lax">2 way</th>
+        <th class="tg-0lax">1 way</th>
+        <th class="tg-0lax">2 way</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-0lax">Up to 2km</td>
+        <td class="tg-0lax">$170/-</td>
+        <td class="tg-0lax">$180/-</td>
+        <td class="tg-0lax">$150/-</td>
+        <td class="tg-0lax">$160/-</td>
+        <td class="tg-0lax">$140/-</td>
+        <td class="tg-0lax">$150/-</td>
+      </tr>
+      <tr>
+        <td class="tg-0lax">&gt;2 - 4km</td>
+        <td class="tg-0lax">$210/-</td>
+        <td class="tg-0lax">$220/-</td>
+        <td class="tg-0lax">$210/-</td>
+        <td class="tg-0lax">$220/-</td>
+        <td class="tg-0lax">$200/-</td>
+        <td class="tg-0lax">$210/-</td>
+      </tr>
+      <tr>
+        <td class="tg-0lax">&gt;4 - 6km</td>
+        <td class="tg-0lax">$220/-</td>
+        <td class="tg-0lax">$230/-</td>
+        <td class="tg-0lax">$220/-</td>
+        <td class="tg-0lax">$230/-</td>
+        <td class="tg-0lax">$210/-</td>
+        <td class="tg-0lax">$220/-</td>
+      </tr>
+    </tbody>
+    </table>
 		</td>
   </tr>
   <tr>
