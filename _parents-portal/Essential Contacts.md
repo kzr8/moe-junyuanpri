@@ -72,7 +72,6 @@ Essential Contacts
     <td class="tg-q0tg"><span style="color:#FFF;background-color:#E8AB38">-</span></td>
     <td class="tg-nqk2"><span style="color:#FFF;background-color:#E8AB38">Bedok Transport</span><br><span style="color:#FFF;background-color:#E8AB38">Pte Ltd</span><br><span style="color:#FFF;background-color:#E8AB38">32 Defu Lane</span><br><span style="color:#FFF;background-color:#E8AB38">Singapore 539272</span></td>
     <td class="tg-b6rr"><a href="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u1194/School%20Bus%20Services%202017-2019_Request%20Form%20REVISED.pdf"><span style="text-decoration:underline;color:#A52023">Letter to Parents_School Bus Services _Request Form</span></a><span style="color:#FFF;background-color:#E8AB38"> (Click to download)</span><br><br><a href="https://junyuanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u1194/Letter%20to%20Parents_School%20Bus%20Services%202017_FINAL%20(1).pdf"><span style="text-decoration:underline;color:#A52023">Letter to Parents_School Bus Services</span></a><span style="color:#FFF;background-color:#E8AB38"> (Click to download)</span><br><br>Details of School Bus Fare
-		
 		</td>
   </tr>
   <tr>
