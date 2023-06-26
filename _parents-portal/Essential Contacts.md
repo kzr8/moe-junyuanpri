@@ -82,7 +82,7 @@ Essential Contacts
     .tg .tg-9wq8{border-color:inherit;text-align:center;vertical-align:middle}
     .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
     </style>
-    <table class="tg">
+    <table class="tg-r6xn">
     <thead>
       <tr>
         <th rowspan="2" class="tg-9wq8">Distance</th>
