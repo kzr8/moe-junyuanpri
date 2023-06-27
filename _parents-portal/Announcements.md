@@ -17,7 +17,7 @@ We would like to invite you to join us for Junyuan Primary School’s Virtual Op
 <font color="Blue">**UPDATES**<br>
 Please join us via this zoom link (https://moe-singapore.zoom.us/j/83827578807) <br>
 Meeting ID: **838 2757 8807** <br>
-Passcode will be sent via email registered in the below link** </font>
+Passcode will be sent via email registered </font>
 
 You may register using QR code or via this link&nbsp;[https://go.gov.sg/jyps-virtual-open-hse](https://go.gov.sg/jyps-virtual-open-hse).  
 We look forward to your registration.
