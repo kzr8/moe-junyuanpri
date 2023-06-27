@@ -129,6 +129,47 @@ Essential Contacts
       </tr>
     </tbody>
     </table>
+			<br>  
+			Bus Services for after school activities (i.e., sending students home from school after supplementary lessons / enrichment programmes and Co-Curricular Activities)<br>
+            <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:2px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-9wq8{border-color:inherit;text-align:center;vertical-align:middle}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    </style>
+    <table class="tg-r6xn" style="background-color:#FFFFFF">
+    <thead>
+      <tr>
+        <th class="tg-c3ow">Distance</th>
+        <th class="tg-c3ow">Up to 15 Seater</th>
+        <th class="tg-c3ow">&gt;15-30 Seater</th>
+        <th class="tg-c3ow">&gt;30 Seater</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-c3ow">Up to 2km</td>
+        <td class="tg-c3ow">$180/-</td>
+        <td class="tg-c3ow">$160/-</td>
+        <td class="tg-c3ow">$150/-</td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow">&gt;2 - 4km</td>
+        <td class="tg-c3ow">$210/-</td>
+        <td class="tg-c3ow">$220/-</td>
+        <td class="tg-c3ow">$210/-</td>
+        </tr>
+      <tr>
+        <td class="tg-c3ow">&gt;4 - 6km</td>
+        <td class="tg-c3ow">$220/-</td>
+        <td class="tg-c3ow">$230/-</td>
+        <td class="tg-c3ow">$220/-</td>
+        </tr>
+    </tbody>
+    </table>
 		</span></td>
   </tr>
   <tr>
