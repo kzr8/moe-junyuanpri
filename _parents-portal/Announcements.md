@@ -14,9 +14,9 @@ Dear Parents,
   
 We would like to invite you to join us for Junyuan Primary School’s Virtual Open House 2023 on Friday, 30 June 2023 from 2.30pm to 4.00pm.
 
-<font color="Blue">**UPDATES**<br>
+<font color="Blue">UPDATES<br>
 Please join us via this zoom link (https://moe-singapore.zoom.us/j/83827578807) <br>
-Meeting ID: **838 2757 8807** <br>
+Meeting ID: 838 2757 8807 <br>
 Passcode will be sent via email registered </font>
 
 You may register using QR code or via this link&nbsp;[https://go.gov.sg/jyps-virtual-open-hse](https://go.gov.sg/jyps-virtual-open-hse).  
