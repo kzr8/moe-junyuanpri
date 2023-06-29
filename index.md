@@ -11,5 +11,5 @@ sections:
       key_highlights:
         - title: Announcements
           description: School Bus Advertisement
-          url: /parents-portal/Essential Contacts/School Bus Advertisement/
+          url: /parents-portal/essential-contacts/school-bus-advertisement/
 ---
