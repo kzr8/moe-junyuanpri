@@ -2,6 +2,7 @@ collections:
   parents-portal:
     output: true
     order:
+      - Essential Contacts/.keep
       - Announcements.md
       - JYPS Bulletin.md
       - Essential Contacts.md
