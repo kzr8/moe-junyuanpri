@@ -10,6 +10,6 @@ sections:
       background: /images/Homepage.gif
       key_highlights:
         - title: Announcements
-          description: 30 June 2023 | Virtual Open House
-          url: /parents-portal/Announcements/
+          description: School Bus Advertisement
+          url: /parents-portal/Essential Contacts/School Bus Advertisement/
 ---
