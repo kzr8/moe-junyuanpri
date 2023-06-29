@@ -4,7 +4,7 @@ permalink: /parents-portal/essential-contacts/permalink/
 description: ""
 third_nav_title: Essential Contacts
 ---
-### School Bus Advertisement
+#### School Bus Advertisement
 
 To apply, please refer to the Service Requirements and the Application Procedure below.
 
