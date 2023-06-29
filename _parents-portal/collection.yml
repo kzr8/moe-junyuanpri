@@ -2,10 +2,10 @@ collections:
   parents-portal:
     output: true
     order:
-      - Essential Contacts/Essential Contacts.md
-      - Essential Contacts/.keep
       - Announcements.md
       - JYPS Bulletin.md
+      - Essential Contacts/.keep
+      - Essential Contacts/Essential Contacts.md
       - Downloads & Links.md
       - Parents' Guide to HBL or Online Learning.md
       - Methodist Welfare Services Family Support Programme.md
@@ -21,11 +21,11 @@ collections:
       - PSG.md
       - Health Promotion Board (HPB) Resources.md
       - Financial Assistance Scheme (FAS).md
+      - Transition to Secondary School/.keep
       - Transition to Secondary School/My Secondary School Education Journey.md
       - Transition to Secondary School/2022 E Invitations from Secondary
         Schools.md
       - Transition to Secondary School/2022 Direct Schools Admission for
         secondary schools (DSA Sec).md
       - Transition to Secondary School/Stay In Touch.md
-      - Transition to Secondary School/.keep
       - Parents' Guide Book for Primary School Mother Tongue Curriculum.md
