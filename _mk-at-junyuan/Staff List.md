@@ -39,7 +39,7 @@ Staff List
     <td class="tg-1jrd"><span style="text-decoration:underline;color:#A52023">rasyidah_rosdi@moe.edu.sg</span><br></td>
   </tr>
   <tr>
-    <td class="tg-ncov"> Miss Insyirah Arissa Binte Iskandar</td>
+    <td class="tg-ncov"> Ms Insyirah Arissa Binte Iskandar</td>
     <td class="tg-ncov"> K1 English Language Teacher</td>
     <td class="tg-ncov"> <span style="text-decoration:underline;color:#A52023">insyirah_arissa_iskandar@moe.edu.sg</span></td>
   </tr>
