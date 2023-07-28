@@ -15,4 +15,4 @@ JYPS Bulletin
 [March](/files/march2023.pdf)<br>
 [April](/files/april12023.pdf) ([Mozzie Wipeout](/files/april22023.pdf)&nbsp;&amp;&nbsp;[Mozzie Wipeout Checklist](/files/april32023.pdf))<br>
 [May](/files/may_bulletin_2023_for%20circulation_updated.pdf)<br>
-[June/July](/files/june-july_bulletin_2023_for%20circulation.pdf)
+[June/July](/files/june-july_bulletin_2023_for%20circulation.pdf)<br>
