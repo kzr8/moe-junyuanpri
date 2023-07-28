@@ -10,6 +10,6 @@ sections:
       background: /images/Homepage.gif
       key_highlights:
         - title: Announcements
-          description: ""
-          url: ""
+          description: MOE Edusave Character Award (ECHA)
+          url: /departments/cce/echa/
 ---
