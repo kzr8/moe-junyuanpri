@@ -16,3 +16,4 @@ JYPS Bulletin
 [April](/files/april12023.pdf) ([Mozzie Wipeout](/files/april22023.pdf)&nbsp;&amp;&nbsp;[Mozzie Wipeout Checklist](/files/april32023.pdf))<br>
 [May](/files/may_bulletin_2023_for%20circulation_updated.pdf)<br>
 [June/July](/files/june-july_bulletin_2023_for%20circulation.pdf)<br>
+[August](/files/august_bulletin_2023_for%20circulation.pdf) ([HPB Event Registration Guide](/files/hpb%20event%20registration%20guide.pdf))
