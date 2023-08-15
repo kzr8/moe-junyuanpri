@@ -6,8 +6,8 @@ third_nav_title: National Education (NE) Show
 ---
 ![](/images/banner.gif)
 
-National Education (NE) Show
-============================
+## National Education (NE) Show 2022
+
 
 This year, NE show has a special meaning to our school’s P5 students. After two years of non-Learning Journey outside school, finally they were out there, sitting on the benches of the Float @Marina on 9 July, to appreciate the significance of various components of the National Day celebrations of NDP 2022.&nbsp;They felt so honoured to be present for this event since this is the final time the parade will be held at the Float before construction of NS Square. Though our P5 students watched the Parade under the hot July sun, such hot conditions failed to deter our students in joining enthusiastically with the emcees of the Parade in the singing of the National Songs. They cheered with pride as they watched the grand landing of the Red Lions on the parade square. Their confidence in the future of Singapore were boosted to a greater height as they watched the segment that showcases an array of technologically advanced assets from the SAF, RSN and RSAF being demonstrated in the sea rescue. For this year, first time ever, there was a demonstration of the Singapore Armed Forces’ special forces rescuing hostages from a hijacked bus.&nbsp;Amidst the excitement, our students also became appreciative and grateful while watching five-chapter Show which featured the meaningful contributions made by the different sectors of society, to enable Singapore to weather the pandemic. Before the finale, both teachers and students watched mesmerised as dancers donned in colourful costumes took centre stage to celebrate Singapore’s diverse and vibrant society. At the finale, besides being fascinated by the spectacular Fireworks, our students waved their national flags and sang this year theme song “Stronger Together”with gusto. Through this NE show in preparation to celebrate our Nation’s 57th&nbsp;birthday, our students realised that they can join with the rest of Singaporeans&nbsp;to forge ahead as a united and strong people towards a better future, indeed “Stronger Together, Majulah”.
 
