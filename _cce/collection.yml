@@ -2,7 +2,7 @@ collections:
   cce:
     output: true
     order:
-      - National Education (NE) Show/National Education (NE) Show.md
+      - National Education (NE) Show/2022.md
       - National Education (NE) Show/.keep
       - Character & Citizenship Education.md
       - Total Defence Day (TDD)/.keep
