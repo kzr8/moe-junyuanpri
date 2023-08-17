@@ -2,6 +2,7 @@ collections:
   cce:
     output: true
     order:
+      - Racial Harmony Day (RHD)/Racial Harmony Day (RHD).md
       - Racial Harmony Day (RHD)/.keep
       - Character & Citizenship Education.md
       - Total Defence Day (TDD)/.keep
