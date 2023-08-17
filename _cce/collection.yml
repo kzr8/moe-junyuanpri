@@ -2,8 +2,6 @@ collections:
   cce:
     output: true
     order:
-      - Racial Harmony Day (RHD)/Racial Harmony Day (RHD).md
-      - Racial Harmony Day (RHD)/.keep
       - Character & Citizenship Education.md
       - Total Defence Day (TDD)/.keep
       - Total Defence Day (TDD)/2023.md
@@ -14,8 +12,10 @@ collections:
       - International Friendship Day/2023.md
       - International Friendship Day/2021.md
       - International Friendship Day/2019.md
-      - National Education (NE) Show/2023.md
+      - Racial Harmony Day (RHD)/.keep
+      - Racial Harmony Day (RHD)/Racial Harmony Day (RHD).md
       - National Education (NE) Show/.keep
+      - National Education (NE) Show/2023.md
       - National Education (NE) Show/2022.md
       - National Day (ND) Celebrations/.keep
       - National Day (ND) Celebrations/2022.md
