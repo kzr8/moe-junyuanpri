@@ -6,23 +6,14 @@ third_nav_title: Racial Harmony Day (RHD)
 ---
 ![](/images/banner.gif)
 
-Racial Harmony Day (RHD)
-========================
+## Racial Harmony Day (RHD) 2023
 
-The theme for this year’s Racial Harmony Day (RHD) is&nbsp;<i>The Singapore Connection</i>. On 18, 19 and 22 July, JYPS offered opportunities during recess for students to be connected as Singaporeans through play. Game booths were set up in Junyuan Village as fringe activities to commemorate this year’s Racial Harmony Day. For those three days, students strengthened their peer relationships through a wide range of traditional games such as&nbsp;<i>kuti kuti</i>, paper balls, hopscotch,&nbsp;<i>chapteh</i>, pick-up sticks, tops and&nbsp;<i>congkak</i>. Students also learnt how to play Cat’s Cradle, otherwise known as the Patterned String Game, a rather challenging game which involves looping a string between fingers to create patterns. At the Heritage Photo Booth, students were given opportunities to try on different ethnic attires and strike poses, preserving precious memories.&nbsp;  
+Our school commemorates this year’s Racial Harmony Day (RHD) over two days with a special skit and  fringe activities facilitated by P4 Form Teachers, parent volunteers from the Parent Support Group and   and CCE Ambassadors. On 20 and 21 July, students from different cultures interacted with one another through play, in song and at crafts.
 
-  
+The commemoration started out with a skit “Not everything is just song and dance!” performed by our talents from our CCA Drama Club during Mass Assembly. The skit told a story about how two different groups of students in a school decided to put aside their differences and come together to give a rousing concert to celebrate Teachers’ Day. Our students were enthralled by the student actors’ performance to entrench the importance of shared values of diversity and inclusivity. It was also very heartwarming to see a P5 class prepared a banner and cheered loudly for one of their classmates who performed this skit on stage. It showed the strength of their friendship within the class.
 
-To entrench the shared values of diversity and inclusivity, our students watched a skit, “Raju And the Mixed-Up Washing” during mass assembly, as well as treated to a repertoire of heritage songs performed by talented musicians from our Pioneer and&nbsp;<i>Merdeka</i>&nbsp;generations.&nbsp;
+During recess, students strengthened their relationships with their peers through “Let’s Play Play Together” in the Basketball Court featuring  traditional games such as gasing, hopscotch and _chapteh;_ as well as traditional table games such as _kuti kuti_ and five stones in the canteen. At the Puzzle-making Booth in the canteen, students worked in pairs to piece together a puzzle “Let’s Make Make Together” centered on the RHD theme “Our Multicultural Mosaic”. Many students clamoured to  participate in online quiz “Who wants to be a Singaporeaire?” at JY Village to tease out their knowledge of the different traditional food that originated from the different ethnic groups living in Singapore. Students also queued up to get their hands hennaed to the shapes of flowers, geometric shapes and even the occasional Spiderman. And for the first time in Junyuan Primary School, a KTV booth “Let’s Sing Sing Together” was set up. Students linked arms and crowded around the booth to wabble heartily the different Singapore songs with their friends. Echos of “Chan Mali Chan”, “Munnaeru Vaalibaa”, “Xi Shui Chang Liu” and of course the evergreen “Home”, reverberated throughout the walls of the school.
 
-  
+Indeed, students’ multicultural bond deepened as they paired up or teamed up with their schoolmates from different ethnic groups to participate in these RHD fringe activities.
 
-On the last day of the fringe activities, students from Suzhou, who were in our school for a school immersion, also participated in the traditional games. While immersed in playing the games such as&nbsp;<i>congkak</i>&nbsp;with their P5 buddies, they marvelled at how JYPS students from different ethnic groups played happily with one another at the various games booths. Indeed, we are glad we are able to share with them our Singapore Spirit and the JYPS’s spirit of “We are One”.
-
-![](/images/RHD1.png)
-
-<figure><img src="/images/RHD2.png" style="width:100%"><figcaption> We are One!</figcaption></figure>
-
-<figure><img src="/images/RHD3.jpeg" style="width:100%"><figcaption> Cat's Cradle: don't let go the string!</figcaption></figure>
-
-<figure><img src="/images/RHD4.jpeg" style="width:100%"><figcaption> Let's Kuti Kuti together!</figcaption></figure>
+![](/images/2023_website_cce_rhd_pic%201.jpeg)
