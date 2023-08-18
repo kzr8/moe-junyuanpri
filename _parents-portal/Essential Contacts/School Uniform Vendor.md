@@ -10,7 +10,7 @@ third_nav_title: Essential Contacts
 | **Contact No:**    | 6743 6645 / 67447084     |      |
 | **Email:**  |[info@beauvoix.com.sg](mailto:info@beauvoix.com.sg) | |
 | **Website:**    | [www.beauvoix.com](http://www.beauvoix.com/)    |      |
-|**Operating Hours:**  | Monday to Friday <br> 730am to 3.00pm<br><br> Open to Parents <br> 2.00pm to 3.00pm     |     |
+|**Operating Hours:**  | Monday to Friday <br> 7.30am to 3.00pm<br><br> Open to Parents <br> 2.00pm to 3.00pm     |     |
 |
 
 Alternatively, you may make your purchase online through Beau Voix's website or at their office in Sims Close.  
