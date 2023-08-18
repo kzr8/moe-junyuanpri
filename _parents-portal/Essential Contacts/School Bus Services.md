@@ -16,7 +16,7 @@ third_nav_title: Essential Contacts
 **Period: 1 Jan 2023 to 31 Dec 2023** <br>
 Daily School Bus Services based on Not to Exceed Price (i.e. for sending students from home to school and vice versa)
 
- <table class="tg-r6xn" style="background-color:#FFFFFF">
+ <table class="tg-r6xn" border="2px solid slateblue" style="background-color:#FFFFFF">
     <thead>
       <tr>
         <th class="tg-9wq8" rowspan="2">Distance</th>
