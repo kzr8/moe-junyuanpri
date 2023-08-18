@@ -4,16 +4,12 @@ permalink: /parents-portal/essential-contacts/school-bookshop/
 description: ""
 third_nav_title: Essential Contacts
 ---
-
-
-
-
 | **Name:** | Pacific Bookstores Pte Ltd |  |
 | -------- | -------- | -------- |
 | **Address:**    | 14 Arumugam Road #08-01 <br>  LTC Building C Singapore 409959Text     |     |
 | **Contact No:**    | (65) 6464 0111     |      |
 | **Website:**    | [http://www.pacificbookstores.com](http://www.pacificbookstores.com/)     |      |
-|**Operating Hours:**  | Monday to Friday <br> 730am to 3.00pm<br><br> Open to Parents <br> 2.00pm to 3.00pm     |     |
+|**Operating Hours:**  | Monday to Friday <br> 7.30am to 3.00pm<br><br> Open to Parents <br> 2.00pm to 3.00pm     |     |
 |
 
 
