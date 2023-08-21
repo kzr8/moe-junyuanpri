@@ -63,3 +63,39 @@ Daily School Bus Services based on Not to Exceed Price (i.e. for sending student
       </tr>
     </tbody>
     </table>
+		
+		
+**Period: 1 Jan 2024 to 31 Dec 2025** <br>
+Daily School Bus Services based on Not to Exceed Price (i.e. for sending students from home to school and vice versa)
+
+ <table class="tg-r6xn" style="background-color:#FFFFFF; border:2px solid black">
+    <thead>
+      <tr>
+        <th class="tg-9wq8" rowspan="2" style="border:2px solid black; background-color:#F8CBAD">Distance</th>
+        <th class="tg-c3ow" colspan="2" style="border:2px solid black; background-color:#F8CBAD">Up to 15 Seater</th>
+        <th class="tg-c3ow" colspan="2" style="border:2px solid black; background-color:#F8CBAD">&gt;15-30 Seater</th>
+      </tr>
+      <tr>
+        <th class="tg-c3ow" style="border:2px solid black; background-color:#F8CBAD">1 way</th>
+        <th class="tg-c3ow" style="border:2px solid black; background-color:#F8CBAD">2 way</th>
+        <th class="tg-c3ow" style="border:2px solid black; background-color:#F8CBAD">1 way</th>
+        <th class="tg-c3ow" style="border:2px solid black; background-color:#F8CBAD">2 way</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-c3ow" style="border:2px solid black">Up to 2km</td>
+        <td class="tg-c3ow" style="border:2px solid black">$190/-</td>
+        <td class="tg-c3ow" style="border:2px solid black">$200/-</td>
+        <td class="tg-c3ow" style="border:2px solid black">$170/-</td>
+        <td class="tg-c3ow" style="border:2px solid black">$180/-</td>
+      </tr>
+      <tr>
+        <td class="tg-c3ow" style="border:2px solid black">&gt;2 - 4km</td>
+        <td class="tg-c3ow" style="border:2px solid black">$230/-</td>
+        <td class="tg-c3ow" style="border:2px solid black">$240/-</td>
+        <td class="tg-c3ow" style="border:2px solid black">$230/-</td>
+        <td class="tg-c3ow" style="border:2px solid black">$240/-</td>
+      </tr>
+    </tbody>
+    </table>
