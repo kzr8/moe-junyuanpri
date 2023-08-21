@@ -14,7 +14,7 @@ third_nav_title: Essential Contacts
 
 
 **Period: 1 Jan 2023 to 31 Dec 2023** <br>
-Daily School Bus Services based on Not to Exceed Price (i.e. for sending students from home to school and vice versa)
+<u>Daily School Bus Services based on Not to Exceed Price (i.e. for sending students from home to school and vice versa)</u>
 
  <table class="tg-r6xn" style="background-color:#FFFFFF; border:2px solid black">
     <thead>
@@ -72,7 +72,7 @@ Daily School Bus Services based on Not to Exceed Price (i.e. for sending student
 
 		
 **Period: 1 Jan 2024 to 31 Dec 2025** <br>
-Daily School Bus Services based on Not to Exceed Price (i.e. for sending students from home to school and vice versa)
+<u>Daily School Bus Services based on Not to Exceed Price (i.e. for sending students from home to school and vice versa)</u>
 
  <table class="tg-r6xn" style="background-color:#FFFFFF; border:2px solid black">
     <thead>
@@ -106,7 +106,7 @@ Daily School Bus Services based on Not to Exceed Price (i.e. for sending student
     </tbody>
     </table>
 		
-Bus Services for after school activities (i.e. sending students from school after supplementary lessons / enrichment programmes and co-curricular activities) departure before 4pm
+<u>Bus Services for after school activities (i.e. sending students from school after supplementary lessons / enrichment programmes and co-curricular activities) departure before 4pm</u>
 
  <table class="tg-r6xn" style="background-color:#FFFFFF; border:2px solid black">
     <thead>
