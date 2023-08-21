@@ -111,9 +111,9 @@ Bus Services for after school activities (i.e. sending students from school afte
  <table class="tg-r6xn" style="background-color:#FFFFFF; border:2px solid black">
     <thead>
       <tr>
-        <th class="tg-9wq8" rowspan="2" style="border:2px solid black; background-color:#F8CBAD">Distance</th>
-        <th class="tg-c3ow" colspan="1" style="border:2px solid black; background-color:#F8CBAD">Up to 15 Seater</th>
-        <th class="tg-c3ow" colspan="1" style="border:2px solid black; background-color:#F8CBAD">&gt;15 Seater</th>
+        <th class="tg-9wq8" style="border:2px solid black; background-color:#F8CBAD">Distance</th>
+        <th class="tg-c3ow" style="border:2px solid black; background-color:#F8CBAD">Up to 15 Seater</th>
+        <th class="tg-c3ow" style="border:2px solid black; background-color:#F8CBAD">&gt;15 Seater</th>
       </tr>
     </thead>
     <tbody>
