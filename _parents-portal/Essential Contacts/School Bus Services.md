@@ -62,9 +62,8 @@ third_nav_title: Essential Contacts
         <td class="tg-c3ow" style="border:2px solid black">$220/-</td>
       </tr>
     </tbody>
-    </table><br>
+    </table>
 		
-
 
 |  |  |  |
 | -------- | -------- | -------- |
