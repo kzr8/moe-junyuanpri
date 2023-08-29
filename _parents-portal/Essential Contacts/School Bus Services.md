@@ -65,7 +65,6 @@ Daily School Bus Services based on Not to Exceed Price (i.e. for sending student
     </table><br>
 		
 
-
 #### **Period: 1 Jan 2024 to 31 Dec 2025** <br>
 Daily School Bus Services based on Not to Exceed Price (i.e. for sending students from home to school and vice versa)
 
@@ -99,7 +98,7 @@ Daily School Bus Services based on Not to Exceed Price (i.e. for sending student
         <td class="tg-c3ow" style="border:2px solid black">$240/-</td>
       </tr>
     </tbody>
-    </table>
+</table><br>
 		
 
 Bus Services for after school activities (i.e. sending students from school after supplementary lessons / enrichment programmes and co-curricular activities) departure before 4pm
