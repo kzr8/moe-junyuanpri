@@ -13,6 +13,9 @@ General Office Operating Hours 
 School Days  
 7:30am to 5:30pm (Monday to Friday)   
   
+Eat With Your Family Day (EWYFD)
+7.30am to 4.30pm (Last Friday of Each School Term)
+
 School Holidays  
 8:00am to 5:00pm (Monday to Friday)  
   
