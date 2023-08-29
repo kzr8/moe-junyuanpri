@@ -11,5 +11,5 @@ sections:
       key_highlights:
         - title: Announcements
           description: General Office closes at 2pm on 31 Aug 2023
-          url: /about-us/Contact-Us/
+          url: ""
 ---
