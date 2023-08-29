@@ -75,6 +75,10 @@ EAS &amp; Support Staff
     <td class="tg-0lj4"> Mdm Cynthia Lee Ling Ling </td>
     <td class="tg-0lj4"> ICT Manager<br></td>
   </tr>
+	<tr>
+    <td class="tg-0lj4"> Mr Emerson Gimenez Tan </td>
+    <td class="tg-0lj4"> ICT Executive<br></td>
+  </tr>
   <tr>
     <td class="tg-0lj4"> Mr Low Jun Xian</td>
     <td class="tg-0lj4"> Desktop Engineer<br></td>
