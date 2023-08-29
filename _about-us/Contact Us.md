@@ -14,7 +14,7 @@ School Days
 7:30am to 5:30pm (Monday to Friday)&nbsp;  
   
 Eat With Your Family Day (EWYFD) <br>
-7.30am to 4.30pm (Last Friday of Each School Term)
+7.30am to 5.00pm (Last Friday of each School Term)
 
 School Holidays  
 8:00am to 5:00pm (Monday to Friday)  
