@@ -10,6 +10,6 @@ sections:
       background: /images/Homepage.gif
       key_highlights:
         - title: Announcements
-          description: MOE Edusave Character Award (ECHA)
+          description: 31Aug General Office close @ 2pm.
           url: /departments/cce/echa/
 ---
