@@ -100,7 +100,8 @@ Daily School Bus Services based on Not to Exceed Price (i.e. for sending student
       </tr>
     </tbody>
     </table>
-		<br>
+		
+
 Bus Services for after school activities (i.e. sending students from school after supplementary lessons / enrichment programmes and co-curricular activities) departure before 4pm
 
  <table class="tg-r6xn" style="background-color:#FFFFFF; border:2px solid black">
