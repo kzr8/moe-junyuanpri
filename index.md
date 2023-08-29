@@ -10,6 +10,6 @@ sections:
       background: /images/Homepage.gif
       key_highlights:
         - title: Announcements
-          description: 31Aug General Office closes at 2pm.
-          url: /departments/cce/echa/
+          description: General Office closes at 2pm on 31 Aug 2023
+          url: /about-us/contact-us/
 ---
