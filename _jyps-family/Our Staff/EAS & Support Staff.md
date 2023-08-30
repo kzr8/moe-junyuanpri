@@ -43,6 +43,10 @@ EAS &amp; Support Staff
     <td class="tg-0lj4"> Mdm Lai Sook Ling Cindy </td>
     <td class="tg-0lj4"> Corporate Support Officer </td>
   </tr>
+	<tr>
+    <td class="tg-0lj4"> Mdm Paridah Binte Yahya </td>
+    <td class="tg-0lj4"> Corporate Support Officer </td>
+  </tr>
   <tr>
     <td class="tg-0lj4"> Mdm Lee Li Juin</td>
     <td class="tg-0lj4"> Operations Manager </td>
@@ -71,9 +75,9 @@ EAS &amp; Support Staff
     <td class="tg-0lj4"> Mdm Cynthia Lee Ling Ling </td>
     <td class="tg-0lj4"> ICT Manager<br></td>
   </tr>
-  <tr>
-    <td class="tg-0lj4"> Mr Emerson G. Tan</td>
-    <td class="tg-0lj4"> ICT Executive</td>
+	<tr>
+    <td class="tg-0lj4"> Mr Emerson Gimenez Tan </td>
+    <td class="tg-0lj4"> ICT Executive<br></td>
   </tr>
   <tr>
     <td class="tg-0lj4"> Mr Low Jun Xian</td>

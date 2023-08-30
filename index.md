@@ -10,6 +10,6 @@ sections:
       background: /images/Homepage.gif
       key_highlights:
         - title: Announcements
-          description: MOE Edusave Character Award (ECHA)
-          url: /departments/cce/echa/
+          description: General Office closes at 2pm on 31 Aug 2023
+          url: ""
 ---
