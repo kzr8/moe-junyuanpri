@@ -148,7 +148,7 @@ Student are not allowed to cycle to school for safety reasons.  Students who cyc
 
 #### 2 Safe Routes for Vehicles
 
-All drivers to the school are to adhere to the traffic rules and regulations as stipulated under the ‘Policies for vehicles coming into and exiting schools during dry days and rainy days. The details of how vehicles come into and exit schools are stated in ‘Annex B’ as follows:<br>
+All drivers to the school are to adhere to the traffic rules and regulations as stipulated under the ‘Policies for vehicles coming into and exiting schools during dry days and rainy days. The details of how vehicles come into and exit schools are stated in  as follows:<br>
 •	Staff vehicles enter from Main Gate 1 and turn left to the designated carpark lots / turn right to the designated carpark lots.<br>
 •	Visitor vehicles enter from Main Gate 1 and turn left to the designated visitor lots.<br>
 •	Parent vehicles enter from Main Gate 1 and turn right towards the bus bay.<br>
@@ -157,7 +157,7 @@ All drivers to the school are to adhere to the traffic rules and regulations as 
 
 #### 3	Safe Routes for Pedestrians
 
-All pedestrians are to adhere to the stipulated ‘Policies for pedestrians coming into and exiting school’. Students are to use the safe route as shown in ‘Annex B’. Pedestrians enter and exit the school via the sheltered walkways at Side Gate 1 and Side Gate 2. Pedestrians who enter via Side Gate 1 are to use the pedestrian crossing to enter the school building. Pedestrians are reminded through signage ’Beware of Incoming Traffic While Crossing’ to look out for incoming vehicles when they cross the Main Gate. The details of how pedestrians come into and exit school are in ‘Annex B’.
+All pedestrians are to adhere to the stipulated ‘Policies for pedestrians coming into and exiting school’. Students are to use the safe route as shown in [‘Annex B’](/files/annex%20b.pdf). Pedestrians enter and exit the school via the sheltered walkways at Side Gate 1 and Side Gate 2. Pedestrians who enter via Side Gate 1 are to use the pedestrian crossing to enter the school building. Pedestrians are reminded through signage ’Beware of Incoming Traffic While Crossing’ to look out for incoming vehicles when they cross the Main Gate. The details of how pedestrians come into and exit school are in .
 
 #### 4	Safe Routes for Cyclists 
 
