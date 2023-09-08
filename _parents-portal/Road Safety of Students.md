@@ -40,7 +40,7 @@ Arrival / Dismissal from School<br>
 •	Use Side Gate 1 (along Tampines St 91) or Side Gate 2 (along Tampines Ave 4) when coming into or leaving the school.<br>
 •	Walk ONLY on footpaths whenever possible.<br>
 •	Use Pedestrian Crossings such as signalised pedestrian crossings, overhead bridges and zebra crossings to cross roads safely.<br>
-•	Students walking to the school from SPC petrol station are advised NOT to cross at the junction of Tampines St 91 and Tampines Ave 4 (in-front of SPC petrol station).  They should walk along the footpath and use the signalised pedestrian crossing at Block 915 Tampines Street 91 to enter the school through Side Gate 1 as shown in ['ANNEX C']().
+•	Students walking to the school from SPC petrol station are advised NOT to cross at the junction of Tampines St 91 and Tampines Ave 4 (in-front of SPC petrol station).  They should walk along the footpath and use the signalised pedestrian crossing at Block 915 Tampines Street 91 to enter the school through Side Gate 1 as shown in ['ANNEX C'](/files/annex%20c_%20safe%20_routes%20__parents%20portal_2023.pdf).
 
 
 There are designated gates for dismissal for different levels at staggered timing as follows:
