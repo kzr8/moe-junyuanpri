@@ -3,20 +3,16 @@ title: Road Safety of Students
 permalink: /parents-portal/road-safety-students/
 description: ""
 ---
-#### 1. Road Safety of Students 
+##### 1. Road Safety of Students 
 
-##### 1.1 Please refer to the letter dated 1 March 2021 on ‘Road Safety of Students’ [(ANNEX A)](/files/annex%20a%20_letter%20to%20parents_road%20safety.pdf)
+###### 1.1 Please refer to the letter dated 1 March 2021 on ‘Road Safety of Students’ [(ANNEX A)](/files/annex%20a%20_letter%20to%20parents_road%20safety.pdf)
 
-1.2 Policies for vehicles coming into and exiting schools during dry days and rainy days. 
-
-Vehicular movement within the school is restricted during assembly and dismissal periods. The school’s car park lots are strictly for season parking holders only. Parents are not allowed to park their vehicles in the school’s parking lots. Visitors such as MOE personnel on official business are allowed to park in the designated parking lots for visitors. Security guards are deployed as traffic marshals to direct cars coming into schools to drop off students in the morning before school. 
-
+###### 1.2 Policies for vehicles coming into and exiting schools during dry days and rainy days.<br>
+Vehicular movement within the school is restricted during assembly and dismissal periods. The school’s car park lots are strictly for season parking holders only. Parents are not allowed to park their vehicles in the school’s parking lots. Visitors such as MOE personnel on official business are allowed to park in the designated parking lots for visitors. Security guards are deployed as traffic marshals to direct cars coming into schools to drop off students in the morning before school. <br>
 Motorists are to adhere to the 15 km/hr speed limit in the school premises. All motorists are reminded to slow down when entering or leaving school  The School Zone  requires motorists to drive at a reduced speed limit of 40km/h helps to create a safer road environment for all road users.   
 
-The following measures are implemented to restrict vehicular movements:
-
-a)	Dry days
-
+The following measures are implemented to restrict vehicular movements: <br>
+a)	Dry days <br>
 Designated pick up/drop off (PUDO) points of students are established.  Parents are only allowed to drive into the school before 7.30am to drop-off their children at the PUDO point at the Bus Bay. They are not allowed to drive into the school to pick up students after school dismissal except for reasons such as when the student is unwell or with medical conditions. Parents are required to display a “Drop Off” car label for easy identification by the Security Guards. Parents may apply for the “Drop Off” car label online (https://go.gov.sg/jyps-vehicle-access).They are to display the “Drop-Off” Car Label prominently and drive slowly if they are entering the school compound to drop off their children. 
 
 For the safety of our students, vehicles are not allowed to leave / enter the 
@@ -65,4 +61,4 @@ Students wait at the sheltered waiting area at Side Gate 1 or at the basketball 
 
 1.5 Policies for cyclists 
 
-Student are not allowed to cycle to school for safety reasons.  Students who cycle to school accompanied by their parent / guardian are may park their bicycles at the bicycle shelter at Blk 915 Tampines St 91.  
+Student are not allowed to cycle to school for safety reasons.  Students who cycle to school accompanied by their parent / guardian are may park their bicycles at the bicycle shelter at Blk 915 Tampines St 91.
