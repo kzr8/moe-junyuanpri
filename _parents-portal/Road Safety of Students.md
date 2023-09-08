@@ -57,3 +57,5 @@ Students wait at the sheltered waiting area at Side Gate 1 or at the basketball 
 #### 1.5 Policies for cyclists 
 
 Student are not allowed to cycle to school for safety reasons.  Students who cycle to school accompanied by their parent / guardian are may park their bicycles at the bicycle shelter at Blk 915 Tampines St 91.
+
+#### 1.6 School Gate Opening Hours 2023
