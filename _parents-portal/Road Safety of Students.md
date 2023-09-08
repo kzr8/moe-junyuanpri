@@ -59,3 +59,116 @@ Students wait at the sheltered waiting area at Side Gate 1 or at the basketball 
 Student are not allowed to cycle to school for safety reasons.  Students who cycle to school accompanied by their parent / guardian are may park their bicycles at the bicycle shelter at Blk 915 Tampines St 91.
 
 #### 1.6 School Gate Opening Hours 2023
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-6b69{color:#454545;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-que8{color:#454545;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-6b69" colspan="2">Main Gate 1 and Side Gate 1 (Tampines Street 91)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-que8">Monday to Friday</td>
+    <td class="tg-que8">6.00am to 6.30pm</td>
+  </tr>
+  <tr>
+    <td class="tg-que8">Saturday</td>
+    <td class="tg-que8">7.00am to 1.00pm (for Maintenance Works) </td>
+  </tr>
+</tbody>
+</table>
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-6b69{color:#454545;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-que8{color:#454545;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-6b69" colspan="2">Main Gate 2 (Exiting Gate along Tampines Street 91)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-que8">Monday to Friday</td>
+    <td class="tg-que8">6.15am to 6.30pm [Manual]</td>
+  </tr>
+  <tr>
+    <td class="tg-que8">Saturday</td>
+    <td class="tg-que8">7.00am to 1.00pm (for Maintenance Works) </td>
+  </tr>
+</tbody>
+</table>
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-6b69{color:#454545;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-que8{color:#454545;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-6b69" colspan="2">Side Gate 2 (Tampines Avenue 4)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-que8">Monday to Friday</td>
+    <td class="tg-que8">6.40am to 7.30am</td>
+  </tr>
+  <tr>
+    <td class="tg-que8">Monday to Friday</td>
+    <td class="tg-que8">1.20pm to 1.50pm </td>
+  </tr>
+  <tr>
+    <td class="tg-que8">Monday to Wednesday, Friday</td>
+    <td class="tg-que8">3.25pm to 3.55pm</td>
+  </tr>
+</tbody>
+</table>
+
+#### 2 Safe Routes for Vehicles
+
+All drivers to the school are to adhere to the traffic rules and regulations as stipulated under the ‘Policies for vehicles coming into and exiting schools during dry days and rainy days. The details of how vehicles come into and exit schools are stated in ‘Annex B’ as follows:
+•	Staff vehicles enter from Main Gate 1 and turn left to the designated carpark lots / turn right to the designated carpark lots.
+•	Visitor vehicles enter from Main Gate 1 and turn left to the designated visitor lots.
+•	Parent vehicles enter from Main Gate 1 and turn right towards the bus bay.
+•	After passengers alight at the PUDO point, drivers turn right to leave the school via Main Gate 2.
+•	Road humps are installed inside and outside Main Gates 1 &amp; 2 .
+
+2	Safe Routes for Pedestrians
+
+All pedestrians are to adhere to the stipulated ‘Policies for pedestrians coming into and exiting school’. Students are to use the safe route as shown in ‘Annex B’. Pedestrians enter and exit the school via the sheltered walkways at Side Gate 1 and Side Gate 2. Pedestrians who enter via Side Gate 1 are to use the pedestrian crossing to enter the school building. Pedestrians are reminded through signage ’Beware of Incoming Traffic While Crossing’ to look out for incoming vehicles when they cross the Main Gate. The details of how pedestrians come into and exit school are in ‘Annex B’.
+
+3	Safe Routes for Cyclists 
+
+Students are not allowed to cycle to school. 
+
+4. Deployment of Staff for Traffic Marshal Duties
+
+The school deploys security guards as traffic marshals to direct vehicles coming into the school to drop off/pick up students during peak periods. The school also deploys OSOs and teachers at road crossings within the immediate vicinity outside the school during at arrival and dismissal to reinforce correct road safety behaviour of students. 
+
+5. Curated Resources from Singapore Road Safety Council
+Parents may refer to the following curated resources from Singapore Road Safety Council :
+•	Dropping off and Picking up at Designated points : https://youtu.be/hirrEXiSc6M
+•	Keeping within Speed Limit in School Zone : https://youtu.be/LKTK1hvvQZA
+•	Obeying Traffic Marshalls : https://youtu.be/adQe4gknKZg
