@@ -23,13 +23,13 @@ For pick-up arrangements, parents / guardians are advised to park their vehicles
 b) Rainy days
 The policy during dry days applies for rainy days as well. 
 
-1.3 Policy for vehicles outside the school premises
+##### 1.3 Policy for vehicles outside the school premises
 
 Drivers are to refrain from stopping their vehicles along Tampines Avenue 4 and Tampines Street 91 to alight their passengers. 
 
 
 
-1.4. Policies for pedestrians coming into and exiting school
+##### 1.4. Policies for pedestrians coming into and exiting school
 
 Students are reminded to observe road safety at all times. The safety guidelines for students to take note of as a responsible pedestrian are stated in Student’s Diary 2023. In addition ALL pedestrians are to observe the following:
 •	Students wait for vehicles to come to a complete stop before crossing. 
@@ -59,6 +59,6 @@ Students wait at the sheltered waiting area at Side Gate 1 or at the basketball 
 •	1.30pm to 1.50pm (Mon to Fri)
 •	3.30 p.m. to 3.40 p.m. (Mon to Wed/Fri)
 
-1.5 Policies for cyclists 
+##### 1.5 Policies for cyclists 
 
 Student are not allowed to cycle to school for safety reasons.  Students who cycle to school accompanied by their parent / guardian are may park their bicycles at the bicycle shelter at Blk 915 Tampines St 91.
