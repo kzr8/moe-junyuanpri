@@ -2,7 +2,6 @@ collections:
   parents-portal:
     output: true
     order:
-      - Road Safety of Students.md
       - Announcements.md
       - JYPS Bulletin.md
       - Essential Contacts/.keep
@@ -12,6 +11,7 @@ collections:
       - Essential Contacts/School Dental Clinic.md
       - Essential Contacts/School Uniform Vendor.md
       - Downloads & Links.md
+      - Road Safety of Students.md
       - Parents' Guide to HBL or Online Learning.md
       - Methodist Welfare Services Family Support Programme.md
       - Cyber Wellness.md
