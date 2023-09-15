@@ -146,7 +146,7 @@ Student are not allowed to cycle to school for safety reasons.  Students who cyc
 </tbody>
 </table>
 
-#### 2 Safe Routes for Vehicles
+#### 2. Safe Routes for Vehicles
 
 All drivers to the school are to adhere to the traffic rules and regulations as stipulated under the ‘Policies for vehicles coming into and exiting schools during dry days and rainy days. The details of how vehicles come into and exit schools are stated in  as follows:<br>
 •	Staff vehicles enter from Main Gate 1 and turn left to the designated carpark lots / turn right to the designated carpark lots.<br>
