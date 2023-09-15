@@ -26,10 +26,6 @@ SEN Officers
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lj4"> Mdm Tan Poh Kuan <br> <a href="mailto:tan_poh_kuan@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">tan_poh_kuan@moe.edu.sg</span></a><br></td>
-    <td class="tg-0lj4"> Lead SEN Officer</td>
-  </tr>
-  <tr>
     <td class="tg-0lj4"> Mdm Yee Kai Ling Amanda<br> <a href="mailto:yee_kai_ling_amanda@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">yee_kai_ling_amanda@moe.edu.sg</span></a> </td>
     <td class="tg-0lj4"> SEN Officer </td>
   </tr>
