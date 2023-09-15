@@ -169,6 +169,6 @@ The school deploys security guards as traffic marshals to direct vehicles coming
 
 #### 6. Curated Resources from Singapore Road Safety Council
 Parents may refer to the following curated resources from Singapore Road Safety Council :<br>
-•	Dropping off and Picking up at Designated points : [https://youtu.be/hirrEXiSc6M]<br>
-•	Keeping within Speed Limit in School Zone : https://youtu.be/LKTK1hvvQZA<br>
-•	Obeying Traffic Marshalls : https://youtu.be/adQe4gknKZg
+•	Dropping off and Picking up at Designated points : [https://youtu.be/hirrEXiSc6M](https://youtu.be/hirrEXiSc6M)<br>
+•	Keeping within Speed Limit in School Zone : [https://youtu.be/LKTK1hvvQZA](https://youtu.be/LKTK1hvvQZA)<br>
+•	Obeying Traffic Marshalls : [https://youtu.be/adQe4gknKZg](https://youtu.be/adQe4gknKZg)
