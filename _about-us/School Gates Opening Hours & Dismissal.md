@@ -86,7 +86,7 @@ School Gates Opening Hours &amp; Dismissal
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-6b69" colspan="2">Main Gate 2 (Tampines Avenue 4)</th>
+    <th class="tg-6b69" colspan="2">Side Gate 2 (Tampines Avenue 4)</th>
   </tr>
 </thead>
 <tbody>
