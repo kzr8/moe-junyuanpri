@@ -12,7 +12,7 @@ Vehicular movement within the school is restricted during assembly and dismissal
 Motorists are to adhere to the 15 km/hr speed limit in the school premises. All motorists are reminded to slow down when entering or leaving school  The School Zone  requires motorists to drive at a reduced speed limit of 40km/h helps to create a safer road environment for all road users.   
 
 The following measures are implemented to restrict vehicular movements: <br>
-a)	Dry days <br>
+a)	<b>Dry days</b> <br>
 Designated pick up/drop off (PUDO) points of students are established.  Parents are only allowed to drive into the school before 7.30am to drop-off their children at the PUDO point at the Bus Bay. They are not allowed to drive into the school to pick up students after school dismissal except for reasons such as when the student is unwell or with medical conditions. Parents are required to display a “Drop Off” car label for easy identification by the Security Guards. Parents may apply for the “Drop Off” car label online (https://go.gov.sg/jyps-vehicle-access). They are to display the “Drop-Off” Car Label prominently and drive slowly if they are entering the school compound to drop off their children. <br>
 
 For the safety of our students, vehicles are not allowed to leave / enter the 
@@ -20,7 +20,7 @@ school ground 10 minutes before school dismissal. <u>Only authorised vehicles by
 
 For pick-up arrangements, parents / guardians are advised to park their vehicles at the nearby HDB carpark at Blk 915 Tampines Street 91 and wait for their children outside Side Gate 1.
 
-b) Rainy days<br>
+b) <b>Rainy days</b><br>
 The policy during dry days applies for rainy days as well. 
 
 #### 1.3 Policy for vehicles outside the school premises
@@ -36,7 +36,7 @@ Students are reminded to observe road safety at all times. The safety guidelines
 •	Students do not play/run along the roadside. <br>
 •	Students focus on the traffic. 
 
-Arrival / Dismissal from School<br>
+<b>Arrival / Dismissal from School</b><br>
 •	Use Side Gate 1 (along Tampines St 91) or Side Gate 2 (along Tampines Ave 4) when coming into or leaving the school.<br>
 •	Walk ONLY on footpaths whenever possible.<br>
 •	Use Pedestrian Crossings such as signalised pedestrian crossings, overhead bridges and zebra crossings to cross roads safely.<br>
