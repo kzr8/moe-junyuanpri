@@ -155,11 +155,11 @@ All drivers to the school are to adhere to the traffic rules and regulations as 
 •	After passengers alight at the PUDO point, drivers turn right to leave the school via Main Gate 2.<br>
 •	Road humps are installed inside and outside Main Gates 1 &amp; 2 .
 
-#### 3	Safe Routes for Pedestrians
+#### 3.	Safe Routes for Pedestrians
 
-All pedestrians are to adhere to the stipulated ‘Policies for pedestrians coming into and exiting school’. Students are to use the safe route as shown in ‘Annex B’. Pedestrians enter and exit the school via the sheltered walkways at Side Gate 1 and Side Gate 2. Pedestrians who enter via Side Gate 1 are to use the pedestrian crossing to enter the school building. Pedestrians are reminded through signage ’Beware of Incoming Traffic While Crossing’ to look out for incoming vehicles when they cross the Main Gate. The details of how pedestrians come into and exit school are in [‘Annex B’](/files/annex%20b_road%20safety.pdf).
+All pedestrians are to adhere to the stipulated ‘Policies for pedestrians coming into and exiting school’. Students are to use the safe route as shown in [‘Annex B’](/files/annex%20b_road%20safety.pdf). Pedestrians enter and exit the school via the sheltered walkways at Side Gate 1 and Side Gate 2. Pedestrians who enter via Side Gate 1 are to use the pedestrian crossing to enter the school building. Pedestrians are reminded through signage ’Beware of Incoming Traffic While Crossing’ to look out for incoming vehicles when they cross the Main Gate. The details of how pedestrians come into and exit school are in [‘Annex B’](/files/annex%20b_road%20safety.pdf).
 
-#### 4	Safe Routes for Cyclists 
+#### 4.	Safe Routes for Cyclists 
 
 Students are not allowed to cycle to school. 
 
