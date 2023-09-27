@@ -75,6 +75,10 @@ EAS &amp; Support Staff
     <td class="tg-0lj4"> Mdm Cynthia Lee Ling Ling </td>
     <td class="tg-0lj4"> ICT Manager<br></td>
   </tr>
+	 <tr>
+    <td class="tg-0lj4"> Mr Juhanis Bin Juma'at </td>
+    <td class="tg-0lj4"> ICT Manager<br></td>
+  </tr>
   <tr>
     <td class="tg-0lj4"> Mr Low Jun Xian</td>
     <td class="tg-0lj4"> Desktop Engineer<br></td>
@@ -92,7 +96,7 @@ EAS &amp; Support Staff
     <td class="tg-0lj4"> Library Assistant</td>
   </tr>
   <tr>
-    <td class="tg-0lj4"> Mdm Thulasi Dhanalaximi</td>
+    <td class="tg-0lj4"> Mr Pukalathi</td>
     <td class="tg-0lj4"> Security Guard </td>
   </tr>
   <tr>
