@@ -17,4 +17,5 @@ JYPS Bulletin
 [May](/files/may_bulletin_2023_for%20circulation_updated.pdf)<br>
 [June/July](/files/june-july_bulletin_2023_for%20circulation.pdf)<br>
 [August](/files/august_bulletin_2023_for%20circulation%20updated.pdf) ([HPB Event Registration Guide](/files/hpb%20event%20registration%20guide.pdf), [Addendum to bulletin](/files/addendum%20to%20the%20jyps%20bulletin%20(august%20issue).pdf))<br>
-[September](/files/sep_bulletin_2023_for%20circulation.pdf)
+[September](/files/sep_bulletin_2023_for%20circulation.pdf)<br>
+[October](/files/october_bulletin%20_2023_for%20circulation.pdf)
