@@ -10,6 +10,6 @@ sections:
       background: /images/Homepage.gif
       key_highlights:
         - title: Announcements
-          description: NEW! JYPS September Bulletin
+          description: NEW! JYPS October Bulletin
           url: /parents-portal/JYPS-Bulletin/
 ---
