@@ -29,12 +29,8 @@ School Advisory Committee
     <td class="tg-fwnj">Mr Chan Weng Cheong</td>
   </tr>
   <tr>
-    <td class="tg-fwnj">Treasurer</td>
-    <td class="tg-fwnj">Mr See Weng Lung</td>
-  </tr>
-  <tr>
     <td class="tg-fwnj"><br><br>Members<br></td>
-    <td class="tg-fwnj"><span style="background-color:initial">Mr Lim Wan Xian Dominic</span><br>Mdm Lim Lee Bee<br>Mdm Vivian Tio Bee Hian<br>Mr Heng Wee Shiun <br>Ms Eng Jia Yun<br></td>
+    <td class="tg-fwnj"><span style="background-color:initial">Mr Lim Wan Xian Dominic</span><br>Mdm Lim Lee Bee<br>Mdm Vivian Tio Bee Hian<br>Mr Heng Wee Shiun <br>Ms Eng Jia Yun<br>Mr Goh Hong Yi<br>Mdm Waheeda Rahman</td>
   </tr>
 </tbody>
 </table>
