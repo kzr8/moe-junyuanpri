@@ -24,13 +24,17 @@ School Advisory Committee
   </tr>
 </thead>
 <tbody>
+	 <tr>
+    <td class="tg-fwnj">Vice Chairman</td>
+    <td class="tg-fwnj">Mr Lim Wan Xian Dominic</td>
+  </tr>
   <tr>
     <td class="tg-fwnj">Honorary Secretary (Principal)</td>
     <td class="tg-fwnj">Mr Chan Weng Cheong</td>
   </tr>
   <tr>
     <td class="tg-fwnj"><br><br>Members<br></td>
-    <td class="tg-fwnj"><span style="background-color:initial">Mr Lim Wan Xian Dominic</span><br>Mdm Lim Lee Bee<br>Mdm Vivian Tio Bee Hian<br>Mr Heng Wee Shiun <br>Ms Eng Jia Yun<br>Mr Goh Hong Yi<br>Mdm Waheeda Rahman</td>
+    <td class="tg-fwnj"><span style="background-color:initial">Mdm Lim Lee Bee</span><br>Mdm Vivian Tio Bee Hian<br>Mr Heng Wee Shiun <br>Ms Eng Jia Yun<br>Mr Goh Hong Yi<br>Mdm Waheeda Rahman</td>
   </tr>
 </tbody>
 </table>
