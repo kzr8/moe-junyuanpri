@@ -14,9 +14,9 @@ Downloads &amp; Links
 * [P4 Briefing Slides](/files/p4%20math%20alive%20workshop%20for%20parents%2014%20april%202023%20(for%20school%20website).pdf)
 * [P5 &amp; P6 Briefing Slides](/files/p5%20&amp;%206%20math%20alive!%20workshop%20for%20parents%2031%20march%2023.pdf)
 
-##### **2023 Primary 1 Matters&nbsp;\*NEW!**
+##### **2024 Primary 1 Matters&nbsp;\*NEW!**
 
-*   [2023 P1 Links &amp; Downloads](https://go.gov.sg/jyps2023p1)
+*   [2023 P1 Links &amp; Downloads](https://go.gov.sg/jyps2024p1)
 
 ##### **SLS&nbsp;NEW!\***
 
