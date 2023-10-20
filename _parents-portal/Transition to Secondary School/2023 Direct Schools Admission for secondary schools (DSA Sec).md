@@ -1,12 +1,12 @@
 ---
-title: 2022 Direct Schools Admission for secondary schools (DSA Sec)
-permalink: /parents-portal/Transition-to-Secondary-School/permalink/
+title: 2023 Direct Schools Admission for secondary schools (DSA Sec)
+permalink: /parents-portal/transition-to-secondary-school/permalink/
 description: ""
 third_nav_title: Transition to Secondary School
 ---
 ![](/images/banner.gif)
 
-2022 Direct Schools Admission for secondary schools (DSA-Sec)
+2023 Direct Schools Admission for secondary schools (DSA-Sec)
 =============================================================
 
 
@@ -18,4 +18,4 @@ We wish to highlight that DSA is a commitment on the part of both the student an
 
   
 
-Do visit the MOE website for information on the 2021 DSA-Sec talent areas, application process and timeline ([www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec)).
+Do visit the MOE website for information on the 2023 DSA-Sec talent areas, application process and timeline ([www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec)).
