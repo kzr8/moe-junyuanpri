@@ -84,8 +84,8 @@ Mathematics is a hierarchical subject, where higher concepts and skills are buil
 | A | B | C |
 |:---:|:---:|:---:|
 | GOLD<br><img style="width:30%" src="/images/trophy.png"> | WANG JIAN ZHUO JAYDEN | P6 RESPONSIBILITY |
-| BRONZE<br><img style="width:30%" src="/images/trophy.png"> | MUHAMMAD SYUAIB BIN SULAIMAN<br><br>MUHAMMAD HAIQEL GAVIN BIN MUHAMMAD HERMAN<br><br>ZAC TOH JOON KUANG (ZHUO JUNKUANG)<br><br>LU YU AN<br><br>TAY DING HAN<br><br>LI YISHAN<br><br>ROSHAN S/O PRAGAS<br><br>SANDHU EKAM SINGH | P4 RESPECT<br><br>P4 RESPONSIBILITY<br><br>P4 RESPONSIBILITY<br><br>P5 INTEGRITY<br><br>P5 CARE<br><br>P6 RESPECT<br><br>P6 RESPECT<br><br>P6 RESPECT |
-| HONOURABLE MENTION | LIM KYLER<br><br>DENG XIAOTONG | P4 RESPONSIBILITY<br><br>P6 RESPECT |
+| BRONZE<br><img style="width:30%" src="/images/trophy.png"> | MUHAMMAD SYUAIB BIN SULAIMAN<br><br>MUHAMMAD HAIQEL GAVIN BIN MUHAMMAD HERMAN<br><br>ZAC TOH JOON KUANG <br>(ZHUO JUNKUANG)<br><br>LU YU AN<br><br>TAY DING HAN<br><br>LI YISHAN<br><br>ROSHAN S/O PRAGAS<br><br>SANDHU EKAM SINGH | P4 RESPECT<br><br>P4 RESPONSIBILITY<br><br>P4 RESPONSIBILITY<br><br>P5 INTEGRITY<br><br>P5 CARE<br><br>P6 RESPECT<br><br>P6 RESPECT<br><br>P6 RESPECT |
+| HONOURABLE MENTION | LIM KYLER<br><br><br>DENG XIAOTONG | P4 RESPONSIBILITY<br><br>P6 RESPECT |
 
 **Raffles Institution Primary Mathematics World Contest (RIPMWC) 2023**
 
