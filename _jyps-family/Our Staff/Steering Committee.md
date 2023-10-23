@@ -9,7 +9,7 @@ third_nav_title: Our Staff
 Steering Committee
 ==================
 
-### PRINCIPAL & VICE-PRINCIPALS
+### PRINCIPAL &amp; VICE-PRINCIPALS
 
 <table class="tg">
   <thead>
@@ -21,6 +21,10 @@ Steering Committee
   <tbody>
     <tr>
       <td class="tg-yp4s">Mrs Jenny Lai</td>
+      <td class="tg-yp4s">VP-Academic</td>
+    </tr>
+		<tr>
+      <td class="tg-yp4s">Mrs Audrea Chin</td>
       <td class="tg-yp4s">VP-Academic</td>
     </tr>
     <tr>
@@ -139,7 +143,7 @@ Steering Committee
         Mdm Nurul Syahidah Bte Rahmat<br>
         <a href="mailto:nurul_syahidah_rahmat@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">nurul_syahidah_rahmat@moe.edu.sg</span></a><br>
       </td>
-      <td class="tg-lyvw">SH-PE & CCA<br></td>
+      <td class="tg-lyvw">SH-PE &amp; CCA<br></td>
     </tr>
     <tr>
       <td class="tg-yp4s">

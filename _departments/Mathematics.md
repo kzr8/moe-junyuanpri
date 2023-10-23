@@ -65,6 +65,39 @@ Mathematics is a hierarchical subject, where higher concepts and skills are buil
 
 ##### **The school is proud to share the following achievements:**
 
+**Asia Pacific Mathematical Olympiad For Primary Schools (APMOPS) 2023**
+
+| A | B | C |
+|:---:|:---:|:---:|
+| SILVER<br><img style="width:30%" src="/images/trophy.png"> | WANG JIAN ZHUO JAYDEN | P6 CARE |
+| BRONZE<br><img style="width:30%" src="/images/trophy.png"> | LI YISHAN | P6 RESPECT |
+
+**Visual Spatial Mathlympics 2023**
+
+| A | B | C |
+|:---:|:---:|:---:|
+| GOLD<br><img style="width:30%" src="/images/trophy.png"> | WANG JIAN ZHUO JAYDEN | P6 CARE |
+| SILVER<br><img style="width:30%" src="/images/trophy.png"> | LI YISHAN | P6 RESPECT |
+
+**Singapore &amp; Asian Schools Math Olympiad (SASMO) 2023**
+
+| A | B | C |
+|:---:|:---:|:---:|
+| GOLD<br><img style="width:30%" src="/images/trophy.png"> | WANG JIAN ZHUO JAYDEN | P6 CARE |
+| BRONZE<br><img style="width:30%" src="/images/trophy.png"> | MUHAMMAD SYUAIB BIN SULAIMAN<br><br>MUHAMMAD HAIQEL GAVIN BIN MUHAMMAD HERMAN<br><br>ZAC TOH JOON KUANG <br>(ZHUO JUNKUANG)<br><br>LU YU AN<br><br>TAY DING HAN<br><br>LI YISHAN<br><br>ROSHAN S/O PRAGAS<br><br>SANDHU EKAM SINGH | P4 RESPECT<br><br>P4 RESPONSIBILITY<br><br>P4 RESPONSIBILITY<br><br>P5 INTEGRITY<br><br>P5 CARE<br><br>P6 RESPECT<br><br>P6 RESPECT<br><br>P6 RESPECT |
+| HONOURABLE MENTION | LIM KYLER<br><br><br>DENG XIAOTONG | P4 RESPONSIBILITY<br><br>P6 RESPECT |
+
+**Raffles Institution Primary Mathematics World Contest (RIPMWC) 2023**
+
+| AWARD | NAME | CLASS |
+|:---:|:---:|:---:|
+| CERTIFICATE OF DISTINCTION | LU YU AN <br><br>SALAZAR GABRIEL SAYAM| P5 INTEGRITY <br><br>P4 RESPONSIBILITY|
+
+**National Mathematical Olympiad of Singapore (NMOS) 2023**
+
+| AWARD | NAME | CLASS |
+|:---:|:---:|:---:|
+| HONOURABLE MENTION | NADYRE BINTE MOHAMMAD SIDIQ <br><br>TAY DING HAN<br><br>WU HANXIANG, ELIJAH| P5 RESILIENCE <br><br>P5 CARE<br><br>P5 INTEGRITY|
 
 **VS Mathlympics 2022**
 
