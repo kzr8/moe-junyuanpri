@@ -84,7 +84,7 @@ EAS &amp; Support Staff
     <td class="tg-0lj4"> Desktop Engineer<br></td>
   </tr>
   <tr>
-    <td class="tg-0lj4"> Mr Muhammad Amirul Hakim Bin Ibrahim </td>
+    <td class="tg-0lj4"> Mr Balaji Naidu S/O Sehkar Naidu </td>
     <td class="tg-0lj4"> Desktop Engineer</td>
   </tr>
   <tr>
