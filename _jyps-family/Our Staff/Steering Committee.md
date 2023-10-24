@@ -124,6 +124,13 @@ Steering Committee
       </td>
       <td class="tg-lyvw">Assistant Year Head</td>
     </tr>
+		 <tr>
+      <td class="tg-lyvw">
+        Mdm Ong Melissa<br>
+        <a href="mailto:ong_melissa@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">ong_melissa@moe.edu.sg</span></a>
+      </td>
+      <td class="tg-lyvw">Assistant Year Head</td>
+    </tr>
     <tr>
       <td class="tg-yp4s">
         Mdm Siti Shahrina Bte Rahmat<br>
