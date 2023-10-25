@@ -9,7 +9,6 @@ third_nav_title: Transition to Secondary School
 2023 E-Invitations from Secondary Schools
 =========================================
 
-#### **Junyuan Secondary School - 18 Nov 2023**
-
-**Saturday 18 November 2023 from  8.00a.m. to 12.30p.m.**
+###  **Junyuan Secondary School - 18 Nov 2023**
+##### **Saturday 18 November 2023 from  8.00a.m. to 12.30p.m.**
 ![](/images/2023%20jyss%20banner%20final.png)
