@@ -16,7 +16,7 @@ Downloads &amp; Links
 
 ##### **2024 Primary 1 Matters&nbsp;\*NEW!**
 
-*   [undefined](https://go.gov.sg/jyps2024p1)2024 P1 Links &amp; Downloads
+*   [2024 P1 Links &amp; Downloads](https://go.gov.sg/jyps2024p1)
 
 ##### **SLS&nbsp;NEW!\***
 
