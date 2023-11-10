@@ -7,5 +7,3 @@ description: ""
 K1 Orientation 2023
 ===============
 
-MK Briefing Slides
-KCare Briefing Slides
