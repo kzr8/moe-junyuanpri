@@ -2,8 +2,8 @@ collections:
   mk-at-junyuan:
     output: true
     order:
-      - K1 Orientation 2023.md
       - Announcements.md
       - MK Registration.md
+      - K1 Orientation 2023.md
       - Staff List.md
       - Media Release.md
