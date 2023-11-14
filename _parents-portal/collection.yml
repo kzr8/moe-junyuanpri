@@ -1,0 +1,36 @@
+collections:
+  parents-portal:
+    output: true
+    order:
+      - Announcements.md
+      - JYPS Bulletin.md
+      - Essential Contacts/.keep
+      - Essential Contacts/School Bookshop.md
+      - Essential Contacts/School Bus Services.md
+      - Essential Contacts/Student Care Services.md
+      - Essential Contacts/School Dental Clinic.md
+      - Essential Contacts/School Uniform Vendor.md
+      - Downloads & Links.md
+      - Road Safety of Students.md
+      - Parents' Guide to HBL or Online Learning.md
+      - Methodist Welfare Services Family Support Programme.md
+      - Cyber Wellness.md
+      - Student Learning Space (SLS).md
+      - Modern Parent Series.md
+      - Relating To Your Child/.keep
+      - Relating To Your Child/Relating To Your Child.md
+      - Relating To Your Child/How To Help My Child Relax?.md
+      - Relating To Your Child/How To Help Your Child Beat Exam Stress.md
+      - Relating To Your Child/Praise Your Child Today!.md
+      - Relating To Your Child/What To Do If My Child Is Stressed?.md
+      - PSG.md
+      - Health Promotion Board (HPB) Resources.md
+      - Financial Assistance Scheme (FAS).md
+      - Transition to Secondary School/.keep
+      - Transition to Secondary School/My Secondary School Education Journey.md
+      - Transition to Secondary School/2023 E Invitations from Secondary
+        Schools.md
+      - Transition to Secondary School/2023 Direct Schools Admission for
+        secondary schools (DSA Sec).md
+      - Transition to Secondary School/Stay In Touch.md
+      - Parents' Guide Book for Primary School Mother Tongue Curriculum.md

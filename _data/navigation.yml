@@ -1,0 +1,39 @@
+logo: /images/logo.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: JYPS Family
+    collection: jyps-family
+  - title: Departments
+    url: /departments/English-Language/
+    sublinks:
+      - title: English Language
+        url: /departments/English-Language/
+      - title: Mathematics
+        url: /departments/Mathematics/
+      - title: Science
+        url: /departments/Science/Science/
+      - title: Chinese Language
+        url: /departments/Chinese-Language/
+      - title: Malay Language
+        url: /departments/Malay-Language/
+      - title: Tamil Language
+        url: /departments/Tamil-Language/
+      - title: Character & Citizenship
+        url: /departments/cce/
+      - title: Physical Education
+        url: /departments/Physical-Education/
+      - title: InfoComm Technology
+        url: /departments/Information-and-Communications-Technology/
+      - title: Aesthetics
+        url: /departments/Aesthetics/
+      - title: Media Resource Library
+        url: /departments/Media-Resource-Library/
+  - title: CCA
+    collection: cca
+  - title: MK@JUNYUAN
+    collection: mk-at-junyuan
+  - title: Parents' Portal
+    collection: parents-portal
+  - title: JYPS Kids Cafe
+    url: https://jyps-kids-cafe.learn-at-jyps.sg/

@@ -1,0 +1,6 @@
+collections:
+  jps:
+    output: true
+    order:
+      - Privacy Policy.md
+      - Terms of Use.md

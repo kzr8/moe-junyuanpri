@@ -1,0 +1,18 @@
+collections:
+  departments:
+    output: true
+    order:
+      - English Language.md
+      - Mathematics.md
+      - Science/.keep
+      - Science/Science.md
+      - Science/Learning Journeys.md
+      - Science/Competition.md
+      - Science/Events & Workshop.md
+      - Chinese Language.md
+      - Malay Language.md
+      - Tamil Language.md
+      - Physical Education.md
+      - Information & Communications Technology.md
+      - Aesthetics.md
+      - Media Resource Library.md
