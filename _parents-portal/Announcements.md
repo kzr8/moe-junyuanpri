@@ -2,11 +2,16 @@
 title: Announcements
 permalink: /parents-portal/Announcements/
 description: ""
+variant: markdown
 ---
 ![](/images/banner.gif)
 
 Announcements
 =============
+
+### JYPS 35th Anniversary Coffeetable e-Book&nbsp; !New
+
+
 
 ### JYPS Virtual Open House 2023&nbsp; !New
 
