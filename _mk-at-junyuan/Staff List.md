@@ -2,6 +2,7 @@
 title: Staff List
 permalink: /mk-at-junyuan/Staff-List/
 description: ""
+variant: markdown
 ---
 ![](/images/banner.gif)
 
@@ -92,11 +93,6 @@ Staff List
     <td class="tg-ncov"> Ms Nur Syafiqah Binte Mazlan</td>
     <td class="tg-ncov"> K1 Malay Language Teacher </td>
     <td class="tg-ncov">  <span style="text-decoration:underline;color:#A52023">nur_syafiqah_mazlan@moe.edu.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ncov"> Mdm Nor Azlindah Binte Ithnin</td>
-    <td class="tg-ncov">K1 &amp; K2 Malay Language Teacher </td>
-    <td class="tg-1jrd"><span style="text-decoration:underline;color:#A52023">nor_azlindah_ithnin@moe.edu.sg</span> </td>
   </tr>
   <tr>
     <td class="tg-ncov"> Miss Waheeda Jabeen Binte Jamal Mohd</td>

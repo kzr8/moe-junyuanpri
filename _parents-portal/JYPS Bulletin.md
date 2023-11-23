@@ -2,6 +2,7 @@
 title: JYPS Bulletin
 permalink: /parents-portal/JYPS-Bulletin/
 description: ""
+variant: markdown
 ---
 ![](/images/banner.gif)
 
@@ -19,4 +20,4 @@ JYPS Bulletin
 [August](/files/august_bulletin_2023_for%20circulation%20updated.pdf) ([HPB Event Registration Guide](/files/hpb%20event%20registration%20guide.pdf), [Addendum to bulletin](/files/addendum%20to%20the%20jyps%20bulletin%20(august%20issue).pdf))<br>
 [September](/files/sep_bulletin_2023_for%20circulation.pdf)<br>
 [October](/files/october_bulletin%20_2023_for%20circulation.pdf)<br>
-[November](/files/november_bulletin_2023_for%20circulation_updated.pdf) ([MoneySense Financial Literacy Programme and Post-PSLE Enrichment](/files/moneysense%20financial%20literacy%20programme%20and%20post%20psle%20enrichment.pdf), [Joint Year-End School Holiday Advisory](/files/joint%20school_primary%20infographic.pdf)
+[November](/files/november_bulletin_2023_for%20circulation_updated.pdf) ([MoneySense Financial Literacy Programme and Post-PSLE Enrichment](/files/moneysense%20financial%20literacy%20programme%20and%20post%20psle%20enrichment.pdf), [Joint Year-End School Holiday Advisory](/files/joint%20school_primary%20infographic.pdf))
