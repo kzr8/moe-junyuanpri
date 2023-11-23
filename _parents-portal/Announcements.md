@@ -11,7 +11,7 @@ Announcements
 
 ### JYPS 35th Anniversary Coffeetable e-Book&nbsp; !New
 
-
+Click [here](https://drive.google.com/file/d/1gkwvfmR3U4kQIjAPnKtO4IKkWfjHOHoo/view?usp=sharing) &nbsp;to access the 35th Anniversary Coffeetable e-Book.
 
 ### JYPS Virtual Open House 2023&nbsp; !New
 
