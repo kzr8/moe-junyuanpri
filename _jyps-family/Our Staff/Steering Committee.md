@@ -37,6 +37,13 @@ Steering Committee
 
 <table class="tg">
   <thead>
+		  <tr>
+      <td class="tg-yp4s">
+        Mdm Waheeda Bte Abd Kadir<br>
+        <a href="mailto:waheeda_abdul_kadir@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">waheeda_abdul_kadir@moe.edu.sg</span></a><br>
+      </td>
+      <td class="tg-yp4s">School Staff Developer</td>
+    </tr>
     <tr>
       <td class="tg-yp4s">
         Mdm Noorazlina Bte Mad Shah<br>
@@ -163,19 +170,26 @@ Steering Committee
       </td>
       <td class="tg-lyvw">SH-PE &amp; CCA<br></td>
     </tr>
+		<tr>
+      <td class="tg-yp4s">
+        Mdm Lim Celia<br>
+        <a href="mailto:Lim_celia@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">lim_celia@moe.edu.sg</span></a><br>
+      </td>
+      <td class="tg-lyvw">SH-Info Comm Technology<br></td>
+    </tr>
+		<tr>
+      <td class="tg-yp4s">
+        Miss Chan Audrey<br>
+        <a href="mailto:chan_audrey@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">chan_audrey@moe.edu.sg</span></a><br>
+      </td>
+      <td class="tg-lyvw">SH-Innovation<br></td>
+    </tr>
     <tr>
       <td class="tg-yp4s">
         Miss Khairunnisha Bte Abdullah<br>
         <a href="mailto:khairunnisha_abdullah@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">khairunnisha_abdullah@moe.edu.sg</span></a><br>
       </td>
       <td class="tg-yp4s">LH-English Language</td>
-    </tr>
-    <tr>
-      <td class="tg-yp4s">
-        Mdm Waheeda Bte Abd Kadir<br>
-        <a href="mailto:waheeda_abdul_kadir@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">waheeda_abdul_kadir@moe.edu.sg</span></a><br>
-      </td>
-      <td class="tg-yp4s">LH-English Language (Covering SSD)</td>
     </tr>
     <tr>
       <td class="tg-lyvw">
