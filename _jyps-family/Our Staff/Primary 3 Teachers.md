@@ -45,8 +45,8 @@ Primary 3 Teachers
   </tr>
   <tr>
     <td class="tg-0lj4"> P3 Resilience</td>
-    <td class="tg-0lj4"> Mdm Wong Sze Yeun (Mrs Sarah Quek)<br> <a href="mailto:wong_sze_yeun@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">wong_sze_yeun@moe.edu.sg</span></a></td>
-    <td class="tg-0lj4"> Mrs Marisa De Almeida<br> <a href="mailto:marisa_de_almeida@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">marisa_de_almeida@moe.edu.sg</span></a></td>
+    <td class="tg-0lj4"> Mdm Lee Jia Woei Sharon (Mrs Chia)<br> <a href="mailto:lee_jia_woei@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">lee_jia_woei@moe.edu.sg</span></a></td>
+    <td class="tg-0lj4"> Mrs Selvarajoo Selvi<br> <a href="mailto:selvarajoo_selvi@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">selvarajoo_selvi@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-que8"> P3 Integrity</td>
