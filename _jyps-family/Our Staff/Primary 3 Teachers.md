@@ -3,6 +3,7 @@ title: Primary 3 Teachers
 permalink: /jyps-family/Our-Staff/Primary-3-Teachers/
 description: ""
 third_nav_title: Our Staff
+variant: markdown
 ---
 ![](/images/banner.gif)
 
@@ -34,12 +35,12 @@ Primary 3 Teachers
   </tr>
   <tr>
     <td class="tg-0lj4"> P3 Respect</td>
-    <td class="tg-0lj4"> Mdm Foo Ming Peow (Mrs Chua)<br> <a href="mailto:foo_ming_peow@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">foo_ming_peow@moe.edu.sg</span></a></td>
-    <td class="tg-0lj4"> Mr Murugesu s/o Samarasan<br> <a href="mailto:murugesu_samarasan@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">murugesu_samarasan@moe.edu.sg</span></a></td>
+    <td class="tg-0lj4"> Mdm Lim Hui Ling Cynthia (Mrs Chu)<br> <a href="mailto:lim_hui_ling_cynthia@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">lim_hui_ling_cynthia@moe.edu.sg</span></a></td>
+    <td class="tg-0lj4"> Mdm Soh Eng Wee<br> <a href="mailto:soh_eng_wee@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">soh_eng_wee@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-0lj4"> P3 Responsibility </td>
-    <td class="tg-0lj4"> Mr Sim Poh Meng Joseph<br> <a href="mailto:sim_poh_meng_joseph@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">sim_poh_meng_joseph@moe.edu.sg</span></a> </td>
+    <td class="tg-0lj4"> Mr Khairul Anwar Bin Kamaruddin<br> <a href="mailto:khairul_anwar_kamaruddin@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">khairul_anwar_kamaruddin@moe.edu.sg</span></a> </td>
     <td class="tg-0lj4"> Mdm Noor Aishah Bte Abu Bakar<br> <a href="mailto:noor_aishah_abu_bakar@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">noor_aishah_abu_bakar@moe.edu.sg</span></a> </td>
   </tr>
   <tr>
