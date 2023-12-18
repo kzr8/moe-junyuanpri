@@ -3,6 +3,7 @@ title: Primary 1 Teachers
 permalink: /jyps-family/Our-Staff/Primary-1-Teachers/
 description: ""
 third_nav_title: Our Staff
+variant: markdown
 ---
 ![](/images/banner.gif)
 
@@ -36,7 +37,7 @@ Primary 1 Teachers
     <td class="tg-lpmw" colspan="2">Form Teachers</td>
   </tr>
   <tr>
-    <td class="tg-0lj4"> P1 Respect</td>
+    <td class="tg-0lj4"> P1-1</td>
     <td class="tg-0lj4"> Mdm Norainy Bte Jailani<br> <a href="mailto:norainy_jailani@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">norainy_jailani@moe.edu.sg</span></a> </td>
     <td class="tg-0lj4"> Mdm Chiang Chih-Yi Patricia<br> <a href="mailto:chiang_chih-yi_patricia@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">chiang_chih-yi_patricia@moe.edu.sg</span></a> </td>
   </tr>
