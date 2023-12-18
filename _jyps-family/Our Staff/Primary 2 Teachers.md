@@ -46,8 +46,8 @@ Primary 2 Teachers
   </tr>
   <tr>
     <td class="tg-que8"> P2 Resilience</td>
-    <td class="tg-0lj4"> Mdm Kam Jiewen (Mrs Angela Chin)<br> <a href="mailto:kam_jiewen@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">kam_jiewen@moe.edu.sg</span></a><br></td>
-    <td class="tg-que8"> Mdm Siti Shahrina Bte Rahmat<br> <a href="mailto:siti_shahrina_rahmat@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">siti_shahrina_rahmat@moe.edu.sg</span></a><br></td>
+    <td class="tg-0lj4"> Mdm Woon Mui Chuan Josephine (Mrs Lee)<br> <a href="mailto:woon_mui_chuan_josephine@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">woon_mui_chuan_josephine@moe.edu.sg</span></a><br></td>
+    <td class="tg-que8"> Mdm Tan Jen Yin<br> <a href="mailto:tan_jen_yin@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">tan_jen_yin@moe.edu.sg</span></a><br> Mdm Ruziah Binte Ali<br> <a href="mailto:ruziah_ali@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">ruziah_ali@moe.edu.sg</span></a> </td>
   </tr>
   <tr>
     <td class="tg-que8"> P2 Integrity</td>
