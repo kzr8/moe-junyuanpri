@@ -47,9 +47,9 @@ Primary 1 Teachers
     <td class="tg-0lj4"> Mdm Nadhirah Parveen<br> <a href="mailto:nadhirah_parveen@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">nadhirah_parveen@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-0lj4"> P1 Resilience </td>
-    <td class="tg-0lj4"> Mdm Woon Mui Chuan Josephine (Mrs Lee)<br> <a href="mailto:woon_mui_chuan_josephine@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">woon_mui_chuan_josephine@moe.edu.sg</span></a><br></td>
-    <td class="tg-0lj4"> Mdm Tan Jen Yin<br> <a href="mailto:tan_jen_yin@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">tan_jen_yin@moe.edu.sg</span></a>  <br> Mrs Selvarajoo Selvi<br> <a href="mailto:selvarajoo_selvi@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">selvarajoo_selvi@moe.edu.sg</span></a><br></td>
+    <td class="tg-0lj4"> P1-3 </td>
+    <td class="tg-0lj4"> Mdm Kam Jiewen (Mrs Angela Chin)<br> <a href="mailto:kam_jiewen@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">kam_jiewen@moe.edu.sg</span></a><br></td>
+    <td class="tg-0lj4"> Mdm Siti Shahrina Bte Rahmat<br> <a href="mailto:siti_shahrina_rahmat@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">siti_shahrina_rahmat@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-0lj4"> P1 Integrity     </td>
