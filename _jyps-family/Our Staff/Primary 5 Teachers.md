@@ -3,6 +3,7 @@ title: Primary 5 Teachers
 permalink: /jyps-family/Our-Staff/Primary-5-Teachers/
 description: ""
 third_nav_title: Our Staff
+variant: markdown
 ---
 ![](/images/banner.gif)
 
@@ -34,8 +35,8 @@ Primary 5 Teachers
   </tr>
   <tr>
     <td class="tg-que8"> P5 Respect</td>
-    <td class="tg-que8"> Mrs Widdy Haryanti Tey<br> <a href="mailto:widdy_haryanti_srisungkouu@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">widdy_haryanti_srisungkouu@moe.edu.sg</span></a><br></td>
-    <td class="tg-que8"> Mdm Teo Soh Wah (Mrs Chan)<br> <a href="mailto:teo_soh_wah@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">teo_soh_wah@moe.edu.sg</span></a><br></td>
+    <td class="tg-que8"> Miss Goh Mei Ling<br> <a href="mailto:goh_mei_ling_a@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">goh_mei_ling_a@moe.edu.sg</span></a><br></td>
+    <td class="tg-que8"> Mdm Nur Liyana Bte Amrun<br> <a href="mailto:nur_liyana_amrun@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">nur_liyana_amrun@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-que8"> P5 Responsibility</td>
