@@ -3,6 +3,7 @@ title: Primary 2 Teachers
 permalink: /jyps-family/Our-Staff/Primary-2-Teachers/
 description: ""
 third_nav_title: Our Staff
+variant: markdown
 ---
 ![](/images/banner.gif)
 
@@ -35,8 +36,8 @@ Primary 2 Teachers
   </tr>
   <tr>
     <td class="tg-0lj4"> P2 Respect</td>
-    <td class="tg-0lj4"> Mdm Subiati Bte Cromo<br> <a href="mailto:subiati_cromo@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">subiati_cromo@moe.edu.sg</span></a> </td>
-    <td class="tg-0lj4"> Mr Khoo Kang Ming Terence<br> <a href="mailto:khoo_kang_ming@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">khoo_kang_ming@moe.edu.sg</span></a> </td>
+    <td class="tg-0lj4"> Mdm Norainy Bte Jailani<br> <a href="mailto:norainy_jailani@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">norainy_jailani@moe.edu.sg</span></a> </td>
+    <td class="tg-0lj4"> Mdm Chiang Chih-Yi Patricia<br> <a href="mailto:chiang_chih-yi_patricia@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">chiang_chih-yi_patricia@moe.edu.sg</span></a><br> Mdm Shirley Chua<br> <a href="mailto:chua_shirley@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">chua_shirley@moe.edu.sg</span></a> </td>
   </tr>
   <tr>
     <td class="tg-que8"> P2 Responsibility </td>
