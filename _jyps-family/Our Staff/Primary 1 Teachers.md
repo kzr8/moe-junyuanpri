@@ -42,9 +42,9 @@ Primary 1 Teachers
     <td class="tg-0lj4"> Miss Magdalene Lim<br> <a href="mailto:magdalene_lim@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">magdalene_lim@moe.edu.sg</span></a><br> Mdm De Souza Valerie Jean<br> <a href="mailto:de_souza_valerie_jean@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">de_souza_valerie_jean@moe.edu.sg</span></a><br> </td>
   </tr>
   <tr>
-    <td class="tg-0lj4"> P1 Responsibility</td>
-    <td class="tg-0lj4"> Mdm Hadlia Bte Jamil<br> <a href="mailto:hadlia_jamil@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">hadlia_jamil@moe.edu.sg</span></a></td>
-    <td class="tg-0lj4"> Mdm Sim Hui Hui<br> <a href="mailto:sim_hui_hui@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">sim_hui_hui@moe.edu.sg</span></a></td>
+    <td class="tg-0lj4"> P1-2</td>
+    <td class="tg-0lj4"> Mdm Jurieni Bte Bahrom<br> <a href="mailto:jurieni_bahrom@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">jurieni_bahrom@moe.edu.sg</span></a></td>
+    <td class="tg-0lj4"> Mdm Nadhirah Parveen<br> <a href="mailto:nadhirah_parveen@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">nadhirah_parveen@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-0lj4"> P1 Resilience </td>
