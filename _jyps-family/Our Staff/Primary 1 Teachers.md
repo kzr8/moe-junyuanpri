@@ -52,9 +52,9 @@ Primary 1 Teachers
     <td class="tg-0lj4"> Mdm Siti Shahrina Bte Rahmat<br> <a href="mailto:siti_shahrina_rahmat@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">siti_shahrina_rahmat@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-0lj4"> P1 Integrity     </td>
-    <td class="tg-0lj4"> Mdm Loo Chin Imm<br> <a href="mailto:loo_chin_imm@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">loo_chin_imm@moe.edu.sg</span></a><br></td>
-    <td class="tg-0lj4"> Mdm Hafidzoh Sirri Bte Sajani<br> <a href="mailto:hafidzoh_sirri_sajani@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">hafidzoh_sirri_sajani@moe.edu.sg</span></a><br></td>
+    <td class="tg-0lj4"> P1-4 </td>
+    <td class="tg-0lj4"> Mdm Chua Kar Yan (Mrs Chow)<br> <a href="mailto:chua_kar_yan@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">chua_kar_yan@moe.edu.sg</span></a><br></td>
+    <td class="tg-0lj4"> Mdm Norlinda Bte Saadon<br> <a href="mailto:norlinda_saadon@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">norlinda_saadon@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-0lj4"> P1 Care </td>
