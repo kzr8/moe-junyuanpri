@@ -41,8 +41,8 @@ Primary 2 Teachers
   </tr>
   <tr>
     <td class="tg-que8"> P2 Responsibility </td>
-    <td class="tg-0lj4"> Mdm Jurieni Bte Bahrom<br> <a href="mailto:jurieni_bahrom@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">jurieni_bahrom@moe.edu.sg</span></a> </td>
-    <td class="tg-0lj4"> Mdm Lim Mui Huay Jane<br> <a href="mailto:lim_mui_huay@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">lim_mui_huay@moe.edu.sg</span></a> </td>
+    <td class="tg-0lj4"> Mdm Hadlia Bte Jamil<br> <a href="mailto:hadlia_jamil@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">hadlia_jamil@moe.edu.sg</span></a> </td>
+    <td class="tg-0lj4"> Mdm Chin Whye Lin (Mrs Wang)<br> <a href="mailto:chin_whye_lin@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">chin_whye_lin@moe.edu.sg</span></a> </td>
   </tr>
   <tr>
     <td class="tg-que8"> P2 Resilience</td>
