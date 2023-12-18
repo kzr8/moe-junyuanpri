@@ -37,7 +37,7 @@ Primary 2 Teachers
   <tr>
     <td class="tg-0lj4"> P2 Respect</td>
     <td class="tg-0lj4"> Mdm Norainy Bte Jailani<br> <a href="mailto:norainy_jailani@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">norainy_jailani@moe.edu.sg</span></a> </td>
-    <td class="tg-0lj4"> Mdm Chiang Chih-Yi Patricia<br> <a href="mailto:chiang_chih-yi_patricia@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">chiang_chih-yi_patricia@moe.edu.sg</span></a><br> Mdm Shirley Chua<br> <a href="mailto:chua_shirley@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">chua_shirley@moe.edu.sg</span></a> </td>
+    <td class="tg-0lj4"> Mdm Chiang Chih-Yi Patricia<br> <a href="mailto:chiang_chih-yi_patricia@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">chiang_chih-yi_patricia@moe.edu.sg</span></a><br><br> Mdm Shirley Chua<br> <a href="mailto:chua_shirley@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">chua_shirley@moe.edu.sg</span></a> </td>
   </tr>
   <tr>
     <td class="tg-que8"> P2 Responsibility </td>
@@ -47,7 +47,7 @@ Primary 2 Teachers
   <tr>
     <td class="tg-que8"> P2 Resilience</td>
     <td class="tg-0lj4"> Mdm Woon Mui Chuan Josephine (Mrs Lee)<br> <a href="mailto:woon_mui_chuan_josephine@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">woon_mui_chuan_josephine@moe.edu.sg</span></a><br></td>
-    <td class="tg-que8"> Mdm Tan Jen Yin<br> <a href="mailto:tan_jen_yin@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">tan_jen_yin@moe.edu.sg</span></a><br> Mdm Ruziah Binte Ali<br> <a href="mailto:ruziah_ali@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">ruziah_ali@moe.edu.sg</span></a> </td>
+    <td class="tg-que8"> Mdm Tan Jen Yin<br> <a href="mailto:tan_jen_yin@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">tan_jen_yin@moe.edu.sg</span></a><br><br> Mdm Ruziah Binte Ali<br> <a href="mailto:ruziah_ali@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">ruziah_ali@moe.edu.sg</span></a> </td>
   </tr>
   <tr>
     <td class="tg-que8"> P2 Integrity</td>
@@ -67,12 +67,12 @@ Primary 2 Teachers
   <tr>
     <td class="tg-0lj4"> P2 Compassion</td>
     <td class="tg-0lj4"> Mdm Siti Hawa Bte Abdul Karim<br> <a href="mailto:siti_hawa_abdul_karim@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">siti_hawa_abdul_karim@moe.edu.sg</span></a></td>
-    <td class="tg-0lj4"> Mdm Poh Choon Tee<br> <a href="mailto:poh_choon_tee@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">poh_choon_tee@moe.edu.sg</span></a><br> Mrs Sharon Sharmini Gomez Daniel K&nbsp;<br> <a href="mailto:sharmini_sharon_gomez@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">sharmini_sharon_gomez@moe.edu.sg</span></a></td>
+    <td class="tg-0lj4"> Mdm Poh Choon Tee<br> <a href="mailto:poh_choon_tee@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">poh_choon_tee@moe.edu.sg</span></a><br><br> Mrs Sharon Sharmini Gomez Daniel K&nbsp;<br> <a href="mailto:sharmini_sharon_gomez@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">sharmini_sharon_gomez@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-0lj4"> P2 Excellence</td>
     <td class="tg-0lj4"> Mdm Ye Huilin (Mrs Tng)<br> <a href="mailto:ye_huilin@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">ye_huilin@moe.edu.sg</span></a></td>
-    <td class="tg-0lj4"> Mdm Nadhirah Bte Yusope<br> <a href="mailto:nadhirah_yusope@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">nadhirah_yusope@moe.edu.sg</span></a><br> Mdm Lee Poh Cheng<br> <a href="mailto:lee_poh_cheng@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">lee_poh_cheng@moe.edu.sg</span></a></td>
+    <td class="tg-0lj4"> Mdm Nadhirah Bte Yusope<br> <a href="mailto:nadhirah_yusope@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">nadhirah_yusope@moe.edu.sg</span></a><br><br> Mdm Lee Poh Cheng<br> <a href="mailto:lee_poh_cheng@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">lee_poh_cheng@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
 </table>
