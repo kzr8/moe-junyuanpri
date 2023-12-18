@@ -52,7 +52,7 @@ Primary 4 Teachers
   <tr>
     <td class="tg-que8"> P4 Integrity</td>
     <td class="tg-que8"> Mdm Rozana Bte Abdul Razak<br> <a href="mailto:rozana_abd_razak@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">rozana_abd_razak@moe.edu.sg</span></a><br></td>
-    <td class="tg-que8"> Mdm Sim Hui Hui<br> <a href="mailto:magdalene_lim@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">magdalene_lim@moe.edu.sg</span></a><br></td>
+    <td class="tg-que8"> Mdm Sim Hui Hui<br> <a href="mailto:sim_hui_hui@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">sim_hui_hui@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-que8"> P4 Care</td>
