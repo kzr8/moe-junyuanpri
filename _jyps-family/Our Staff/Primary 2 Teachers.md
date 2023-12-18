@@ -67,7 +67,7 @@ Primary 2 Teachers
   <tr>
     <td class="tg-0lj4"> P2 Compassion</td>
     <td class="tg-0lj4"> Mdm Siti Hawa Bte Abdul Karim<br> <a href="mailto:siti_hawa_abdul_karim@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">siti_hawa_abdul_karim@moe.edu.sg</span></a></td>
-    <td class="tg-0lj4"> Mdm Poh Choon Tee<br> <a href="mailto:poh_choon_tee@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">poh_choon_tee@moe.edu.sg</span></a><br> Mdm Chin Whye Lin (Mrs Wang)<br> <a href="mailto:chin_whye_lin@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">chin_whye_lin@moe.edu.sg</span></a></td>
+    <td class="tg-0lj4"> Mdm Poh Choon Tee<br> <a href="mailto:poh_choon_tee@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">poh_choon_tee@moe.edu.sg</span></a><br> Mrs Sharon Sharmini Gomez Daniel K&nbsp;<br> <a href="mailto:sharmini_sharon_gomez@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">sharmini_sharon_gomez@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-0lj4"> P2 Excellence</td>
