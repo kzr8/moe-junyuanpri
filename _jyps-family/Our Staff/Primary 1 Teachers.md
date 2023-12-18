@@ -62,9 +62,9 @@ Primary 1 Teachers
     <td class="tg-0lj4"> Mr Khoo Kang Ming Terence<br> <a href="mailto:khoo_kang_ming@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">khoo_kang_ming@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-0lj4"> P1 Harmony</td>
-    <td class="tg-0lj4"> Mdm Ong Melissa<br> <a href="mailto:ong_melissa@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">ong_melissa@moe.edu.sg</span></a><br></td>
-    <td class="tg-0lj4"> Mdm Rosnita Bte Hamid<br> <a href="mailto:rosnita_hamid@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">rosnita_hamid@moe.edu.sg</span></a><br> Mdm Nurul Syahidah Bte Rahmat<br> <a href="mailto:nurul_syahidah_rahmat@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">nurul_syahidah_rahmat@moe.edu.sg</span></a><br></td>
+    <td class="tg-0lj4"> P1-6</td>
+    <td class="tg-0lj4"> Mdm Rahilawati Bte Rahmat<br> <a href="mailto:rahilawati_rahmat@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">rahilawati_rahmat@moe.edu.sg</span></a><br></td>
+    <td class="tg-0lj4"> Mdm Chan Yen Ling Michelle (Mrs Ang)<br> <a href="mailto:chan_yen_ling_michelle@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">chan_yen_ling_michelle@moe.edu.sg</span></a><br> Mdm Zawiyah Bte Mohd Salleh<br> <a href="mailto:zawiyah_m_salleh@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">zawiyah_m_salleh@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-0lj4"> P1 Compassion<br></td>
