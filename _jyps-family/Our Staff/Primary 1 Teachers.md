@@ -57,14 +57,14 @@ Primary 1 Teachers
     <td class="tg-0lj4"> Mdm Norlinda Bte Saadon<br> <a href="mailto:norlinda_saadon@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">norlinda_saadon@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-0lj4"> P1 Care </td>
-    <td class="tg-0lj4"> Mdm Nur Hidayah Bte Mohamed Farook<br> <a href="mailto:nurhidayah_farook@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">nurhidayah_farook@moe.edu.sg</span></a><br></td>
-    <td class="tg-0lj4"> Miss Fatin Nadzirah Bte Zahari<br> <a href="mailto:fatin_nadzirah_zahari@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">fatin_nadzirah_zahari@moe.edu.sg</span></a>  <br> Mdm Nurul Syahidah Bte Rahmat<br> <a href="mailto:nurul_syahidah_rahmat@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">nurul_syahidah_rahmat@moe.edu.sg</span></a><br></td>
+    <td class="tg-0lj4"> P1-5 </td>
+    <td class="tg-0lj4"> Mdm Rosmawaty Bte Mohamed Saad<br> <a href="mailto:rosmawaty_mohamed_saad@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">rosmawaty_mohamed_saad@moe.edu.sg</span></a><br></td>
+    <td class="tg-0lj4"> Mr Khoo Kang Ming Terence<br> <a href="mailto:khoo_kang_ming@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">khoo_kang_ming@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-0lj4"> P1 Harmony</td>
     <td class="tg-0lj4"> Mdm Ong Melissa<br> <a href="mailto:ong_melissa@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">ong_melissa@moe.edu.sg</span></a><br></td>
-    <td class="tg-0lj4"> Mdm Rosnita Bte Hamid<br> <a href="mailto:rosnita_hamid@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">rosnita_hamid@moe.edu.sg</span></a><br></td>
+    <td class="tg-0lj4"> Mdm Rosnita Bte Hamid<br> <a href="mailto:rosnita_hamid@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">rosnita_hamid@moe.edu.sg</span></a><br> Mdm Nurul Syahidah Bte Rahmat<br> <a href="mailto:nurul_syahidah_rahmat@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">nurul_syahidah_rahmat@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-0lj4"> P1 Compassion<br></td>
