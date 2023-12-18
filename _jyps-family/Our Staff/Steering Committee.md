@@ -94,13 +94,6 @@ Steering Committee
       <td class="tg-yp4s">HOD-Student Management</td>
     </tr>
     <tr>
-      <td class="tg-yp4s">
-        Mr Kandesan s/o Ramasamy<br>
-        <a href="mailto:kandesan_ramasamy@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">kandesan_ramasamy@moe.edu.sg</span></a><br>
-      </td>
-      <td class="tg-yp4s">HOD-Student Management</td>
-    </tr>
-    <tr>
       <td class="tg-lyvw">
         Mr Mark Sum Yoong Wei<br>
         <a href="mailto:sum_yoong_wei_mark@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">sum_yoong_wei_mark@moe.edu.sg</span></a><br>
