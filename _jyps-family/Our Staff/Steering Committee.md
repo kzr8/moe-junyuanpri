@@ -137,7 +137,7 @@ Steering Committee
     </tr>
 		<tr>
       <td class="tg-lyvw">
-        Mdm Phua Li Min<br>
+        Mdm Phua Li Min (Mrs Tan)<br>
         <a href="mailto:phua_li_min@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">phua_li_min@moe.edu.sg</span></a>
       </td>
       <td class="tg-lyvw">Assistant Year Head</td>
@@ -165,7 +165,7 @@ Steering Committee
     </tr>
 		<tr>
       <td class="tg-yp4s">
-        Mdm Lim Celia<br>
+        Mdm Lim Celia (Mrs Yee)<br>
         <a href="mailto:Lim_celia@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">lim_celia@moe.edu.sg</span></a><br>
       </td>
       <td class="tg-lyvw">SH-Info Comm Technology<br></td>
