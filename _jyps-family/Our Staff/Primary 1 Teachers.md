@@ -38,8 +38,8 @@ Primary 1 Teachers
   </tr>
   <tr>
     <td class="tg-0lj4"> P1-1</td>
-    <td class="tg-0lj4"> Mdm Norainy Bte Jailani<br> <a href="mailto:norainy_jailani@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">norainy_jailani@moe.edu.sg</span></a> </td>
-    <td class="tg-0lj4"> Mdm Chiang Chih-Yi Patricia<br> <a href="mailto:chiang_chih-yi_patricia@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">chiang_chih-yi_patricia@moe.edu.sg</span></a> </td>
+    <td class="tg-0lj4"> Mdm Salamah Bte Massa'id<br> <a href="mailto:salamah_massaid@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">salamah_massaid@moe.edu.sg</span></a> </td>
+    <td class="tg-0lj4"> Miss Magdalene Lim<br> <a href="mailto:magdalene_lim@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">magdalene_lim@moe.edu.sg</span></a><br> Mdm De Souza Valerie Jean<br> <a href="mailto:de_souza_valerie_jean@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">de_souza_valerie_jean@moe.edu.sg</span></a><br> </td>
   </tr>
   <tr>
     <td class="tg-0lj4"> P1 Responsibility</td>
