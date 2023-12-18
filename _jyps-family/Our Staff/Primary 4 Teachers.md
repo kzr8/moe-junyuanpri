@@ -56,8 +56,13 @@ Primary 4 Teachers
   </tr>
   <tr>
     <td class="tg-que8"> P4 Care</td>
-    <td class="tg-que8"> Mr Ye Huankun Andre<br> <a href="mailto:ye_huankun_andre@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">ye_huankun_andre@moe.edu.sg</span></a><br></td>
-    <td class="tg-que8"> Mdm Rozana Bte Abdul Razak<br> <a href="mailto:rozana_abd_razak@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">rozana_abd_razak@moe.edu.sg</span></a><br> Mdm Sim Chew Yen Corinne Alethia (Mrs Teo)<br> <a href="mailto:sim_chew_yen@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">sim_chew_yen@moe.edu.sg</span></a></td>
+    <td class="tg-que8"> Mr Goh Wei Keong Kelvin<br> <a href="mailto:goh_wei_keong_kelvin@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">goh_wei_keong_kelvin@moe.edu.sg</span></a><br></td>
+    <td class="tg-que8"> Mdm Rozana Bte Mohamad Said<br> <a href="mailto:rozana_mohamad_said@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">rozana_mohamad_said@moe.edu.sg</span></a></td>
+  </tr>
+	  <tr>
+    <td class="tg-que8"> P4 Harmony</td>
+    <td class="tg-que8"> Mdm Lim Celia (Mrs Yee)<br> <a href="mailto:lim_celia@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">lim_celia@moe.edu.sg</span></a><br></td>
+    <td class="tg-que8"> Miss Low Ruilin Andralyn<br> <a href="mailto:low_ruilin_andralyn@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">low_ruilin_andralyn@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
 </table>
