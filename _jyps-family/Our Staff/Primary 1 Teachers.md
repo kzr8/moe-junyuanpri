@@ -39,7 +39,7 @@ Primary 1 Teachers
   <tr>
     <td class="tg-0lj4"> P1-1</td>
     <td class="tg-0lj4"> Mdm Salamah Bte Massa'id<br> <a href="mailto:salamah_massaid@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">salamah_massaid@moe.edu.sg</span></a> </td>
-    <td class="tg-0lj4"> Miss Magdalene Lim<br> <a href="mailto:magdalene_lim@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">magdalene_lim@moe.edu.sg</span></a><br> Mdm De Souza Valerie Jean<br> <a href="mailto:de_souza_valerie_jean@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">de_souza_valerie_jean@moe.edu.sg</span></a><br> </td>
+    <td class="tg-0lj4"> Miss Magdalene Lim<br> <a href="mailto:magdalene_lim@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">magdalene_lim@moe.edu.sg</span></a><br><br> Mdm De Souza Valerie Jean<br> <a href="mailto:de_souza_valerie_jean@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">de_souza_valerie_jean@moe.edu.sg</span></a><br> </td>
   </tr>
   <tr>
     <td class="tg-0lj4"> P1-2</td>
@@ -64,7 +64,7 @@ Primary 1 Teachers
   <tr>
     <td class="tg-0lj4"> P1-6</td>
     <td class="tg-0lj4"> Mdm Rahilawati Bte Rahmat<br> <a href="mailto:rahilawati_rahmat@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">rahilawati_rahmat@moe.edu.sg</span></a><br></td>
-    <td class="tg-0lj4"> Mdm Chan Yen Ling Michelle (Mrs Ang)<br> <a href="mailto:chan_yen_ling_michelle@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">chan_yen_ling_michelle@moe.edu.sg</span></a><br> Mdm Zawiyah Bte Mohd Salleh<br> <a href="mailto:zawiyah_m_salleh@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">zawiyah_m_salleh@moe.edu.sg</span></a><br></td>
+    <td class="tg-0lj4"> Mdm Chan Yen Ling Michelle (Mrs Ang)<br> <a href="mailto:chan_yen_ling_michelle@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">chan_yen_ling_michelle@moe.edu.sg</span></a><br><br> Mdm Zawiyah Bte Mohd Salleh<br> <a href="mailto:zawiyah_m_salleh@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">zawiyah_m_salleh@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-0lj4"> P1-7<br></td>
